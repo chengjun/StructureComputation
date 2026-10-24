@@ -1,0 +1,9449 @@
+﻿loc,births,deaths,z
+los angeles,695,4146,49.6
+hollywood,49,988,29.16
+paris,1720,3540,25.09
+"washington, d.c.",354,1372,24.5
+rome,527,1611,23.44
+santa monica,29,470,19.74
+moscow,475,1161,16.96
+munich,437,1077,16.45
+london,2005,3134,15.75
+burbank,11,188,12.55
+san diego,61,288,12.15
+palm springs,1,146,11.96
+madrid,259,597,11.55
+bethesda,3,142,11.54
+mexico city,154,423,11.2
+santa barbara,28,181,10.58
+göttingen,28,171,10.14
+los angeles county,21,154,10.05
+sherman oaks,1,102,9.95
+new york city,2677,3444,9.8
+tucson,21,147,9.72
+atlantic ocean,2,96,9.5
+encino,1,92,9.44
+tokyo,202,439,9.36
+north hollywood,2,93,9.34
+mumbai,79,244,9.18
+athens,144,343,9.02
+berlin,1198,1679,8.97
+jerusalem,36,162,8.95
+cambridge,67,218,8.94
+oxford,74,229,8.9
+ottawa,79,236,8.85
+van nuys,1,80,8.78
+palo alto,4,86,8.64
+helsinki,112,283,8.6
+bonn,64,203,8.51
+manhattan,140,323,8.5
+zagreb,83,228,8.22
+heidelberg,74,213,8.2
+glendale,23,121,8.17
+fort lauderdale,1,69,8.13
+sofia,38,148,8.07
+arlington county,6,81,8.04
+belgrade,93,238,7.97
+cannes,13,96,7.95
+newport beach,1,66,7.94
+la jolla,7,76,7.57
+austin,40,142,7.56
+houston,102,239,7.42
+vancouver,57,165,7.25
+englewood,10,76,7.12
+canberra,3,59,7.11
+stockholm,334,544,7.09
+zürich,118,255,7.09
+tübingen,31,117,7.07
+honolulu,85,205,7.05
+berkeley,32,118,7.02
+edmonton,24,100,6.83
+west palm beach,2,50,6.66
+santa fe,10,68,6.57
+nice,46,133,6.5
+sydney,233,393,6.39
+toronto,291,464,6.3
+florida,20,84,6.28
+victoria,31,103,6.22
+oslo,133,253,6.11
+princeton,38,113,6.1
+beijing,59,146,6.08
+culver city,5,50,6.07
+taipei,3,45,6.06
+orlando,12,65,6.04
+guadalcanal,1,38,5.92
+clearwater,3,43,5.9
+new delhi,6,50,5.88
+monte carlo,2,39,5.78
+bangkok,49,125,5.76
+raleigh,19,74,5.7
+carmel-by-the-sea,2,38,5.69
+brentwood,4,43,5.69
+tallahassee,6,47,5.63
+california,113,215,5.63
+albuquerque,18,71,5.62
+rio de janeiro,137,245,5.53
+neuilly-sur-seine,35,99,5.53
+baton rouge,21,75,5.51
+baden-baden,14,62,5.51
+reno,9,52,5.51
+bournemouth,20,73,5.5
+israel,9,51,5.42
+san antonio,76,159,5.41
+starnberg,1,32,5.4
+worthing,6,44,5.37
+chennai,56,129,5.37
+tel aviv,15,62,5.36
+dallas,107,201,5.36
+são paulo,76,156,5.25
+hove,10,51,5.25
+chapel hill,6,42,5.2
+garmisch-partenkirchen,3,35,5.19
+ventura,5,39,5.13
+islamabad,1,29,5.11
+charlottesville,18,64,5.08
+silver spring,6,40,5.01
+riverside,17,61,4.98
+freiburg,47,109,4.96
+tampa,26,75,4.88
+canoga park,1,26,4.81
+wiesbaden,48,108,4.8
+ankara,12,49,4.74
+surrey,32,82,4.68
+buenos aires,286,408,4.63
+karachi,19,60,4.61
+daytona beach,4,31,4.56
+volgograd,2,26,4.54
+stanford,6,35,4.53
+jena,31,78,4.5
+ojai,1,23,4.49
+darlinghurst,1,23,4.49
+oceanside,1,23,4.49
+ann arbor,23,65,4.48
+little rock,44,97,4.46
+nashville,102,175,4.39
+vero beach,1,22,4.38
+chichester,8,37,4.32
+huntington beach,2,24,4.31
+bradenton,2,24,4.31
+hong kong,41,90,4.28
+lugano,4,28,4.24
+brisbane,31,74,4.2
+lahore,42,90,4.18
+menlo park,1,20,4.15
+tower of london,1,20,4.15
+santa rosa,8,35,4.12
+brussels,167,251,4.11
+mount kisco,2,22,4.08
+colombo,27,66,4.04
+cuernavaca,4,26,4.02
+amman,4,26,4.02
+shreveport,38,82,4.02
+monrovia,4,26,4.02
+hemet,1,19,4.02
+santiago,90,152,3.99
+walnut creek,2,21,3.96
+chevy chase,2,21,3.96
+france,122,192,3.95
+long beach,39,82,3.91
+prague,384,500,3.9
+australia,44,89,3.9
+redwood city,1,18,3.9
+torrance,6,29,3.89
+san rafael,5,27,3.89
+jakarta,20,53,3.86
+beaconsfield,2,20,3.84
+atlanta,115,181,3.84
+winter park,2,20,3.84
+korea,9,34,3.81
+johannesburg,35,75,3.81
+oxnard,3,22,3.8
+coronado,3,22,3.8
+thiruvananthapuram,7,30,3.78
+encinitas,1,17,3.77
+ypres,5,26,3.77
+bucharest,121,187,3.76
+lausanne,37,77,3.75
+salzburg,40,81,3.73
+bogotá,46,89,3.7
+istanbul,183,261,3.7
+randwick,3,21,3.67
+the hague,156,228,3.67
+locarno,4,23,3.66
+santa cruz,6,27,3.66
+amityville,1,16,3.64
+wassenaar,1,16,3.64
+durham,38,77,3.64
+montreux,1,16,3.64
+solomon islands,1,16,3.64
+new canaan,1,16,3.64
+rottach-egern,1,16,3.64
+san luis obispo,1,16,3.64
+melbourne,162,234,3.62
+turkey,13,39,3.61
+costa mesa,2,18,3.58
+yangon,15,42,3.58
+monterey,15,42,3.58
+geneva,128,192,3.58
+soviet union,21,51,3.54
+salt lake city,151,219,3.54
+antibes,3,20,3.54
+claremont,5,24,3.53
+iraq,4,22,3.53
+virginia beach,1,15,3.5
+pompano beach,1,15,3.5
+state college,1,15,3.5
+westminster,59,103,3.46
+columbia,50,91,3.45
+venice,160,228,3.45
+ventura county,2,17,3.44
+lake forest,2,17,3.44
+corvallis,2,17,3.44
+concord,45,84,3.43
+bad godesberg,3,19,3.41
+torquay,16,42,3.41
+mesa,6,25,3.41
+henley-on-thames,3,19,3.41
+lubbock,13,37,3.39
+seattle,123,182,3.38
+murnau am staffelsee,1,14,3.36
+fairbanks,1,14,3.36
+petersfield,1,14,3.36
+warsaw,329,420,3.33
+mexico,47,85,3.31
+deland,2,16,3.3
+ocala,2,16,3.3
+towson,2,16,3.3
+mill valley,2,16,3.3
+chertsey,2,16,3.3
+mclean,2,16,3.3
+hilversum,6,24,3.29
+gainesville,23,51,3.25
+hot springs,9,29,3.24
+stamford,28,58,3.23
+bad nauheim,1,13,3.21
+vatican city,1,13,3.21
+hyères,1,13,3.21
+milan,279,360,3.2
+vietnam,6,23,3.16
+beirut,21,47,3.15
+manhasset,2,15,3.15
+fullerton,2,15,3.15
+coral gables,2,15,3.15
+norman,4,19,3.13
+saint-cloud,3,17,3.13
+greece,12,33,3.13
+bad reichenhall,3,17,3.13
+suresnes,3,17,3.13
+greenwich,46,81,3.11
+denmark,120,173,3.1
+eugene,8,26,3.09
+portland,190,255,3.08
+royal tunbridge wells,13,34,3.06
+plano,1,12,3.05
+gold coast,1,12,3.05
+cairo,88,133,3.03
+escondido,6,22,3.02
+montreal,265,339,3.01
+orange county,22,47,3.01
+london borough of camden,5,20,3.0
+singapore,27,54,3.0
+kuala lumpur,9,27,3.0
+hendersonville,2,14,3.0
+monza,3,16,2.98
+south pasadena,4,18,2.98
+weybridge,4,18,2.98
+landsberg am lech,4,18,2.98
+tempe,3,16,2.98
+st leonards-on-sea,3,16,2.98
+bad tölz,3,16,2.98
+monaco,11,30,2.97
+boulogne-billancourt,8,25,2.96
+halle,60,97,2.95
+bangalore,26,52,2.94
+lisbon,136,189,2.94
+fairfax,10,28,2.92
+erlangen,22,46,2.91
+ljubljana,35,64,2.91
+tutzing,1,11,2.89
+saipan,1,11,2.89
+laren,1,11,2.89
+haslemere,1,11,2.89
+lower hutt,1,11,2.89
+sanremo,6,21,2.89
+garches,1,11,2.89
+jupiter,1,11,2.89
+east hampton,6,21,2.89
+saint-raphaël,1,11,2.89
+eastbourne,16,37,2.88
+irvine,5,19,2.86
+manila,66,103,2.85
+bexhill-on-sea,2,13,2.84
+berchtesgaden,4,17,2.84
+fürstenfeldbruck,2,13,2.84
+needham,2,13,2.84
+metairie,2,13,2.84
+setagaya,2,13,2.84
+bærum,4,17,2.84
+greenwich village,2,13,2.84
+riverside county,3,15,2.83
+chatsworth,3,15,2.83
+san bernardino,17,38,2.83
+kensington palace,3,15,2.83
+kolkata,151,204,2.81
+calgary,30,56,2.8
+livingston,7,22,2.79
+blackpool,16,36,2.77
+perth,59,93,2.76
+saratoga springs,6,20,2.75
+anaheim,6,20,2.75
+marburg,26,50,2.75
+st john's wood,6,20,2.75
+san juan,42,71,2.73
+boise,19,40,2.73
+friedrichshafen,1,10,2.71
+largo,1,10,2.71
+loma linda,1,10,2.71
+abilene,1,10,2.71
+espoo,1,10,2.71
+burlingame,1,10,2.71
+nyack,5,18,2.71
+königstein im taunus,1,10,2.71
+freudenstadt,1,10,2.71
+ascona,1,10,2.71
+clamart,1,10,2.71
+bognor regis,4,16,2.68
+fremont,10,26,2.67
+east melbourne,3,14,2.67
+hilton head island,3,14,2.67
+saranac lake,2,12,2.67
+metro manila,2,12,2.67
+altadena,2,12,2.67
+wellesley,2,12,2.67
+meudon,2,12,2.67
+marin county,3,14,2.67
+london borough of enfield,2,12,2.67
+mediterranean sea,2,12,2.67
+juneau,2,12,2.67
+south yarra,2,12,2.67
+taos,2,12,2.67
+santo domingo,16,35,2.66
+cheyenne,12,29,2.65
+memphis,94,134,2.65
+tulsa,30,54,2.62
+baghdad,27,50,2.62
+southampton,72,107,2.62
+lewes,11,27,2.6
+gettysburg,8,22,2.56
+"shinjuku, tokyo",5,17,2.56
+alexandria,114,156,2.56
+inglewood,16,34,2.55
+burnaby,1,9,2.53
+midhurst,1,9,2.53
+orinda,1,9,2.53
+lockerbie,1,9,2.53
+budapest,473,554,2.53
+pune,24,45,2.53
+spain,33,57,2.53
+kronberg im taunus,1,9,2.53
+gerrards cross,1,9,2.53
+badenweiler,1,9,2.53
+fiesole,1,9,2.53
+new port richey,1,9,2.53
+radebeul,1,9,2.53
+aspen,1,9,2.53
+charlotte,24,45,2.53
+saint-tropez,1,9,2.53
+bend,1,9,2.53
+lakeland,4,15,2.52
+provincetown,2,11,2.5
+la mesa,2,11,2.5
+leverkusen,2,11,2.5
+st. augustine,7,20,2.5
+okinawa prefecture,3,13,2.5
+grünwald,2,11,2.5
+tegernsee,3,13,2.5
+greenbrae,2,11,2.5
+martha's vineyard,2,11,2.5
+capri,2,11,2.5
+hyannis,2,11,2.5
+acapulco,2,11,2.5
+oegstgeest,3,13,2.5
+luxembourg,25,46,2.49
+bad homburg vor der höhe,11,26,2.47
+evanston,26,47,2.46
+fontainebleau,6,18,2.45
+basingstoke,6,18,2.45
+nairobi,6,18,2.45
+harrogate,5,16,2.4
+davos,5,16,2.4
+brighton,89,124,2.4
+poole,5,16,2.4
+berne,64,94,2.39
+delhi,32,54,2.37
+stuart,4,14,2.36
+asheville,20,38,2.36
+passy,4,14,2.36
+anchorage,4,14,2.36
+point pleasant,4,14,2.36
+twickenham,4,14,2.36
+jackson,48,74,2.35
+hamelin,7,19,2.35
+bath,67,97,2.34
+avignon,13,28,2.34
+lidingö,1,8,2.33
+park ridge,1,8,2.33
+grass valley,1,8,2.33
+estoril,1,8,2.33
+rockville,11,25,2.33
+larchmont,1,8,2.33
+kawasaki,1,8,2.33
+st. moritz,1,8,2.33
+london borough of hillingdon,1,8,2.33
+rueil-malmaison,1,8,2.33
+créteil,1,8,2.33
+khartoum,1,8,2.33
+lake geneva,1,8,2.33
+kerrville,1,8,2.33
+fréjus,1,8,2.33
+san bernardino county,1,8,2.33
+san fernando valley,1,8,2.33
+suffern,1,8,2.33
+white sulphur springs,1,8,2.33
+chantilly,3,12,2.32
+bad pyrmont,3,12,2.32
+san marino,3,12,2.32
+ithaca,21,39,2.32
+mississauga,3,12,2.32
+dachau,3,12,2.32
+rapallo,2,10,2.31
+burlington,42,66,2.31
+winston-salem,16,32,2.31
+hillingdon,2,10,2.31
+luoyang,2,10,2.31
+pretoria,16,32,2.31
+lafayette,22,40,2.29
+norwalk,22,40,2.29
+westport,14,29,2.29
+bronxville,8,20,2.27
+quito,12,26,2.27
+san mateo,12,26,2.27
+battle creek,10,23,2.26
+nassau,17,33,2.26
+boulder,10,23,2.26
+malta,20,37,2.25
+san josé,15,30,2.24
+carson city,5,15,2.24
+burma,5,15,2.24
+wellington,70,99,2.23
+canterbury,27,46,2.22
+managua,7,18,2.2
+tehran,91,123,2.19
+copenhagen,333,392,2.19
+hobart,36,57,2.18
+ho chi minh city,4,13,2.18
+napa,4,13,2.18
+fort collins,4,13,2.18
+padua,45,68,2.16
+bloomington,33,53,2.16
+bermuda,3,11,2.14
+city of westminster,3,11,2.14
+los gatos,3,11,2.14
+sonoma,3,11,2.14
+tunisia,3,11,2.14
+pyongyang,3,11,2.14
+harrisonburg,3,11,2.14
+reykjavik,6,16,2.13
+greater auckland,47,70,2.13
+harare,6,16,2.13
+vevey,10,22,2.12
+mission viejo,1,7,2.12
+maisons-laffitte,1,7,2.12
+east lansing,1,7,2.12
+paradise valley,1,7,2.12
+gauting,1,7,2.12
+ahmedabad,1,7,2.12
+sausalito,1,7,2.12
+tiburon,1,7,2.12
+pembury,1,7,2.12
+fort pierce,1,7,2.12
+alpine,1,7,2.12
+stony brook,1,7,2.12
+hermosa beach,1,7,2.12
+bad mergentheim,1,7,2.12
+pinehurst,1,7,2.12
+new hope,1,7,2.12
+shlisselburg,1,7,2.12
+berg,1,7,2.12
+bryn mawr,8,19,2.12
+uppsala,27,45,2.12
+ilkley,1,7,2.12
+swampscott,1,7,2.12
+küsnacht,1,7,2.12
+outremont,1,7,2.12
+ischia,1,7,2.12
+oak bluffs,1,7,2.12
+lakeville,1,7,2.12
+hawthorne,2,9,2.11
+fargo,2,9,2.11
+williston,2,9,2.11
+covina,2,9,2.11
+pillnitz,2,9,2.11
+sidmouth,2,9,2.11
+newport news,2,9,2.11
+broken arrow,2,9,2.11
+pisa,32,51,2.09
+belgium,25,42,2.08
+knoxville,51,74,2.06
+guildford,19,34,2.06
+ruston,5,14,2.06
+belmont,11,23,2.06
+maidenhead,5,14,2.06
+weston,7,17,2.04
+danbury,9,20,2.04
+mosman,7,17,2.04
+san gabriel,7,17,2.04
+quebec city,69,95,2.03
+lima,65,90,2.01
+lake worth,4,12,2.0
+rockport,4,12,2.0
+macclesfield,4,12,2.0
+bad harzburg,4,12,2.0
+subiaco,4,12,2.0
+sioux falls,6,15,1.96
+rabat,8,18,1.96
+chesterfield,22,37,1.95
+überlingen,3,10,1.94
+white plains,16,29,1.94
+flagstaff,3,10,1.94
+caulfield,3,10,1.94
+broadstairs,3,10,1.94
+glen cove,3,10,1.94
+bad honnef,3,10,1.94
+godalming,3,10,1.94
+hampstead,40,59,1.91
+vienna,1142,1235,1.91
+sebring,2,8,1.9
+downers grove,2,8,1.9
+zeist,2,8,1.9
+bowral,2,8,1.9
+oregon city,2,8,1.9
+port jefferson,2,8,1.9
+gardena,2,8,1.9
+glücksburg,2,8,1.9
+bad aibling,2,8,1.9
+urbana,17,30,1.9
+pawling,2,8,1.9
+frankston,1,6,1.89
+west haven,1,6,1.89
+tower hill,1,6,1.89
+timonium,1,6,1.89
+bellevue hill,1,6,1.89
+welwyn garden city,1,6,1.89
+lenox,1,6,1.89
+bismarck,5,13,1.89
+bergisch gladbach,1,6,1.89
+louveciennes,1,6,1.89
+marrakech,1,6,1.89
+mesquite,1,6,1.89
+greenland,1,6,1.89
+villejuif,1,6,1.89
+bourg-la-reine,1,6,1.89
+kirkland,1,6,1.89
+bordighera,1,6,1.89
+banstead,1,6,1.89
+fujisawa,1,6,1.89
+madagascar,1,6,1.89
+sewanee,1,6,1.89
+new hyde park,1,6,1.89
+st. francisville,1,6,1.89
+altdorf bei nürnberg,1,6,1.89
+rose bay,1,6,1.89
+taplow,1,6,1.89
+arco,1,6,1.89
+altshausen,1,6,1.89
+andrews air force base,1,6,1.89
+pozzuoli,1,6,1.89
+noordwijk,1,6,1.89
+new guinea,1,6,1.89
+sèvres,5,13,1.89
+new haven,129,161,1.88
+accra,12,23,1.86
+tyler,10,20,1.83
+roseville,4,11,1.81
+royal oak,4,11,1.81
+great neck,4,11,1.81
+merano,13,24,1.81
+aylesbury,4,11,1.81
+san salvador,8,17,1.8
+kettering,8,17,1.8
+lexington city,8,17,1.8
+lake placid,6,14,1.79
+redding,6,14,1.79
+kabul,14,25,1.76
+wittenberg,21,34,1.75
+taunton,34,50,1.75
+seoul,25,39,1.75
+caracas,69,91,1.74
+keene,3,9,1.73
+alice springs,3,9,1.73
+esher,3,9,1.73
+târgu-mureş,3,9,1.73
+pakistan,3,9,1.73
+branford,3,9,1.73
+hamburg,392,442,1.73
+hamden,9,18,1.73
+sochi,3,9,1.73
+new plymouth,3,9,1.73
+garden grove,3,9,1.73
+green bay,7,15,1.71
+dorking,7,15,1.71
+new milford,5,12,1.7
+wilson,5,12,1.7
+dakar,5,12,1.7
+indianapolis,113,140,1.7
+colorado springs,23,36,1.69
+radford,2,7,1.67
+christchurch,38,54,1.67
+wynnewood,2,7,1.67
+cody,2,7,1.67
+oświęcim,2,7,1.67
+châtenay-malabry,2,7,1.67
+moncalieri,2,7,1.67
+downey,2,7,1.67
+kingsport,2,7,1.67
+nogent-sur-marne,2,7,1.67
+malvern,13,23,1.67
+paso robles,2,7,1.67
+swarthmore,2,7,1.67
+czechoslovakia,25,38,1.64
+ville-d'avray,1,5,1.63
+sparks,1,5,1.63
+sierra leone,1,5,1.63
+camperdown,1,5,1.63
+arcueil,1,5,1.63
+liphook,1,5,1.63
+jackson heights,1,5,1.63
+westerville,1,5,1.63
+green valley,1,5,1.63
+arundel,1,5,1.63
+kampala,1,5,1.63
+bracciano,1,5,1.63
+nevada city,1,5,1.63
+cuckfield,1,5,1.63
+frome,1,5,1.63
+le kremlin-bicêtre,1,5,1.63
+newfoundland,1,5,1.63
+scarsdale,1,5,1.63
+langhorne,1,5,1.63
+tryon,1,5,1.63
+"shibuya, tokyo",1,5,1.63
+tombstone,1,5,1.63
+stoke poges,1,5,1.63
+blankenberge,1,5,1.63
+nahant,1,5,1.63
+cluny,1,5,1.63
+wilberforce,1,5,1.63
+liberia,1,5,1.63
+southbury,1,5,1.63
+cottesloe,1,5,1.63
+nuevo laredo,1,5,1.63
+winter haven,1,5,1.63
+parkstone,1,5,1.63
+dún laoghaire,1,5,1.63
+florissant,1,5,1.63
+opatija,1,5,1.63
+vaucluse,1,5,1.63
+yokosuka,1,5,1.63
+bad ragaz,1,5,1.63
+bad soden,1,5,1.63
+orford,1,5,1.63
+panama,1,5,1.63
+iowa city,8,16,1.63
+rumson,1,5,1.63
+millbrae,1,5,1.63
+college park,1,5,1.63
+montagnola,1,5,1.63
+cagnes-sur-mer,1,5,1.63
+poway,1,5,1.63
+chamonix,1,5,1.63
+rhodesia,1,5,1.63
+ostend,8,16,1.63
+montebello,1,5,1.63
+lucerne,14,24,1.62
+forest hills,6,13,1.61
+zakopane,6,13,1.61
+gentofte,6,13,1.61
+taiwan,6,13,1.61
+ramsgate,4,10,1.6
+petaluma,4,10,1.6
+neustadt an der weinstrasse,4,10,1.6
+new westminster,4,10,1.6
+clichy,4,10,1.6
+port chester,4,10,1.6
+blacksburg,4,10,1.6
+prescott,9,17,1.57
+atlantic city,28,41,1.57
+japan,66,85,1.55
+barcelona,139,166,1.55
+asunción,40,55,1.54
+pensacola,16,26,1.54
+alicante,7,14,1.53
+mödling,3,8,1.51
+djursholm,3,8,1.51
+parramatta,3,8,1.51
+sherborne,3,8,1.51
+seminole,3,8,1.51
+biarritz,10,18,1.51
+manassas,3,8,1.51
+brazil,17,27,1.51
+oyster bay,3,8,1.51
+port townsend,3,8,1.51
+davis,3,8,1.51
+regent's park,3,8,1.51
+littlehampton,3,8,1.51
+oranienburg,3,8,1.51
+topeka,21,32,1.51
+deal,5,11,1.5
+"kimberley, northern cape",5,11,1.5
+ridgewood,5,11,1.5
+berkeley square,5,11,1.5
+llandudno,5,11,1.5
+chandler,5,11,1.5
+petrópolis,5,11,1.5
+london borough of richmond upon thames,5,11,1.5
+murray,5,11,1.5
+long island,32,45,1.48
+switzerland,22,33,1.48
+wallingford,11,19,1.46
+stafford,11,19,1.46
+tuscaloosa,11,19,1.46
+yalta,8,15,1.46
+isle of man,8,15,1.46
+vallejo,8,15,1.46
+cape town,53,69,1.45
+leipzig,214,245,1.45
+stoke-on-trent,54,70,1.44
+flushing,19,29,1.44
+brookline,35,48,1.43
+leiden,62,79,1.43
+coyoacán,2,6,1.41
+hastings-on-hudson,2,6,1.41
+glendora,2,6,1.41
+leonia,2,6,1.41
+haifa,12,20,1.41
+luxembourg palace,2,6,1.41
+st. louis park,2,6,1.41
+ascot,2,6,1.41
+arcadia,12,20,1.41
+tarpon springs,2,6,1.41
+laos,2,6,1.41
+prince albert,2,6,1.41
+basel,111,133,1.41
+chalfont st giles,2,6,1.41
+teaneck,6,12,1.41
+anderlecht,2,6,1.41
+fontenay-aux-roses,2,6,1.41
+yankton,2,6,1.41
+macau,2,6,1.41
+bad aussee,2,6,1.41
+lynwood,2,6,1.41
+chesapeake,2,6,1.41
+hornsby,2,6,1.41
+callao,2,6,1.41
+westmount,2,6,1.41
+lenggries,2,6,1.41
+tórshavn,6,12,1.41
+woking,6,12,1.41
+columbus,144,169,1.41
+granbury,2,6,1.41
+coeur d'alene,2,6,1.41
+las cruces,2,6,1.41
+pomona,9,16,1.4
+folkestone,9,16,1.4
+luton,9,16,1.4
+british columbia,4,9,1.39
+salisbury,37,50,1.39
+cañon city,4,9,1.39
+vichy,4,9,1.39
+reigate,4,9,1.39
+traunstein,4,9,1.39
+suva,4,9,1.39
+bad ischl,4,9,1.39
+waukesha,4,9,1.39
+málaga,13,21,1.37
+lakewood,13,21,1.37
+parañaque,1,4,1.34
+lepoglava,1,4,1.34
+new smyrna beach,1,4,1.34
+wiltshire,7,13,1.34
+wilmette,1,4,1.34
+atascadero,1,4,1.34
+east grinstead,1,4,1.34
+ambleside,1,4,1.34
+bexley,1,4,1.34
+alderney,1,4,1.34
+singen,1,4,1.34
+rafah,1,4,1.34
+east london,1,4,1.34
+dahlem,1,4,1.34
+hastings,28,39,1.34
+harwich,1,4,1.34
+newberg,1,4,1.34
+rosemont,1,4,1.34
+zákupy,1,4,1.34
+digby,1,4,1.34
+"sumida, tokyo",1,4,1.34
+searcy,1,4,1.34
+summerville,1,4,1.34
+cape cod,1,4,1.34
+pikesville,1,4,1.34
+kentfield,1,4,1.34
+south kensington,7,13,1.34
+huntsville,34,46,1.34
+karbala,1,4,1.34
+karaganda,1,4,1.34
+pewee valley,1,4,1.34
+duffield,1,4,1.34
+sierra madre,1,4,1.34
+kaesong,1,4,1.34
+ibiza,1,4,1.34
+sunnyvale,1,4,1.34
+indian ocean,1,4,1.34
+san jose,34,46,1.34
+south perth,1,4,1.34
+jamaica plain,7,13,1.34
+aquileia,1,4,1.34
+double bay,1,4,1.34
+grinnell,1,4,1.34
+northport,1,4,1.34
+north vancouver,1,4,1.34
+ashtead,1,4,1.34
+sasbach,1,4,1.34
+ventnor,1,4,1.34
+sinaia,1,4,1.34
+suginami,1,4,1.34
+daventry,1,4,1.34
+lahaina,1,4,1.34
+ladenburg,1,4,1.34
+carmel,1,4,1.34
+norcross,1,4,1.34
+overland park,1,4,1.34
+glenwood springs,1,4,1.34
+guam,1,4,1.34
+visegrád,1,4,1.34
+governors island,1,4,1.34
+soltau,1,4,1.34
+silver city,1,4,1.34
+watermael-boitsfort,1,4,1.34
+north korea,1,4,1.34
+dunmore,1,4,1.34
+chesham,1,4,1.34
+kirribilli,1,4,1.34
+tyrol,1,4,1.34
+"sillery, quebec",1,4,1.34
+kingsbridge,1,4,1.34
+grasse,7,13,1.34
+charing cross,1,4,1.34
+bellows falls,1,4,1.34
+avalon,1,4,1.34
+skagen,1,4,1.34
+tervuren,1,4,1.34
+meersburg,1,4,1.34
+bensheim,1,4,1.34
+temecula,1,4,1.34
+neutral bay,1,4,1.34
+rehovot,1,4,1.34
+eschwege,1,4,1.34
+eureka springs,1,4,1.34
+montauk,1,4,1.34
+pound ridge,1,4,1.34
+fort gibson,1,4,1.34
+wycombe,1,4,1.34
+mendocino,1,4,1.34
+bearsted,1,4,1.34
+bad ems,1,4,1.34
+melun,1,4,1.34
+bedford hills,1,4,1.34
+marly-le-roi,1,4,1.34
+"minato, tokyo",1,4,1.34
+tauranga,1,4,1.34
+potsdam-babelsberg,1,4,1.34
+mcallen,1,4,1.34
+miesbach,1,4,1.34
+tiruvalla,1,4,1.34
+skierniewice,1,4,1.34
+cobham,1,4,1.34
+nacka,1,4,1.34
+west nyack,1,4,1.34
+fleet,1,4,1.34
+mölln,1,4,1.34
+mortlake,1,4,1.34
+crawley,1,4,1.34
+contra costa county,1,4,1.34
+hammersmith,14,22,1.33
+watford,19,28,1.31
+turku,15,23,1.3
+viterbo,11,18,1.3
+tampere,15,23,1.3
+hayward,5,10,1.29
+fitzroy,5,10,1.29
+tashkent,5,10,1.29
+san marcos,5,10,1.29
+bremerton,5,10,1.29
+isleworth,5,10,1.29
+west orange,5,10,1.29
+biloxi,5,10,1.29
+billings,5,10,1.29
+madison,71,87,1.27
+mountain view,3,7,1.26
+hemel hempstead,3,7,1.26
+hythe,3,7,1.26
+wytheville,3,7,1.26
+wokingham,3,7,1.26
+paoli,3,7,1.26
+barrington,3,7,1.26
+riverdale,3,7,1.26
+cowes,3,7,1.26
+lytham st annes,3,7,1.26
+grants pass,3,7,1.26
+gulfport,3,7,1.26
+fort worth,57,71,1.24
+toulon,13,20,1.22
+baden bei wien,9,15,1.22
+st albans,9,15,1.22
+bolzano,9,15,1.22
+nagasaki,9,15,1.22
+solothurn,6,11,1.21
+thailand,6,11,1.21
+san angelo,6,11,1.21
+rhinebeck,6,11,1.21
+galveston,23,32,1.21
+santa ana,18,26,1.21
+emden,6,11,1.21
+düsseldorf,101,119,1.21
+leesburg,10,16,1.18
+karlovy vary,10,16,1.18
+new rochelle,25,34,1.17
+kailua,4,8,1.15
+zimbabwe,4,8,1.15
+pentonville,4,8,1.15
+bromma,4,8,1.15
+bethlehem,15,22,1.15
+weinheim,4,8,1.15
+high wycombe,7,12,1.15
+eindhoven,4,8,1.15
+whittier,4,8,1.15
+morgantown,7,12,1.15
+key west,7,12,1.15
+tangier,4,8,1.15
+varese,4,8,1.15
+franeker,2,5,1.13
+fort bragg,2,5,1.13
+nyon,2,5,1.13
+sylt,2,5,1.13
+pushkin,2,5,1.13
+arica,2,5,1.13
+rutland city,2,5,1.13
+ecuador,2,5,1.13
+lyme regis,2,5,1.13
+sorrento,2,5,1.13
+clifton springs,2,5,1.13
+cliffside park,2,5,1.13
+bad oeynhausen,2,5,1.13
+coogee,2,5,1.13
+rhyl,2,5,1.13
+saffron walden,2,5,1.13
+rarotonga,2,5,1.13
+thunder bay,2,5,1.13
+media,2,5,1.13
+roseburg,2,5,1.13
+battle,2,5,1.13
+bayside,2,5,1.13
+foligno,2,5,1.13
+"beauport, quebec",2,5,1.13
+orleans,2,5,1.13
+oakville,2,5,1.13
+twin falls,2,5,1.13
+priština,2,5,1.13
+baarn,2,5,1.13
+dubai,2,5,1.13
+ettlingen,2,5,1.13
+grand junction,2,5,1.13
+stowe,2,5,1.13
+budleigh salterton,2,5,1.13
+halstead,2,5,1.13
+garland,2,5,1.13
+roehampton,2,5,1.13
+"somerset west, western cape",2,5,1.13
+hayling island,2,5,1.13
+voorburg,2,5,1.13
+herdecke,2,5,1.13
+rijswijk,2,5,1.13
+pulborough,2,5,1.13
+zakynthos,2,5,1.13
+wilrijk,2,5,1.13
+loos-en-gohelle,2,5,1.13
+loveland,2,5,1.13
+vác,2,5,1.13
+woodruff,2,5,1.13
+windhoek,2,5,1.13
+zug,2,5,1.13
+carshalton,2,5,1.13
+sonoma county,2,5,1.13
+provo,12,18,1.1
+uxbridge,12,18,1.1
+durban,23,31,1.09
+fareham,8,13,1.09
+port-au-prince,23,31,1.09
+tenafly,5,9,1.07
+morganton,5,9,1.07
+morocco,5,9,1.07
+neumünster,5,9,1.07
+midland,5,9,1.07
+sherbrooke,5,9,1.07
+lichfield,5,9,1.07
+lymington,5,9,1.07
+wheaton,5,9,1.07
+bad kreuznach,5,9,1.07
+allentown,13,19,1.06
+lund,13,19,1.06
+montpelier,9,14,1.04
+laredo,9,14,1.04
+schöneberg,9,14,1.04
+hertfordshire,14,20,1.03
+mornington,1,3,1.0
+hauts-de-seine,3,6,1.0
+meeker,1,3,1.0
+apalachicola,1,3,1.0
+montecatini terme,1,3,1.0
+haugesund,1,3,1.0
+royan,1,3,1.0
+meerbusch,1,3,1.0
+east point,1,3,1.0
+the red fort,1,3,1.0
+ottapalam,1,3,1.0
+haverford,3,6,1.0
+radeberg,1,3,1.0
+bagnères-de-luchon,1,3,1.0
+antony,1,3,1.0
+sremski karlovci,1,3,1.0
+épinay-sur-seine,1,3,1.0
+holyhead,1,3,1.0
+afghanistan,3,6,1.0
+sulphur springs,1,3,1.0
+wayne,6,10,1.0
+moorestown,3,6,1.0
+bar harbor,3,6,1.0
+burnham-on-sea,1,3,1.0
+colinton,1,3,1.0
+butte county,1,3,1.0
+chicoutimi,1,3,1.0
+olinda,1,3,1.0
+yangzhou,1,3,1.0
+radolfzell,1,3,1.0
+évian-les-bains,1,3,1.0
+paraguay,1,3,1.0
+byfleet,1,3,1.0
+mount lawley,1,3,1.0
+edina,1,3,1.0
+amersham,3,6,1.0
+pessac,1,3,1.0
+parkville,1,3,1.0
+douarnenez,1,3,1.0
+stevenson,1,3,1.0
+bahamas,1,3,1.0
+hondo,1,3,1.0
+chorlton-on-medlock,1,3,1.0
+baja california,1,3,1.0
+"ota, tokyo",1,3,1.0
+santa catalina island,1,3,1.0
+rocky hill,1,3,1.0
+camp hill,1,3,1.0
+hagley,1,3,1.0
+odiham,1,3,1.0
+montgeron,1,3,1.0
+guaynabo,1,3,1.0
+sandown,3,6,1.0
+"whitchurch, cardiff",1,3,1.0
+driebergen,1,3,1.0
+adderbury,1,3,1.0
+"bucknall, staffordshire",1,3,1.0
+east sheen,1,3,1.0
+floral park,1,3,1.0
+earls court,1,3,1.0
+altenkirchen,1,3,1.0
+hallein,1,3,1.0
+chimay,1,3,1.0
+payson,1,3,1.0
+dąbie,1,3,1.0
+sevenoaks,6,10,1.0
+gurley,1,3,1.0
+adamstown,1,3,1.0
+mestre,1,3,1.0
+bad vöslau,1,3,1.0
+ebersberg,1,3,1.0
+mexicali,1,3,1.0
+hyson green,1,3,1.0
+guwahati,1,3,1.0
+milwaukie,1,3,1.0
+anerley,1,3,1.0
+hyde park,10,15,1.0
+morrisville,1,3,1.0
+brocket hall,1,3,1.0
+east setauket,1,3,1.0
+hinterzarten,1,3,1.0
+"bunkyō, tokyo",1,3,1.0
+holladay,1,3,1.0
+burnham market,1,3,1.0
+mondsee,1,3,1.0
+palos verdes,1,3,1.0
+inveresk,1,3,1.0
+socialist federal republic of yugoslavia,1,3,1.0
+heliopolis,1,3,1.0
+milford on sea,1,3,1.0
+ventnor city,1,3,1.0
+hellerup,1,3,1.0
+brixham,1,3,1.0
+bagni di lucca,1,3,1.0
+mora,1,3,1.0
+draguignan,3,6,1.0
+holbrook,1,3,1.0
+ingelheim am rhein,1,3,1.0
+ramla,1,3,1.0
+otaki,1,3,1.0
+hambledon,1,3,1.0
+howth,1,3,1.0
+rüdersdorf,1,3,1.0
+gwynedd,1,3,1.0
+rzhev,1,3,1.0
+sumatra,1,3,1.0
+university city,1,3,1.0
+niterói,3,6,1.0
+coolgardie,1,3,1.0
+craftsbury,1,3,1.0
+luján,1,3,1.0
+castellón de la plana,1,3,1.0
+la baule-escoublac,1,3,1.0
+de pere,1,3,1.0
+zehlendorf,1,3,1.0
+gladwyne,1,3,1.0
+catonsville,3,6,1.0
+nikopol,1,3,1.0
+troisdorf,1,3,1.0
+bioko,1,3,1.0
+wyszków,1,3,1.0
+ladysmith,1,3,1.0
+wilanów,1,3,1.0
+westbury,3,6,1.0
+lynbrook,1,3,1.0
+dhaka,28,36,1.0
+poissy,3,6,1.0
+château-thierry,1,3,1.0
+remagen,1,3,1.0
+damariscotta,1,3,1.0
+foy,1,3,1.0
+st. helena,1,3,1.0
+north bergen,3,6,1.0
+mackinac island,1,3,1.0
+ratingen,1,3,1.0
+denver,137,154,1.0
+englefield green,1,3,1.0
+fushun,1,3,1.0
+vught,1,3,1.0
+letchworth,1,3,1.0
+"salem, bodensee",1,3,1.0
+gladesville,1,3,1.0
+le vésinet,3,6,1.0
+le raincy,1,3,1.0
+danderyd municipality,1,3,1.0
+bentonville,3,6,1.0
+gernsbach,1,3,1.0
+asker,3,6,1.0
+new town,1,3,1.0
+naval station great lakes,1,3,1.0
+rochford,1,3,1.0
+bishop's waltham,1,3,1.0
+blue hill,1,3,1.0
+benghazi,1,3,1.0
+bishopsbourne,1,3,1.0
+newhall,1,3,1.0
+gdynia,1,3,1.0
+longueuil,1,3,1.0
+"walton, merseyside",1,3,1.0
+saint-claude,1,3,1.0
+nepal,1,3,1.0
+gaza,3,6,1.0
+storrington,1,3,1.0
+belsize park,1,3,1.0
+napoleon,1,3,1.0
+ciudad victoria,1,3,1.0
+blaubeuren,1,3,1.0
+garrison,1,3,1.0
+sainte-agathe-des-monts,1,3,1.0
+lake bluff,1,3,1.0
+gifhorn,1,3,1.0
+"bloemfontein, free state",6,10,1.0
+wageningen,1,3,1.0
+frechen,1,3,1.0
+przemków,1,3,1.0
+rothenburg ob der tauber,1,3,1.0
+river forest,1,3,1.0
+puteaux,3,6,1.0
+seaside,1,3,1.0
+beach haven,1,3,1.0
+yakima,6,10,1.0
+saint-jean-cap-ferrat,1,3,1.0
+edmonds,1,3,1.0
+rheinberg,1,3,1.0
+quimperlé,1,3,1.0
+bad hersfeld,1,3,1.0
+san carlos,3,6,1.0
+llandrindod wells,1,3,1.0
+oak lawn,1,3,1.0
+donetsk,1,3,1.0
+pietrasanta,1,3,1.0
+bayswater,3,6,1.0
+great malvern,1,3,1.0
+puy-de-dôme,1,3,1.0
+formby,1,3,1.0
+bad iburg,1,3,1.0
+rheinbreitbach,1,3,1.0
+schliersee,1,3,1.0
+upper darby,1,3,1.0
+oberstdorf,3,6,1.0
+san joaquin county,1,3,1.0
+lincoln's inn fields,1,3,1.0
+atherton,3,6,1.0
+jonesville,1,3,1.0
+withington,1,3,1.0
+tanzania,1,3,1.0
+claremore,1,3,1.0
+jukkasjärvi,1,3,1.0
+new milton,1,3,1.0
+mountain brook,1,3,1.0
+edinburgh castle,1,3,1.0
+villanova,1,3,1.0
+bad kleinen,1,3,1.0
+sintra,1,3,1.0
+mariefred,1,3,1.0
+marathon,1,3,1.0
+manchester-by-the-sea,1,3,1.0
+renton,1,3,1.0
+southend-on-sea,6,10,1.0
+kissimmee,1,3,1.0
+timaru,1,3,1.0
+armentières,1,3,1.0
+kirkkonummi,1,3,1.0
+north salem,1,3,1.0
+aubenas,1,3,1.0
+kingston upon thames,15,21,1.0
+cosham,1,3,1.0
+château de rambouillet,1,3,1.0
+maranello,1,3,1.0
+botley,1,3,1.0
+mylapore,1,3,1.0
+malone,3,6,1.0
+friedrichsruh,1,3,1.0
+clewer,1,3,1.0
+libertyville,1,3,1.0
+castries,1,3,1.0
+diksmuide,1,3,1.0
+novorossiysk,1,3,1.0
+castro valley,1,3,1.0
+uckfield,1,3,1.0
+bourbon-l'archambault,1,3,1.0
+rye,11,16,0.96
+isle of wight,11,16,0.96
+bangor,23,30,0.96
+puerto rico,11,16,0.96
+chiswick,7,11,0.94
+ryde,7,11,0.94
+redlands,7,11,0.94
+southport,18,24,0.93
+detmold,18,24,0.93
+oryol,12,17,0.93
+aberystwyth,4,7,0.9
+regina,13,18,0.9
+tahiti,4,7,0.9
+ely,4,7,0.9
+libya,4,7,0.9
+yuma,4,7,0.9
+shelburne,4,7,0.9
+saint charles,4,7,0.9
+sacramento,70,81,0.9
+wethersfield,4,7,0.9
+exmouth,4,7,0.9
+shaker heights,4,7,0.9
+haddonfield,4,7,0.9
+phnom penh,4,7,0.9
+starke,4,7,0.9
+chestnut hill,4,7,0.9
+kottayam,4,7,0.9
+jamaica,27,34,0.9
+bulawayo,4,7,0.9
+toorak,4,7,0.9
+hawthorn,8,12,0.89
+longview,8,12,0.89
+adelaide,58,68,0.89
+el paso,28,35,0.88
+modesto,9,13,0.85
+hanoi,9,13,0.85
+chelsea,65,75,0.85
+queens,41,49,0.84
+bolivia,5,8,0.83
+north adelaide,5,8,0.83
+redondo beach,5,8,0.83
+saint-hyacinthe,5,8,0.83
+sale,5,8,0.83
+stonehouse,5,8,0.83
+laconia,5,8,0.83
+viareggio,5,8,0.83
+rutherford,5,8,0.83
+darien,5,8,0.83
+doylestown,5,8,0.83
+conway,5,8,0.83
+roeselare,5,8,0.83
+edgware,2,4,0.82
+alassio,2,4,0.82
+guntur,2,4,0.82
+vientiane,2,4,0.82
+gwalior,2,4,0.82
+farmingdale,2,4,0.82
+glen ellyn,2,4,0.82
+warminster,2,4,0.82
+pasay,2,4,0.82
+pelham manor,2,4,0.82
+pascagoula,2,4,0.82
+viña del mar,2,4,0.82
+gijón,2,4,0.82
+walden,2,4,0.82
+alverstoke,2,4,0.82
+harefield,2,4,0.82
+planegg,2,4,0.82
+pleasanton,2,4,0.82
+feldafing,2,4,0.82
+cheadle,2,4,0.82
+litoměřice,2,4,0.82
+issy-les-moulineaux,2,4,0.82
+klamath falls,2,4,0.82
+braunfels,2,4,0.82
+sheerness,2,4,0.82
+trumbull,2,4,0.82
+judenburg,2,4,0.82
+"smithfield, london",2,4,0.82
+"boksburg, gauteng",2,4,0.82
+apeldoorn,2,4,0.82
+anzio,2,4,0.82
+tracy,2,4,0.82
+levallois-perret,2,4,0.82
+ibbenbüren,2,4,0.82
+biddenden,2,4,0.82
+bad wörishofen,2,4,0.82
+wellingborough,2,4,0.82
+lidzbark warmiński,2,4,0.82
+repton,2,4,0.82
+nordhorn,2,4,0.82
+saluda,2,4,0.82
+danvers,10,14,0.82
+northeim,2,4,0.82
+bowie,2,4,0.82
+salzgitter,2,4,0.82
+deep river,2,4,0.82
+bodrum,2,4,0.82
+rapid city,2,4,0.82
+bad salzuflen,2,4,0.82
+corbeil-essonnes,2,4,0.82
+swanage,2,4,0.82
+seefeld,2,4,0.82
+"donnybrook, dublin",2,4,0.82
+"sainte-foy, quebec",2,4,0.82
+blaricum,2,4,0.82
+cold spring,2,4,0.82
+metuchen,2,4,0.82
+wedel,2,4,0.82
+tenerife,2,4,0.82
+libreville,2,4,0.82
+tainan city,2,4,0.82
+verbania,2,4,0.82
+hershey,2,4,0.82
+sankt ingbert,2,4,0.82
+herborn,2,4,0.82
+suffolk county,2,4,0.82
+tooting,2,4,0.82
+palatka,2,4,0.82
+haywards heath,2,4,0.82
+torre del greco,2,4,0.82
+wilsonville,2,4,0.82
+papeete,2,4,0.82
+busan,2,4,0.82
+narvik,2,4,0.82
+papua new guinea,2,4,0.82
+cohasset,2,4,0.82
+north canton,2,4,0.82
+bowdon,2,4,0.82
+madeira,2,4,0.82
+morecambe,2,4,0.82
+rüsselsheim,2,4,0.82
+clear lake,2,4,0.82
+ramat gan,2,4,0.82
+covent garden,2,4,0.82
+burnley,17,22,0.8
+fresno,35,42,0.8
+leamington spa,17,22,0.8
+naples,221,238,0.79
+warwick,18,23,0.78
+goslar,11,15,0.78
+lagos,11,15,0.78
+santa clara,11,15,0.78
+oldham,18,23,0.78
+westerly,6,9,0.77
+füssen,6,9,0.77
+san fernando,6,9,0.77
+lindau,6,9,0.77
+las palmas de gran canaria,6,9,0.77
+redhill,6,9,0.77
+scunthorpe,6,9,0.77
+ossining,6,9,0.77
+montclair,19,24,0.76
+ipswich,28,34,0.76
+bridgetown,7,10,0.73
+brunswick,13,17,0.73
+portugal,13,17,0.73
+natchitoches,7,10,0.73
+medford,21,26,0.73
+ava,7,10,0.73
+kronstadt,3,5,0.71
+bartow,3,5,0.71
+pinerolo,3,5,0.71
+clovis,3,5,0.71
+bluefield,3,5,0.71
+rhodes,3,5,0.71
+plainview,3,5,0.71
+aix-les-bains,3,5,0.71
+alaska,3,5,0.71
+elkins park,3,5,0.71
+casper,3,5,0.71
+las vegas,3,5,0.71
+leatherhead,3,5,0.71
+caribbean,3,5,0.71
+traverse city,3,5,0.71
+polatsk,3,5,0.71
+new braunfels,3,5,0.71
+caterham,3,5,0.71
+stellenbosch,3,5,0.71
+frascati,3,5,0.71
+constanţa,3,5,0.71
+proctor,3,5,0.71
+setúbal,3,5,0.71
+canaan,3,5,0.71
+"río piedras, puerto rico",3,5,0.71
+piccadilly,3,5,0.71
+homs,3,5,0.71
+south brisbane,3,5,0.71
+holly springs,3,5,0.71
+peekskill,3,5,0.71
+bucyrus,3,5,0.71
+rockville centre,3,5,0.71
+tarragona,3,5,0.71
+hudson falls,3,5,0.71
+bozeman,3,5,0.71
+siberia,3,5,0.71
+ardmore,3,5,0.71
+united states of america,218,233,0.71
+kaifeng,3,5,0.71
+conakry,3,5,0.71
+richmond palace,3,5,0.71
+kislovodsk,3,5,0.71
+ardennes,3,5,0.71
+sidcup,3,5,0.71
+saudi arabia,3,5,0.71
+spring lake,3,5,0.71
+sorø,3,5,0.71
+kraków,119,130,0.7
+landshut,15,19,0.69
+san pedro,8,11,0.69
+eureka,8,11,0.69
+bridgend,8,11,0.69
+ballenstedt,8,11,0.69
+hendon,8,11,0.69
+leuven,25,30,0.67
+arras,16,20,0.67
+sarajevo,26,31,0.66
+hyderabad,27,32,0.65
+barnet,9,12,0.65
+temple,9,12,0.65
+cranston,9,12,0.65
+lansing,17,21,0.65
+la paz,17,21,0.65
+tivoli,4,6,0.63
+pontefract,4,6,0.63
+st leonards,4,6,0.63
+nauvoo,4,6,0.63
+herefordshire,4,6,0.63
+garden city,4,6,0.63
+lillehammer,4,6,0.63
+bussum,4,6,0.63
+sandringham house,4,6,0.63
+bridgeton,4,6,0.63
+tuskegee,4,6,0.63
+santa cruz de tenerife,4,6,0.63
+seaford,4,6,0.63
+wollongong,4,6,0.63
+freetown,10,13,0.63
+kirchheim unter teck,4,6,0.63
+cape girardeau,4,6,0.63
+kenya,4,6,0.63
+kennett square,4,6,0.63
+bodmin,4,6,0.63
+el salvador,4,6,0.63
+nigeria,4,6,0.63
+martinez,4,6,0.63
+knightsbridge,4,6,0.63
+"san juan, metro manila",4,6,0.63
+woollahra,4,6,0.63
+mar del plata,4,6,0.63
+manosque,4,6,0.63
+porto,18,22,0.63
+greenville,61,68,0.62
+netherlands,30,35,0.62
+san francisco,526,546,0.61
+martinsburg,11,14,0.6
+wuppertal,20,24,0.6
+pau,11,14,0.6
+shrewsbury,20,24,0.6
+colwyn bay,1,2,0.58
+evergreen park,1,2,0.58
+collingswood,1,2,0.58
+princeville,1,2,0.58
+falkland islands,1,2,0.58
+west byfleet,1,2,0.58
+west flanders,1,2,0.58
+richmond hill,1,2,0.58
+werl,1,2,0.58
+procida,1,2,0.58
+rheden,1,2,0.58
+corydon,1,2,0.58
+collins,1,2,0.58
+cowansville,1,2,0.58
+rialto,1,2,0.58
+cortina d'ampezzo,1,2,0.58
+retford,1,2,0.58
+radzymin,1,2,0.58
+creswell,1,2,0.58
+dubno,1,2,0.58
+spangenberg,1,2,0.58
+warsash,1,2,0.58
+weilmünster,1,2,0.58
+eisenach,22,26,0.58
+didsbury,1,2,0.58
+djibouti,1,2,0.58
+querétaro,1,2,0.58
+sea bright,1,2,0.58
+doorn,1,2,0.58
+dordogne,1,2,0.58
+dore,1,2,0.58
+schöningen,1,2,0.58
+wauwatosa,1,2,0.58
+creve coeur,1,2,0.58
+watsons bay,1,2,0.58
+dundonald castle,1,2,0.58
+dunedoo,1,2,0.58
+washington court house,1,2,0.58
+döbling,1,2,0.58
+eagle,1,2,0.58
+eagle river,1,2,0.58
+spandau,1,2,0.58
+ramallah,1,2,0.58
+east dulwich,1,2,0.58
+east finchley,1,2,0.58
+east meadow,1,2,0.58
+el escorial,5,7,0.58
+rastede,1,2,0.58
+rastrick,1,2,0.58
+degerfors,1,2,0.58
+wenatchee,1,2,0.58
+erskine,1,2,0.58
+crystal lake,1,2,0.58
+wembley,1,2,0.58
+culver,1,2,0.58
+wellsboro,1,2,0.58
+engen,1,2,0.58
+cuyahoga falls,1,2,0.58
+cypress,1,2,0.58
+regensburg,50,56,0.58
+daejeon,1,2,0.58
+dalby,1,2,0.58
+elmsford,1,2,0.58
+punta gorda,1,2,0.58
+waratah,1,2,0.58
+warburton,1,2,0.58
+elham,1,2,0.58
+waremme,1,2,0.58
+dardanelles,1,2,0.58
+red deer,1,2,0.58
+red bluff,1,2,0.58
+purchase,1,2,0.58
+warm springs,1,2,0.58
+el segundo,1,2,0.58
+de bilt,1,2,0.58
+donaueschingen,1,2,0.58
+tata,1,2,0.58
+prades,1,2,0.58
+lansdowne,1,2,0.58
+le plessis-robinson,1,2,0.58
+lazio,1,2,0.58
+lawrenceville,5,7,0.58
+larnaca,1,2,0.58
+larache,1,2,0.58
+lanús,1,2,0.58
+langenfeld,1,2,0.58
+nicaragua,1,2,0.58
+"newlands, cape town",1,2,0.58
+newlyn,1,2,0.58
+newquay,1,2,0.58
+st. john,1,2,0.58
+lake park,1,2,0.58
+niamey,1,2,0.58
+tring,1,2,0.58
+leicester castle,1,2,0.58
+lemnitz,1,2,0.58
+leonardtown,1,2,0.58
+lichtenstein,1,2,0.58
+new palace,1,2,0.58
+lingfield,1,2,0.58
+"saint-hubert, belgium",1,2,0.58
+new glasgow,1,2,0.58
+llwynypia,1,2,0.58
+new england,1,2,0.58
+loch ness,1,2,0.58
+new athens,1,2,0.58
+tacloban city,1,2,0.58
+loire-atlantique,1,2,0.58
+neustadt an der aisch,1,2,0.58
+roundhay,1,2,0.58
+szklarska poręba,1,2,0.58
+lagny-sur-marne,1,2,0.58
+london borough of croydon,1,2,0.58
+kewanee,1,2,0.58
+north hampton,1,2,0.58
+north lima,1,2,0.58
+kingussie,1,2,0.58
+saltaire,1,2,0.58
+northeast harbor,1,2,0.58
+ubon ratchathani,1,2,0.58
+notre-dame-de-grâce,1,2,0.58
+lafayette parish,1,2,0.58
+keshena,1,2,0.58
+kentville,1,2,0.58
+roslavl,1,2,0.58
+kenilworth,1,2,0.58
+uhrichsville,1,2,0.58
+nérac,1,2,0.58
+kodaikanal,1,2,0.58
+salon-de-provence,1,2,0.58
+sycamore,1,2,0.58
+north bend,1,2,0.58
+turnham green,1,2,0.58
+saline,1,2,0.58
+tupelo,5,7,0.58
+north augusta,1,2,0.58
+"krugersdorp, gauteng",1,2,0.58
+tunbridge wells,1,2,0.58
+salem municipality,1,2,0.58
+kungsbacka,1,2,0.58
+kuusankoski,1,2,0.58
+l'hospitalet de llobregat,1,2,0.58
+la ciotat,1,2,0.58
+nogent-le-roi,1,2,0.58
+la junta,1,2,0.58
+st. ignace,1,2,0.58
+nesterov,1,2,0.58
+oahu,5,7,0.58
+mellor,1,2,0.58
+texas city,1,2,0.58
+mentone,1,2,0.58
+memleben,1,2,0.58
+melville,1,2,0.58
+melton mowbray,1,2,0.58
+melrose park,1,2,0.58
+motta di livenza,1,2,0.58
+maseru,1,2,0.58
+tarascon,1,2,0.58
+medinaceli,1,2,0.58
+meckenheim,1,2,0.58
+mechernich,1,2,0.58
+sackville,1,2,0.58
+st. anthony,1,2,0.58
+st. george,5,7,0.58
+meylan,1,2,0.58
+terezín,1,2,0.58
+mickleham,1,2,0.58
+millau,1,2,0.58
+miller,1,2,0.58
+templin,1,2,0.58
+minchinhampton,1,2,0.58
+moree,1,2,0.58
+mjøndalen,1,2,0.58
+monaca,1,2,0.58
+teague,1,2,0.58
+mont-de-marsan,1,2,0.58
+mont-saint-hilaire,1,2,0.58
+montefiascone,1,2,0.58
+tavira,1,2,0.58
+moonee ponds,1,2,0.58
+matabeleland,1,2,0.58
+marshfield,1,2,0.58
+neptune city,1,2,0.58
+todi,1,2,0.58
+tiptonville,1,2,0.58
+mölndal,1,2,0.58
+tirschenreuth,1,2,0.58
+löningen,1,2,0.58
+luzarches,1,2,0.58
+naila,1,2,0.58
+lugdunum,1,2,0.58
+sagaing,1,2,0.58
+nailsworth,1,2,0.58
+napajedla,1,2,0.58
+lucknow,22,26,0.58
+neckarsulm,1,2,0.58
+longjumeau,1,2,0.58
+london borough of newham,1,2,0.58
+magnitogorsk,1,2,0.58
+tama,1,2,0.58
+mystras,1,2,0.58
+mynämäki,1,2,0.58
+tilford,1,2,0.58
+maldives,1,2,0.58
+malente,1,2,0.58
+mamaroneck,5,7,0.58
+tielt,1,2,0.58
+manteca,1,2,0.58
+manzanillo,1,2,0.58
+maragheh,1,2,0.58
+msida,1,2,0.58
+mozambique,1,2,0.58
+march,1,2,0.58
+"saint aubin, jersey",1,2,0.58
+marktredwitz,1,2,0.58
+kathmandu,5,7,0.58
+san bruno,1,2,0.58
+"wallaceburg, ontario",1,2,0.58
+pitsmoor,1,2,0.58
+glenelg,1,2,0.58
+glen iris,1,2,0.58
+pithapuram,1,2,0.58
+vittel,1,2,0.58
+glassboro,1,2,0.58
+viviers,1,2,0.58
+gernrode,1,2,0.58
+gars,1,2,0.58
+sawbridgeworth,1,2,0.58
+george,1,2,0.58
+plettenberg,1,2,0.58
+ploujean,1,2,0.58
+spoleto,1,2,0.58
+geesthacht,1,2,0.58
+gloucester house,1,2,0.58
+stranraer,1,2,0.58
+pinjarra,1,2,0.58
+goliad,1,2,0.58
+gosnells,1,2,0.58
+gower peninsula,1,2,0.58
+gowerton,1,2,0.58
+sasebo,1,2,0.58
+stratham,1,2,0.58
+grado,1,2,0.58
+pikeville,1,2,0.58
+grange-over-sands,1,2,0.58
+gransee,1,2,0.58
+villiers-le-bel,1,2,0.58
+greater manchester,1,2,0.58
+pewaukee,1,2,0.58
+greendale,1,2,0.58
+gatesville,1,2,0.58
+pointe-claire,1,2,0.58
+greenport,1,2,0.58
+fordingbridge,1,2,0.58
+schladming,1,2,0.58
+fort robinson,1,2,0.58
+riviera beach,1,2,0.58
+portslade,1,2,0.58
+forest grove,1,2,0.58
+forest glen,1,2,0.58
+forbach,1,2,0.58
+gardner,1,2,0.58
+posillipo,1,2,0.58
+florennes,1,2,0.58
+waldfischbach-burgalben,1,2,0.58
+waldshut-tiengen,1,2,0.58
+farnham,12,15,0.58
+faringdon,1,2,0.58
+schio,1,2,0.58
+fostat,1,2,0.58
+fostoria,1,2,0.58
+port moresby,1,2,0.58
+wadern,1,2,0.58
+freital,1,2,0.58
+friesack,1,2,0.58
+frimley,1,2,0.58
+frinton-on-sea,1,2,0.58
+stoke-sub-hamdon,1,2,0.58
+front royal,1,2,0.58
+robertsdale,1,2,0.58
+fécamp,1,2,0.58
+førde,1,2,0.58
+fürstenfeld,1,2,0.58
+gabon,1,2,0.58
+gaithersburg,1,2,0.58
+strausberg,1,2,0.58
+gregg county,1,2,0.58
+kapaa,1,2,0.58
+hulwan,1,2,0.58
+san miniato,1,2,0.58
+hürth,1,2,0.58
+sundbyberg municipality,1,2,0.58
+valdivia,1,2,0.58
+hédervár,1,2,0.58
+humboldt county,1,2,0.58
+huelva,1,2,0.58
+sandpoint,1,2,0.58
+sandakan,1,2,0.58
+howick,1,2,0.58
+vantaa,1,2,0.58
+homewood,1,2,0.58
+holycross,1,2,0.58
+overland,1,2,0.58
+olivos,1,2,0.58
+intramuros,1,2,0.58
+olean,1,2,0.58
+old westbury,1,2,0.58
+odintsovo,1,2,0.58
+islip,1,2,0.58
+odawara,1,2,0.58
+izium,1,2,0.58
+ja-ela,1,2,0.58
+oconee county,1,2,0.58
+ocean county,1,2,0.58
+oberwesel,1,2,0.58
+jaén,1,2,0.58
+oberursel,1,2,0.58
+oberhaching,1,2,0.58
+kaitaia,1,2,0.58
+kamieniec ząbkowicki,1,2,0.58
+hollister,1,2,0.58
+hohenheim,1,2,0.58
+stretford,1,2,0.58
+hallettsville,1,2,0.58
+hartford city,1,2,0.58
+versoix,1,2,0.58
+pardeeville,1,2,0.58
+harbor springs,1,2,0.58
+santa maria,5,7,0.58
+springhill,1,2,0.58
+haldensleben,1,2,0.58
+vaucresson,1,2,0.58
+hainburg an der donau,1,2,0.58
+hahnenklee,1,2,0.58
+pennsauken township,1,2,0.58
+"guysborough, nova scotia",1,2,0.58
+strongsville,1,2,0.58
+perrysburg,1,2,0.58
+paphos,1,2,0.58
+haworth,1,2,0.58
+panipat,1,2,0.58
+sueca,1,2,0.58
+palma de mallorca,5,7,0.58
+"pall mall, london",1,2,0.58
+palisades,1,2,0.58
+palatine hill,1,2,0.58
+sugar creek,1,2,0.58
+herrenhausen,1,2,0.58
+herstmonceux,1,2,0.58
+hertford castle,1,2,0.58
+hietzing,1,2,0.58
+sanger,1,2,0.58
+highland falls,1,2,0.58
+sandy spring,1,2,0.58
+hodgenville,1,2,0.58
+honley,1,2,0.58
+hausham,1,2,0.58
+zemst,1,2,0.58
+blaine,1,2,0.58
+alta,1,2,0.58
+alamo,1,2,0.58
+batticaloa,1,2,0.58
+"chiyoda, tokyo",1,2,0.58
+white house,1,2,0.58
+étaples,1,2,0.58
+arpajon,1,2,0.58
+boligee,1,2,0.58
+slavuta,1,2,0.58
+clacton-on-sea,1,2,0.58
+blairstown township,1,2,0.58
+capannori,1,2,0.58
+ähtäri,1,2,0.58
+camaiore,1,2,0.58
+sonneberg,5,7,0.58
+barnt green,1,2,0.58
+shawano,1,2,0.58
+"azcapotzalco, d.f.",1,2,0.58
+sint-martens-latem,1,2,0.58
+broadway,1,2,0.58
+williton,1,2,0.58
+ackerman,1,2,0.58
+brunnen,1,2,0.58
+bitterne park,1,2,0.58
+bernalillo,1,2,0.58
+shanklin,1,2,0.58
+bienville parish,1,2,0.58
+brush prairie,1,2,0.58
+barlow,1,2,0.58
+snyder,1,2,0.58
+burnham,1,2,0.58
+borneo,1,2,0.58
+annecy-le-vieux,1,2,0.58
+cheverly,1,2,0.58
+abbots langley,1,2,0.58
+blackfoot,1,2,0.58
+anse-à-veau,1,2,0.58
+westernville,1,2,0.58
+clerkenwell,1,2,0.58
+western springs,1,2,0.58
+chiang mai,1,2,0.58
+bellport,1,2,0.58
+achrafieh,1,2,0.58
+bad kohlgrub,1,2,0.58
+bude,1,2,0.58
+atoka,1,2,0.58
+aken,1,2,0.58
+bountiful,1,2,0.58
+west warwick,1,2,0.58
+bukan,1,2,0.58
+brignoles,1,2,0.58
+bülach,1,2,0.58
+chofu,1,2,0.58
+afula,1,2,0.58
+zofingen,1,2,0.58
+akershus fortress,1,2,0.58
+bad orb,1,2,0.58
+carhué,1,2,0.58
+bad herrenalb,1,2,0.58
+slidell,1,2,0.58
+bogor,5,7,0.58
+bunkie,1,2,0.58
+burghausen,1,2,0.58
+bicknoller,1,2,0.58
+chagrin falls,1,2,0.58
+shaw and crompton,1,2,0.58
+west wyalong,1,2,0.58
+alba iulia,1,2,0.58
+bisham abbey,1,2,0.58
+whiteville,1,2,0.58
+city of winchester,1,2,0.58
+shawneetown,1,2,0.58
+chico,5,7,0.58
+antrim,1,2,0.58
+bristow,1,2,0.58
+south queensferry,1,2,0.58
+attard,1,2,0.58
+barmouth,1,2,0.58
+withyham,1,2,0.58
+angatuba,1,2,0.58
+carson,1,2,0.58
+avon-by-the-sea,1,2,0.58
+caesarea palaestina,1,2,0.58
+brook,1,2,0.58
+bentley,1,2,0.58
+brookeborough,1,2,0.58
+bratenahl,1,2,0.58
+ahaus,1,2,0.58
+yelabuga,1,2,0.58
+burstow,1,2,0.58
+avery county,1,2,0.58
+buxtehude,1,2,0.58
+"belvedere, london",1,2,0.58
+carlsbad,5,7,0.58
+abu dhabi,1,2,0.58
+sierra vista,1,2,0.58
+chipping sodbury,1,2,0.58
+aegina,1,2,0.58
+broome,1,2,0.58
+shaftsbury,1,2,0.58
+brady,1,2,0.58
+bondy,1,2,0.58
+andalusia,1,2,0.58
+cheddar,1,2,0.58
+boonsboro,1,2,0.58
+clarens,1,2,0.58
+asiago,1,2,0.58
+sinzig,1,2,0.58
+banyuls-sur-mer,1,2,0.58
+skaneateles,1,2,0.58
+bondi junction,1,2,0.58
+shipston-on-stour,1,2,0.58
+changgyeonggung,1,2,0.58
+woodley,1,2,0.58
+ambler,1,2,0.58
+cloverdale,1,2,0.58
+ashburn,1,2,0.58
+blenheim palace,1,2,0.58
+aceh,1,2,0.58
+sochaczew,1,2,0.58
+christiansted,5,7,0.58
+belize,1,2,0.58
+christleton,1,2,0.58
+campbellsville,1,2,0.58
+skegness,1,2,0.58
+alpharetta,1,2,0.58
+changzhou,1,2,0.58
+banff,1,2,0.58
+auriesville,1,2,0.58
+catoosa county,1,2,0.58
+yuba city,1,2,0.58
+sewickley,5,7,0.58
+simon's town,1,2,0.58
+zbraslav,1,2,0.58
+bignall end,1,2,0.58
+chappaqua,1,2,0.58
+yellow springs,1,2,0.58
+łódź voivodeship,1,2,0.58
+bückeburg,13,16,0.56
+truro,14,17,0.54
+davenport,25,29,0.54
+hampshire,25,29,0.54
+spotsylvania county,6,8,0.53
+srinagar,6,8,0.53
+funchal,6,8,0.53
+sankt pölten,6,8,0.53
+mineola,6,8,0.53
+corona,6,8,0.53
+dobbs ferry,6,8,0.53
+westchester county,6,8,0.53
+stratford,15,18,0.52
+skopje,16,19,0.51
+aurich,7,9,0.5
+lockport,7,9,0.5
+dearborn,7,9,0.5
+bryan,7,9,0.5
+uccle,7,9,0.5
+cheltenham,31,35,0.49
+pittsfield,33,37,0.48
+treviso,18,21,0.48
+oklahoma city,55,60,0.47
+colchester,19,22,0.47
+dartford,8,10,0.47
+clifton,8,10,0.47
+hinsdale,8,10,0.47
+bad kissingen,8,10,0.47
+sevastopol,8,10,0.47
+red bank,8,10,0.47
+algiers,19,22,0.47
+lititz,2,3,0.45
+red hook,2,3,0.45
+schleswig-holstein,2,3,0.45
+fort huachuca,2,3,0.45
+visakhapatnam,2,3,0.45
+drummoyne,2,3,0.45
+kennebunkport,2,3,0.45
+chobham,2,3,0.45
+cernobbio,2,3,0.45
+scottsbluff,2,3,0.45
+draper,2,3,0.45
+rawlins,2,3,0.45
+barbourville,2,3,0.45
+dominican republic,2,3,0.45
+springs,2,3,0.45
+dolný kubín,2,3,0.45
+deming,2,3,0.45
+upland,2,3,0.45
+kalavryta,2,3,0.45
+hawaii,21,24,0.45
+braine-l'alleud,2,3,0.45
+şanlıurfa,2,3,0.45
+kalundborg,2,3,0.45
+newtonville,2,3,0.45
+changchun,2,3,0.45
+bramsche,2,3,0.45
+soho,2,3,0.45
+fitzwilliam,2,3,0.45
+gloucester courthouse,2,3,0.45
+harlesden,2,3,0.45
+de smet,2,3,0.45
+witham,2,3,0.45
+argenteuil,2,3,0.45
+lambton,2,3,0.45
+ciudad rodrigo,2,3,0.45
+addlestone,2,3,0.45
+wildwood,2,3,0.45
+ciudad juárez,2,3,0.45
+upper sandusky,2,3,0.45
+jim thorpe,2,3,0.45
+merchantville,2,3,0.45
+llandough,2,3,0.45
+bühl,2,3,0.45
+chalfont st peter,2,3,0.45
+burhanpur,2,3,0.45
+blaj,2,3,0.45
+westerham,2,3,0.45
+saint-rémy-de-provence,2,3,0.45
+kaysville,2,3,0.45
+fontenay-sous-bois,2,3,0.45
+pankow,2,3,0.45
+dülmen,2,3,0.45
+saint-nazaire,2,3,0.45
+stroudsburg,2,3,0.45
+pyatigorsk,2,3,0.45
+lessines,2,3,0.45
+osterode am harz,2,3,0.45
+essendon,2,3,0.45
+coppet,2,3,0.45
+ichikawa,2,3,0.45
+lethbridge,2,3,0.45
+osterville,2,3,0.45
+stevenage,2,3,0.45
+gunston hall,2,3,0.45
+vaduz,2,3,0.45
+guastalla,2,3,0.45
+cambodia,2,3,0.45
+péronne,2,3,0.45
+pézenas,2,3,0.45
+villingen-schwenningen,2,3,0.45
+marylebone,37,41,0.45
+notting hill,2,3,0.45
+park city,2,3,0.45
+târgovişte,2,3,0.45
+krzeszowice,2,3,0.45
+sikeston,2,3,0.45
+baytown,2,3,0.45
+chatham county,2,3,0.45
+old saybrook,2,3,0.45
+colombia,2,3,0.45
+taichung,2,3,0.45
+northborough,2,3,0.45
+malaysia,2,3,0.45
+bondi,2,3,0.45
+amagansett,2,3,0.45
+saratoga,2,3,0.45
+sumner,2,3,0.45
+västra götaland county,2,3,0.45
+kollam,2,3,0.45
+aosta,2,3,0.45
+stoke bishop,2,3,0.45
+"strand, london",2,3,0.45
+wantage,2,3,0.45
+ellwangen,2,3,0.45
+kozhikode,9,11,0.45
+lens,2,3,0.45
+huyton,2,3,0.45
+pas-de-calais,2,3,0.45
+coney island,2,3,0.45
+windlesham,2,3,0.45
+conroe,2,3,0.45
+hôtel de soubise,2,3,0.45
+freehold,2,3,0.45
+banjul,2,3,0.45
+itzehoe,2,3,0.45
+stevensville,2,3,0.45
+ewell,2,3,0.45
+porterville,2,3,0.45
+prestwich,2,3,0.45
+chiltern,2,3,0.45
+atlantic highlands,2,3,0.45
+abidjan,2,3,0.45
+queluz national palace,2,3,0.45
+east hartford,2,3,0.45
+mosbach,2,3,0.45
+arkadelphia,2,3,0.45
+whangarei,2,3,0.45
+cartersville,2,3,0.45
+regla,2,3,0.45
+gołdap,2,3,0.45
+kingdom of great britain,2,3,0.45
+barth,2,3,0.45
+barstow,2,3,0.45
+kingman,2,3,0.45
+paola,2,3,0.45
+köpenick,2,3,0.45
+hadley,2,3,0.45
+"wimbledon, london",22,25,0.44
+south africa,23,26,0.43
+stockbridge,10,12,0.43
+murfreesboro,10,12,0.43
+laurel,11,13,0.41
+wilton,11,13,0.41
+helsingborg,11,13,0.41
+kensington,77,82,0.4
+helena,26,29,0.4
+hackensack,12,14,0.39
+dover,50,54,0.39
+frankfort,28,31,0.39
+arizona,12,14,0.39
+beaumont,12,14,0.39
+nicosia,12,14,0.39
+bamako,3,4,0.38
+niagara-on-the-lake,3,4,0.38
+valjevo,3,4,0.38
+arcachon,3,4,0.38
+wishaw,3,4,0.38
+grimsby,13,15,0.38
+navasota,3,4,0.38
+izhevsk,3,4,0.38
+national city,3,4,0.38
+"saint croix, u.s. virgin islands",3,4,0.38
+petoskey,3,4,0.38
+whitchurch,3,4,0.38
+beckley,3,4,0.38
+quilmes,3,4,0.38
+thomaston,3,4,0.38
+évreux,3,4,0.38
+sceaux,3,4,0.38
+redmond,3,4,0.38
+paignton,3,4,0.38
+helston,3,4,0.38
+templeton,3,4,0.38
+fort sam houston,3,4,0.38
+"dundas, ontario",3,4,0.38
+nivelles,3,4,0.38
+adrian,3,4,0.38
+campbellton,3,4,0.38
+makassar,3,4,0.38
+darby,3,4,0.38
+sliema,3,4,0.38
+westmoreland,3,4,0.38
+forbidden city,3,4,0.38
+plumstead,3,4,0.38
+bloemendaal,3,4,0.38
+portici,3,4,0.38
+littleton,3,4,0.38
+edenton,3,4,0.38
+mountain home,3,4,0.38
+lake county,3,4,0.38
+north haven,3,4,0.38
+cebu,3,4,0.38
+motala,3,4,0.38
+sulphur,3,4,0.38
+steamboat springs,3,4,0.38
+schaumburg,3,4,0.38
+honduras,3,4,0.38
+goleta,3,4,0.38
+beacon,3,4,0.38
+wortley,3,4,0.38
+cannock,3,4,0.38
+kern county,3,4,0.38
+beverly,13,15,0.38
+ramsey,3,4,0.38
+ermelo,3,4,0.38
+visalia,3,4,0.38
+harris county,3,4,0.38
+east kilbride,3,4,0.38
+hopkins,3,4,0.38
+greater london,3,4,0.38
+birkenfeld,3,4,0.38
+spanish town,3,4,0.38
+heligoland,3,4,0.38
+ocean city,3,4,0.38
+rochester,130,136,0.37
+salamanca,14,16,0.37
+natchez,14,16,0.37
+chattanooga,33,36,0.36
+bakersfield,15,17,0.35
+linz,36,39,0.35
+zell am see,4,5,0.33
+berwyn,4,5,0.33
+lörrach,4,5,0.33
+kirov,4,5,0.33
+almaty,4,5,0.33
+mishawaka,4,5,0.33
+heidenheim,4,5,0.33
+épernay,4,5,0.33
+cologne,162,168,0.33
+honiton,4,5,0.33
+bushey,4,5,0.33
+glen ridge,4,5,0.33
+deadwood,4,5,0.33
+alliance,4,5,0.33
+armadale,4,5,0.33
+pineville,4,5,0.33
+l'aquila,4,5,0.33
+fort leavenworth,4,5,0.33
+asnières-sur-seine,4,5,0.33
+herat,4,5,0.33
+harpenden,4,5,0.33
+qom,4,5,0.33
+shizuoka,4,5,0.33
+germantown,19,21,0.32
+weimar,74,78,0.32
+pavia,18,20,0.32
+falmouth,19,21,0.32
+cedar rapids,18,20,0.32
+raymond,5,6,0.3
+aarau,5,6,0.3
+carnegie,5,6,0.3
+medicine hat,5,6,0.3
+varna,5,6,0.3
+mankato,5,6,0.3
+gisborne,5,6,0.3
+marlow,5,6,0.3
+maracaibo,5,6,0.3
+compiègne,5,6,0.3
+antananarivo,5,6,0.3
+maplewood,5,6,0.3
+västerås,5,6,0.3
+glossop,5,6,0.3
+west hartford,5,6,0.3
+havre de grace,5,6,0.3
+imola,5,6,0.3
+bhopal,5,6,0.3
+newport,149,154,0.29
+münster,51,54,0.29
+nagpur,6,7,0.28
+schwetzingen,6,7,0.28
+manly,6,7,0.28
+albury,6,7,0.28
+dixon,6,7,0.28
+salinas,6,7,0.28
+thomasville,6,7,0.28
+crewe,6,7,0.28
+northampton,56,59,0.28
+epping,6,7,0.28
+göppingen,6,7,0.28
+guthrie,6,7,0.28
+waverly,6,7,0.28
+latrobe,6,7,0.28
+takoma park,6,7,0.28
+brooksville,6,7,0.28
+tarrytown,6,7,0.28
+livermore,6,7,0.28
+stroud,7,8,0.26
+barnstaple,7,8,0.26
+stuttgart,185,190,0.26
+"saint boniface, manitoba",7,8,0.26
+tartu,32,34,0.25
+united kingdom,70,73,0.25
+new zealand,32,34,0.25
+teddington,8,9,0.24
+cambrai,8,9,0.24
+missoula,8,9,0.24
+winchester,74,77,0.24
+sutton coldfield,8,9,0.24
+casablanca,8,9,0.24
+ypsilanti,8,9,0.24
+aschaffenburg,9,10,0.23
+czech republic,9,10,0.23
+klagenfurt,9,10,0.23
+spartanburg,9,10,0.23
+chatham,9,10,0.23
+wichita,36,38,0.23
+halifax regional municipality,10,11,0.22
+ironton,10,11,0.22
+hagerstown,10,11,0.22
+stratford-upon-avon,10,11,0.22
+ridgefield,10,11,0.22
+ferrara,39,41,0.22
+vermont,10,11,0.22
+rimini,10,11,0.22
+roswell,10,11,0.22
+gmunden,10,11,0.22
+brattleboro,12,13,0.2
+fremantle,12,13,0.2
+bennington,13,14,0.19
+bellevue,14,15,0.19
+beaufort,14,15,0.19
+arnhem,14,15,0.19
+bielefeld,15,16,0.18
+tunis,15,16,0.18
+melrose,15,16,0.18
+utrecht,72,74,0.17
+doncaster,16,17,0.17
+jersey,17,18,0.17
+henderson,16,17,0.17
+philippines,18,19,0.16
+florence,312,316,0.16
+jacksonville,82,84,0.16
+launceston,19,20,0.16
+williamsport,19,20,0.16
+celle,21,22,0.15
+peterborough,24,25,0.14
+malmö,26,27,0.14
+city of halifax,27,28,0.13
+huntington,31,32,0.13
+fayetteville,30,31,0.13
+italy,70,71,0.08
+cardiff,76,77,0.08
+turriff,1,1,0.0
+old catton,1,1,0.0
+kosrae,1,1,0.0
+kristianstad municipality,1,1,0.0
+laugharne,1,1,0.0
+bisaccia,1,1,0.0
+laukaa,1,1,0.0
+laxenburg,3,3,0.0
+sint-genesius-rode,1,1,0.0
+saint-maurice-sur-moselle,1,1,0.0
+konstanz,25,25,0.0
+annemasse,1,1,0.0
+ronnenberg,1,1,0.0
+lavonia,1,1,0.0
+"lee, london",4,4,0.0
+ojców,1,1,0.0
+zingem,1,1,0.0
+trois-pistoles,1,1,0.0
+old bridge,2,2,0.0
+kristiansund,2,2,0.0
+tunica,1,1,0.0
+"oktyabrsky, republic of bashkortostan",1,1,0.0
+biscay,1,1,0.0
+trossin,1,1,0.0
+troon,3,3,0.0
+bokoshe,1,1,0.0
+krumbach,1,1,0.0
+ojiya,1,1,0.0
+anykščiai,1,1,0.0
+le vieil-évreux,1,1,0.0
+kreuzberg,1,1,0.0
+lecco,2,2,0.0
+kraslava,1,1,0.0
+st ippolyts,1,1,0.0
+annapolis royal,1,1,0.0
+le pecq,1,1,0.0
+okmulgee,2,2,0.0
+kottenheim,1,1,0.0
+smithtown,2,2,0.0
+orphir,1,1,0.0
+birling,1,1,0.0
+rosedale,1,1,0.0
+kovilj,1,1,0.0
+kraljevo,1,1,0.0
+trollhättan,1,1,0.0
+ormskirk,5,5,0.0
+leavenworth,11,11,0.0
+oroville,2,2,0.0
+okehampton,1,1,0.0
+le sueur,2,2,0.0
+le tréport,1,1,0.0
+susa,1,1,0.0
+okolona,2,2,0.0
+lednice,1,1,0.0
+kotte,1,1,0.0
+sunbury,1,1,0.0
+krašić,1,1,0.0
+bollschweil,1,1,0.0
+orkney islands,2,2,0.0
+tromsø,4,4,0.0
+kostrzyn nad odrą,4,4,0.0
+silverdale,1,1,0.0
+kot addu,1,1,0.0
+ledesma,1,1,0.0
+krauchenwies,2,2,0.0
+orthez,2,2,0.0
+krasnyi luch,1,1,0.0
+krasnoye selo,1,1,0.0
+saline county,2,2,0.0
+woolston,1,1,0.0
+st asaph,3,3,0.0
+krasnodar,5,5,0.0
+ledegem,1,1,0.0
+bologoye,1,1,0.0
+sint eustatius,1,1,0.0
+olongapo city,2,2,0.0
+krynica,1,1,0.0
+la guaira,3,3,0.0
+blanchester,1,1,0.0
+la gaubretière,1,1,0.0
+smiths falls,2,2,0.0
+lake view,1,1,0.0
+roseboro,1,1,0.0
+oleszyce,1,1,0.0
+la garde-adhémar,1,1,0.0
+tudela,1,1,0.0
+bladensburg,2,2,0.0
+lamarche,1,1,0.0
+omuta,1,1,0.0
+lamballe,1,1,0.0
+la crosse,10,10,0.0
+lambertville,4,4,0.0
+sorgenfri palace,1,1,0.0
+onawa,1,1,0.0
+la ceiba,1,1,0.0
+lamoni,1,1,0.0
+l'isle-sur-la-sorgue,1,1,0.0
+roscrea,1,1,0.0
+tsumkwe,1,1,0.0
+kırklareli,1,1,0.0
+saint-zacharie,1,1,0.0
+küssnacht,1,1,0.0
+tsuchiura,1,1,0.0
+landau,6,6,0.0
+blackwell,2,2,0.0
+woodside,4,4,0.0
+boden,1,1,0.0
+st david's,2,2,0.0
+woodmere,1,1,0.0
+langelsheim,1,1,0.0
+blasket islands,1,1,0.0
+"lac-beauport, quebec",1,1,0.0
+lackawanna,1,1,0.0
+antigo,2,2,0.0
+oliver,1,1,0.0
+labouheyre,1,1,0.0
+la union,1,1,0.0
+ladora,1,1,0.0
+"ladybrand, free state",1,1,0.0
+bluefields,1,1,0.0
+surbiton,5,5,0.0
+blue springs,1,1,0.0
+"tuburan, cebu",1,1,0.0
+surat thani,1,1,0.0
+blue ridge summit,1,1,0.0
+lago di como,1,1,0.0
+laguardia,1,1,0.0
+blomberg,1,1,0.0
+olive branch,1,1,0.0
+antigonish,2,2,0.0
+la porte city,1,1,0.0
+sakhalin,1,1,0.0
+blytheville,1,1,0.0
+lahti,5,5,0.0
+omallur,1,1,0.0
+la mure,1,1,0.0
+laie,1,1,0.0
+laihia,1,1,0.0
+bobbili,1,1,0.0
+bled,1,1,0.0
+landstuhl,2,2,0.0
+langenberg,1,1,0.0
+kryvyi rih,1,1,0.0
+kushinagar,1,1,0.0
+saint-pol-sur-ternoise,1,1,0.0
+biskupiec,1,1,0.0
+kurri kurri,1,1,0.0
+trouville-sur-mer,1,1,0.0
+biskra,1,1,0.0
+kuravilangad,1,1,0.0
+sonthofen,1,1,0.0
+tunapuna,1,1,0.0
+kunnamkulam,1,1,0.0
+kunming,1,1,0.0
+bishopville,1,1,0.0
+woodward,1,1,0.0
+largs,3,3,0.0
+old washington,1,1,0.0
+opwijk,1,1,0.0
+"saint-pascal, quebec",1,1,0.0
+kumasi,1,1,0.0
+bohol,1,1,0.0
+sundridge,1,1,0.0
+zibo,1,1,0.0
+orange,49,49,0.0
+anoka,2,2,0.0
+old summer palace,2,2,0.0
+trossingen,1,1,0.0
+orange free state,2,2,0.0
+las palmas,1,1,0.0
+bischofshofen,2,2,0.0
+old fort,1,1,0.0
+laufenburg,1,1,0.0
+lapalud,2,2,0.0
+bogliasco,1,1,0.0
+köping,1,1,0.0
+bisley,1,1,0.0
+blackall,1,1,0.0
+langenlonsheim,1,1,0.0
+königswinter,4,4,0.0
+black rock,1,1,0.0
+oostkamp,1,1,0.0
+tule lake,1,1,0.0
+köfering,1,1,0.0
+langley,2,2,0.0
+kärkölä,1,1,0.0
+kythira,1,1,0.0
+langstedt,1,1,0.0
+"langwith, derbyshire",1,1,0.0
+tullahoma,1,1,0.0
+kyogle,1,1,0.0
+black river falls,1,1,0.0
+tullow,1,1,0.0
+surnadal,1,1,0.0
+boerne,1,1,0.0
+kyjov,1,1,0.0
+bizerte,1,1,0.0
+anson county,1,1,0.0
+antipolo city,1,1,0.0
+kwadukuza,1,1,0.0
+opelika,2,2,0.0
+opglabbeek,1,1,0.0
+bitburg,1,1,0.0
+opladen,1,1,0.0
+kutina,1,1,0.0
+old whittington,1,1,0.0
+lage,1,1,0.0
+"bocşa, sălaj",1,1,0.0
+osaka prefecture,1,1,0.0
+pandharpur,1,1,0.0
+jablunkov,1,1,0.0
+ursensollen,1,1,0.0
+san leandro,4,4,0.0
+jacobus,1,1,0.0
+jagdishpur,1,1,0.0
+sudbury,4,4,0.0
+panschwitz-kuckau,1,1,0.0
+"amityville, pennsylvania",1,1,0.0
+urjala,1,1,0.0
+brent knoll,1,1,0.0
+konnersreuth,1,1,0.0
+amorbach,6,6,0.0
+janakkala,1,1,0.0
+urbanna,1,1,0.0
+jarnac,1,1,0.0
+urbania,1,1,0.0
+roker,1,1,0.0
+jasło,1,1,0.0
+urbach,1,1,0.0
+pampa,2,2,0.0
+jabalia,1,1,0.0
+brewton,1,1,0.0
+i̇zmit,1,1,0.0
+papanui,1,1,0.0
+isla margarita,1,1,0.0
+brighouse,2,2,0.0
+isle la motte,1,1,0.0
+paracambi,1,1,0.0
+bridport,4,4,0.0
+bridlington,7,7,0.0
+isny im allgäu,1,1,0.0
+åmot,1,1,0.0
+winterswijk,1,1,0.0
+bridgehampton,2,2,0.0
+itri,1,1,0.0
+itō,1,1,0.0
+iuka,1,1,0.0
+ivanava,1,1,0.0
+urswick,1,1,0.0
+san leo,1,1,0.0
+ivybridge,1,1,0.0
+izalco,1,1,0.0
+bridge of allan,2,2,0.0
+amphipolis,1,1,0.0
+jaú,1,1,0.0
+palombara sabina,1,1,0.0
+anacortes,2,2,0.0
+brecht,1,1,0.0
+jonquière,1,1,0.0
+joão pessoa,1,1,0.0
+san giorgio a cremano,1,1,0.0
+brač,1,1,0.0
+juiz de fora,2,2,0.0
+witney,1,1,0.0
+juniville,1,1,0.0
+braxton county,1,1,0.0
+juva,2,2,0.0
+brawley,1,1,0.0
+anantapur,1,1,0.0
+suez,2,2,0.0
+kaarst,1,1,0.0
+kaduna,1,1,0.0
+zvenigorod,1,1,0.0
+unterwössen,1,1,0.0
+kalamunda,2,2,0.0
+kalchreuth,1,1,0.0
+upper marlboro,3,3,0.0
+joliette,2,2,0.0
+upton,3,3,0.0
+upper montclair,1,1,0.0
+uppsala castle,1,1,0.0
+jellico,1,1,0.0
+jenkintown,1,1,0.0
+jennings,2,2,0.0
+bree,1,1,0.0
+jessup,2,2,0.0
+jimbolia,1,1,0.0
+jinan,1,1,0.0
+amstelveen,6,6,0.0
+witham friary,1,1,0.0
+johanngeorgenstadt,1,1,0.0
+johnson city,9,9,0.0
+johnston,4,4,0.0
+"upper sackville, nova scotia",1,1,0.0
+upper palatinate,1,1,0.0
+johnsville,1,1,0.0
+johor bahru,2,2,0.0
+san giorgio canavese,1,1,0.0
+jokioinen,1,1,0.0
+paralakhemundi,1,1,0.0
+isehara,1,1,0.0
+brightwell-cum-sotwell,1,1,0.0
+valga,2,2,0.0
+pasig,2,2,0.0
+étain,1,1,0.0
+valenzuela city,1,1,0.0
+épinoy,1,1,0.0
+brondesbury,1,1,0.0
+bromsgrove,3,3,0.0
+brompton,1,1,0.0
+valdosta,6,6,0.0
+bromley-by-bow,3,3,0.0
+taibach,1,1,0.0
+hörby,1,1,0.0
+san quentin,1,1,0.0
+hünfeld,1,1,0.0
+parry sound,2,2,0.0
+valdagno,1,1,0.0
+wingham,1,1,0.0
+iberville parish,1,1,0.0
+brockley,1,1,0.0
+san pablo city,1,1,0.0
+hutchinson county,1,1,0.0
+hurstpierpoint,1,1,0.0
+paros,1,1,0.0
+passau,12,12,0.0
+brougham castle,1,1,0.0
+brotterode,1,1,0.0
+hudsonville,1,1,0.0
+"broomhill, glasgow",1,1,0.0
+stühlingen,1,1,0.0
+patmos,1,1,0.0
+hull,4,4,0.0
+hulme,1,1,0.0
+hulst,1,1,0.0
+sand springs,1,1,0.0
+amami oshima,1,1,0.0
+valledupar,1,1,0.0
+suamico,1,1,0.0
+huntingdonshire,1,1,0.0
+amanda,1,1,0.0
+huntington park,3,3,0.0
+huntingtower castle,1,1,0.0
+san sperate,1,1,0.0
+hunton,1,1,0.0
+idaho city,1,1,0.0
+ightfield,1,1,0.0
+suceava,1,1,0.0
+instow,1,1,0.0
+inuyama,1,1,0.0
+çırağan palace,1,1,0.0
+invercargill,4,4,0.0
+parchim,3,3,0.0
+uttarpara,1,1,0.0
+inveruno,1,1,0.0
+inyo county,1,1,0.0
+inzersdorf,2,2,0.0
+çorlu,1,1,0.0
+ione,1,1,0.0
+ionia,1,1,0.0
+utsunomiya,1,1,0.0
+winslow,2,2,0.0
+brislington,3,3,0.0
+irbid,2,2,0.0
+brimfield,1,1,0.0
+somers,1,1,0.0
+iron mountain,1,1,0.0
+irun,1,1,0.0
+winnetka,2,2,0.0
+innishannon,1,1,0.0
+brockenhurst,2,2,0.0
+"paris, texas",6,6,0.0
+valbo,1,1,0.0
+ilfracombe,2,2,0.0
+valadares,1,1,0.0
+illhaeusern,1,1,0.0
+ilmajoki,1,1,0.0
+ilok,1,1,0.0
+imbros,1,1,0.0
+vadstena,1,1,0.0
+inanda,1,1,0.0
+vadodara,5,5,0.0
+san miguel de allende,4,4,0.0
+indian creek,1,1,0.0
+broadview,1,1,0.0
+"broadstone, dorset",1,1,0.0
+broadalbin,1,1,0.0
+indooroopilly,1,1,0.0
+parkside,1,1,0.0
+uvalde,2,2,0.0
+ingolstadt,15,15,0.0
+kalimpong,1,1,0.0
+paldiski,1,1,0.0
+kalispell,2,2,0.0
+saltash,1,1,0.0
+boscobel,1,1,0.0
+kingston lacy,1,1,0.0
+tyumen,2,2,0.0
+kingston vale,1,1,0.0
+othello,1,1,0.0
+kingswood,1,1,0.0
+borujerd,1,1,0.0
+kinsale,1,1,0.0
+sulęcin,1,1,0.0
+romulus,3,3,0.0
+rondebosch,1,1,0.0
+kirk ella,1,1,0.0
+kirkby-in-ashfield,2,2,0.0
+ankum,1,1,0.0
+bornem,1,1,0.0
+kirkjubøur,3,3,0.0
+ostia antica,1,1,0.0
+borgomanero,1,1,0.0
+kirkleatham,1,1,0.0
+otranto,1,1,0.0
+botany,1,1,0.0
+kirkwood,5,5,0.0
+kings mountain,1,1,0.0
+boulder creek,1,1,0.0
+ogdensburg,3,3,0.0
+romney,3,3,0.0
+uberlândia,1,1,0.0
+srirangapatna,1,1,0.0
+ottobeuren,1,1,0.0
+bou,1,1,0.0
+töss,1,1,0.0
+ottersberg,1,1,0.0
+otterburn,1,1,0.0
+salterhebble,1,1,0.0
+kimberley,2,2,0.0
+botticino,1,1,0.0
+romsdal,1,1,0.0
+kimbolton,1,1,0.0
+botkyrka municipality,1,1,0.0
+anguilla,1,1,0.0
+king george county,1,1,0.0
+bothwell,1,1,0.0
+kirkwall,1,1,0.0
+tyringham,1,1,0.0
+rommersheim,1,1,0.0
+klosterneuburg,8,8,0.0
+knowsley hall,2,2,0.0
+summer hill,2,2,0.0
+kobryn,1,1,0.0
+kock,1,1,0.0
+wolnzach,1,1,0.0
+koerich,1,1,0.0
+"summerbridge, north yorkshire",1,1,0.0
+osimo,1,1,0.0
+tutbury castle,1,1,0.0
+bonsecours,1,1,0.0
+"tusket, nova scotia",1,1,0.0
+summerside,1,1,0.0
+kolpino,2,2,0.0
+kompolt,1,1,0.0
+komsomolsk-on-amur,1,1,0.0
+annaburg,1,1,0.0
+tusculum,1,1,0.0
+kongsvinger,1,1,0.0
+koningsbosch,1,1,0.0
+knebworth,1,1,0.0
+klin,1,1,0.0
+borella,1,1,0.0
+klerksdorp,1,1,0.0
+ostercappeln,1,1,0.0
+osterburg,1,1,0.0
+kirtlington,1,1,0.0
+kiryu,1,1,0.0
+kisbér,1,1,0.0
+kisdorf,1,1,0.0
+bordesley green,1,1,0.0
+bordentown,2,2,0.0
+borden,2,2,0.0
+kitigan zibi,1,1,0.0
+somersworth,3,3,0.0
+kittery,3,3,0.0
+kittilä,1,1,0.0
+twyford,1,1,0.0
+two harbors,1,1,0.0
+wolfville,1,1,0.0
+twistringen,1,1,0.0
+ossmannstedt,1,1,0.0
+klenčí pod čerchovem,1,1,0.0
+boulogne-sur-mer,15,15,0.0
+keynsham,1,1,0.0
+kallianpur,1,1,0.0
+soacha,1,1,0.0
+kashiwara,1,1,0.0
+umbria,1,1,0.0
+andratx,1,1,0.0
+kasseh,1,1,0.0
+uman,2,2,0.0
+padang,1,1,0.0
+"bradley, west midlands",1,1,0.0
+sighetu marmaţiei,3,3,0.0
+ulster,2,2,0.0
+katwijk,1,1,0.0
+katzenelnbogen,1,1,0.0
+wixom,1,1,0.0
+ulsan,1,1,0.0
+kaufman,2,2,0.0
+ulm,20,20,0.0
+pacho,1,1,0.0
+ullensaker,1,1,0.0
+romeo,2,2,0.0
+ukhta,1,1,0.0
+romano di lombardia,1,1,0.0
+page county,1,1,0.0
+kazimierz,1,1,0.0
+karlsbad,1,1,0.0
+unterroth,1,1,0.0
+ancón,1,1,0.0
+unley,2,2,0.0
+bramstedt,1,1,0.0
+bramshaw,1,1,0.0
+kanchipuram,1,1,0.0
+rolla,1,1,0.0
+palace of westminster,4,4,0.0
+andechs,1,1,0.0
+kankakee county,1,1,0.0
+kannapolis,2,2,0.0
+san cristóbal de las casas,1,1,0.0
+united states naval academy,1,1,0.0
+palace of placentia,2,2,0.0
+bramley,1,1,0.0
+srikalahasti,1,1,0.0
+bramhall,2,2,0.0
+karcag,1,1,0.0
+pageland,1,1,0.0
+kaysersberg,1,1,0.0
+andros,1,1,0.0
+ouro preto,3,3,0.0
+"bowmanville, ontario",1,1,0.0
+kenton,5,5,0.0
+overveen,1,1,0.0
+uehrde,1,1,0.0
+angles-sur-l'anglin,1,1,0.0
+bowie county,2,2,0.0
+kenvil,1,1,0.0
+keokuk,7,7,0.0
+kerken,1,1,0.0
+kerkrade,3,3,0.0
+kernersville,1,1,0.0
+kerpen,1,1,0.0
+overbrook,1,1,0.0
+bourne end,3,3,0.0
+udon thani,1,1,0.0
+over stowey,1,1,0.0
+ovar,1,1,0.0
+kettwig,1,1,0.0
+kew,4,4,0.0
+kew vic,6,6,0.0
+kentland,1,1,0.0
+"ovington, hampshire",1,1,0.0
+kearney,2,2,0.0
+salzgitter-ringelheim,1,1,0.0
+oyonnax,1,1,0.0
+boyne city,1,1,0.0
+oxon hill,1,1,0.0
+sriperumbudur,1,1,0.0
+"anfield, liverpool",1,1,0.0
+samoa,3,3,0.0
+kelvin grove,1,1,0.0
+kemberg,1,1,0.0
+kempsey,1,1,0.0
+kempston,1,1,0.0
+"kempton park, gauteng",1,1,0.0
+owerri,1,1,0.0
+sammatti,1,1,0.0
+boyle heights,1,1,0.0
+kenmare,1,1,0.0
+zschopau,1,1,0.0
+boyle county,3,3,0.0
+uglich,1,1,0.0
+box hill,1,1,0.0
+rosendale,2,2,0.0
+livonia,2,2,0.0
+bingen am rhein,3,3,0.0
+milwaukee county,1,1,0.0
+mimico,1,1,0.0
+banchory,1,1,0.0
+banbury,9,9,0.0
+mindanao,1,1,0.0
+mindoro,1,1,0.0
+minehead,3,3,0.0
+bampton,2,2,0.0
+bamenda,1,1,0.0
+temora,1,1,0.0
+slavkov u brna,1,1,0.0
+minot,4,4,0.0
+balve,1,1,0.0
+minturno,1,1,0.0
+minusinsk,1,1,0.0
+mirano,1,1,0.0
+newman,1,1,0.0
+asikkala,2,2,0.0
+misenum,1,1,0.0
+mishima,1,1,0.0
+mississippi county,1,1,0.0
+st. croix falls,1,1,0.0
+bancroft,1,1,0.0
+slaný,1,1,0.0
+midgham,1,1,0.0
+miltenberg,1,1,0.0
+tenterden,1,1,0.0
+newtownards,1,1,0.0
+mifflinburg,1,1,0.0
+newton ferrers,1,1,0.0
+newton aycliffe,1,1,0.0
+bansha,1,1,0.0
+rothesay,4,4,0.0
+newstead abbey,2,2,0.0
+sárospatak,2,2,0.0
+bannockburn,1,1,0.0
+newport-on-tay,1,1,0.0
+millard county,1,1,0.0
+bangui,2,2,0.0
+yell county,1,1,0.0
+millburn,1,1,0.0
+newport pagnell,2,2,0.0
+ruthin,4,4,0.0
+ashwell,1,1,0.0
+ashwick,1,1,0.0
+millstone,2,2,0.0
+bandung,7,7,0.0
+"balmoral, victoria",1,1,0.0
+newington,1,1,0.0
+moberly,2,2,0.0
+modbury,1,1,0.0
+rural valley,1,1,0.0
+monmouth beach,1,1,0.0
+rottenacker,1,1,0.0
+rupert,1,1,0.0
+baldwin city,1,1,0.0
+baldwin,2,2,0.0
+mont-sous-vaudrey,1,1,0.0
+montabaur,2,2,0.0
+balderton,1,1,0.0
+montague,3,3,0.0
+montalto di castro,1,1,0.0
+"tayabas, quezon",1,1,0.0
+"newbridge, county kildare",1,1,0.0
+asse,1,1,0.0
+montbrison,2,2,0.0
+taxco,1,1,0.0
+balcarres,1,1,0.0
+balassagyarmat,1,1,0.0
+monte san giovanni campano,1,1,0.0
+balasar,1,1,0.0
+bala cynwyd,3,3,0.0
+balfour,1,1,0.0
+moneglia,1,1,0.0
+balgownie,1,1,0.0
+mol,1,1,0.0
+asolo,1,1,0.0
+yemen,3,3,0.0
+modimolle,1,1,0.0
+modriča,1,1,0.0
+moe,1,1,0.0
+moers,4,4,0.0
+moffat,3,3,0.0
+newellton,1,1,0.0
+newcomerstown,1,1,0.0
+molde,1,1,0.0
+moncton,9,9,0.0
+tecklenburg,2,2,0.0
+ballitore,1,1,0.0
+sárvár,1,1,0.0
+yenne,1,1,0.0
+yeovil,6,6,0.0
+monasterboice,1,1,0.0
+monasterevin,1,1,0.0
+são josé do rio preto,1,1,0.0
+moncks corner,1,1,0.0
+newville,1,1,0.0
+middlewich,1,1,0.0
+bakov nad jizerou,1,1,0.0
+medicine lodge,1,1,0.0
+medindie,1,1,0.0
+skodsborg,1,1,0.0
+medzhybizh,3,3,0.0
+noble county,1,1,0.0
+barrow upon trent,1,1,0.0
+noakhali district,1,1,0.0
+syria,5,5,0.0
+meiderich,1,1,0.0
+meiktila,1,1,0.0
+meilen,1,1,0.0
+meiningen,23,23,0.0
+meiringen,2,2,0.0
+melegnano,1,1,0.0
+"melenki, vladimir oblast",1,1,0.0
+ashburton,2,2,0.0
+rostov,2,2,0.0
+melle,4,4,0.0
+barranquitas,1,1,0.0
+nineveh,1,1,0.0
+barranquilla,1,1,0.0
+barrackpore,1,1,0.0
+sa'dah,1,1,0.0
+bartlesville,3,3,0.0
+slunj,1,1,0.0
+baruth,1,1,0.0
+nontron,1,1,0.0
+mcalester,6,6,0.0
+basseterre,1,1,0.0
+thermopolis,1,1,0.0
+nong khai,1,1,0.0
+theberton,1,1,0.0
+nomeny,1,1,0.0
+nome,1,1,0.0
+mcminnville,3,3,0.0
+sabadell,1,1,0.0
+nola,2,2,0.0
+basildon,1,1,0.0
+mebane,1,1,0.0
+ash vale,1,1,0.0
+mechanic falls,1,1,0.0
+st. blasien,1,1,0.0
+baschurch,1,1,0.0
+thaxted,2,2,0.0
+saalburg-ebersdorf,2,2,0.0
+syr darya,1,1,0.0
+nocera umbra,1,1,0.0
+szczebrzeszyn,1,1,0.0
+tešanj,1,1,0.0
+barnstable,3,3,0.0
+ashdown,1,1,0.0
+nideggen,1,1,0.0
+metković,1,1,0.0
+metten,1,1,0.0
+rotenburg an der wümme,1,1,0.0
+barboursville,3,3,0.0
+terracina,1,1,0.0
+mevagissey,1,1,0.0
+terra bella,1,1,0.0
+slad,1,1,0.0
+zarephath,2,2,0.0
+zanzibar,1,1,0.0
+michendorf,1,1,0.0
+termoli,1,1,0.0
+baraboo,3,3,0.0
+rwanda,1,1,0.0
+"middelburg, eastern cape",1,1,0.0
+middelkerke,1,1,0.0
+bar,1,1,0.0
+middlebury,10,10,0.0
+middlesex,19,19,0.0
+middleton cheney,1,1,0.0
+bargeddie,1,1,0.0
+messolonghi,3,3,0.0
+barham,1,1,0.0
+niepołomice,1,1,0.0
+nikaia,1,1,0.0
+tezpur,1,1,0.0
+mendoza,7,7,0.0
+menen,1,1,0.0
+yaoundé,1,1,0.0
+teyateyaneng,1,1,0.0
+menzel temime,1,1,0.0
+texel,1,1,0.0
+niesky,1,1,0.0
+nienburg,1,1,0.0
+messene,1,1,0.0
+merchtem,1,1,0.0
+meredith,2,2,0.0
+teulon,1,1,0.0
+tetbury,3,3,0.0
+merikarvia,1,1,0.0
+río gallegos,1,1,0.0
+merrylands,1,1,0.0
+barlaston,1,1,0.0
+niederbronn-les-bains,1,1,0.0
+montefalco,1,1,0.0
+montego bay,3,3,0.0
+maytown,2,2,0.0
+talywain,1,1,0.0
+new alresford,2,2,0.0
+mühlenbarbek,1,1,0.0
+talmage,1,1,0.0
+nevşehir,1,1,0.0
+münzenberg,1,1,0.0
+rowlesburg,1,1,0.0
+rowena,1,1,0.0
+rowanduz,1,1,0.0
+yoncalla,1,1,0.0
+ayot st lawrence,1,1,0.0
+nadiad,1,1,0.0
+nevel,2,2,0.0
+aylmer,2,2,0.0
+st. helens,1,1,0.0
+naha,4,4,0.0
+nahalal,1,1,0.0
+aylesford,1,1,0.0
+ayer,1,1,0.0
+nailsea,1,1,0.0
+ayacucho,1,1,0.0
+naintré,1,1,0.0
+mühlberg,1,1,0.0
+auburn hills,1,1,0.0
+murshidabad,3,3,0.0
+ayutthaya,4,4,0.0
+muscat,1,1,0.0
+söğüt,1,1,0.0
+musina,1,1,0.0
+bad arolsen,11,11,0.0
+st. gilgen,2,2,0.0
+mussomeli,1,1,0.0
+aubervilliers,1,1,0.0
+muttenz,1,1,0.0
+sønderborg,1,1,0.0
+yukhnov,1,1,0.0
+mvolyé,1,1,0.0
+tamana,1,1,0.0
+new bethlehem,1,1,0.0
+aşgabat,3,3,0.0
+añasco,1,1,0.0
+mysłowice,2,2,0.0
+azzana,1,1,0.0
+azusa,1,1,0.0
+målselv,1,1,0.0
+ménerbes,1,1,0.0
+sønderborg castle,1,1,0.0
+sliedrecht,1,1,0.0
+"sławnikowice, lower silesian voivodeship",1,1,0.0
+nalchik,1,1,0.0
+neuötting,1,1,0.0
+navarre,2,2,0.0
+taft,1,1,0.0
+naxxar,1,1,0.0
+neasden,1,1,0.0
+neath,14,14,0.0
+"nebel, germany",1,1,0.0
+austrian empire,2,2,0.0
+austintown,1,1,0.0
+neka,1,1,0.0
+neulussheim,1,1,0.0
+neufchâtel-sur-aisne,1,1,0.0
+neuenstein,2,2,0.0
+austhorpe,1,1,0.0
+neuenstadt am kocher,2,2,0.0
+nephi,1,1,0.0
+nepi,2,2,0.0
+"neuenkirchen, stade",1,1,0.0
+nervi,1,1,0.0
+"nes, eysturoy",1,1,0.0
+netley,1,1,0.0
+neu-isenburg,3,3,0.0
+rouvres-en-plaine,1,1,0.0
+neunkirchen-seelscheid,1,1,0.0
+roundup,1,1,0.0
+neustadt an der orla,2,2,0.0
+yorba linda,1,1,0.0
+"nan'an, fujian",1,1,0.0
+auchterarder,1,1,0.0
+round rock,1,1,0.0
+talavera de la reina,5,5,0.0
+nantucket,11,11,0.0
+nantwich,4,4,0.0
+avondale,2,2,0.0
+napa county,2,2,0.0
+yorktown,5,5,0.0
+avallon,1,1,0.0
+neustadt an der dosse,1,1,0.0
+takasago,1,1,0.0
+avintes,1,1,0.0
+nash county,1,1,0.0
+neustadt an der donau,1,1,0.0
+naso,1,1,0.0
+aughton,1,1,0.0
+aveiro,1,1,0.0
+"natrona, pennsylvania",1,1,0.0
+murwillumbah,2,2,0.0
+murrumbeena,1,1,0.0
+montemor-o-novo,1,1,0.0
+bagnoregio,1,1,0.0
+moorslede,2,2,0.0
+moosach,1,1,0.0
+new preston,1,1,0.0
+bagnacavallo,1,1,0.0
+morar,1,1,0.0
+moravia,1,1,0.0
+moravský krumlov,1,1,0.0
+zambia,1,1,0.0
+"astorga, spain",1,1,0.0
+new philadelphia,1,1,0.0
+tasmania,7,7,0.0
+moret-sur-loing,1,1,0.0
+new norfolk,1,1,0.0
+royton,1,1,0.0
+morganfield,2,2,0.0
+badonviller,1,1,0.0
+badhoevedorp,1,1,0.0
+moringen,1,1,0.0
+baden-württemberg,2,2,0.0
+moritzburg,2,2,0.0
+sleepy eye,1,1,0.0
+mooroopna,1,1,0.0
+astolfo dutra,1,1,0.0
+murray hill,1,1,0.0
+moon,1,1,0.0
+sleaford,2,2,0.0
+rumney,1,1,0.0
+montevarchi,2,2,0.0
+baker,2,2,0.0
+assen,2,2,0.0
+bajina bašta,1,1,0.0
+montilla,1,1,0.0
+ruma,2,2,0.0
+montmédy,1,1,0.0
+monto,1,1,0.0
+assisi,5,5,0.0
+baillieston,1,1,0.0
+taunggyi,1,1,0.0
+"montpensier, puy-de-dôme",1,1,0.0
+slonim,1,1,0.0
+new rockford,1,1,0.0
+bahrain,1,1,0.0
+montréal-est,1,1,0.0
+montville,1,1,0.0
+montérégie,1,1,0.0
+bagrationovsk,4,4,0.0
+sleeuwijk,1,1,0.0
+moroni,1,1,0.0
+bad wimpfen,1,1,0.0
+morrisania,2,2,0.0
+mount prospect,1,1,0.0
+mount shasta,2,2,0.0
+bad könig,1,1,0.0
+mountain lake,2,2,0.0
+tantanoola,1,1,0.0
+mtsensk,1,1,0.0
+much wenlock,1,1,0.0
+royal lodge,1,1,0.0
+muenster,1,1,0.0
+"multia, finland",1,1,0.0
+bad camberg,1,1,0.0
+bad brückenau,1,1,0.0
+aubagne,1,1,0.0
+munich residenz,1,1,0.0
+murau,1,1,0.0
+muret,3,3,0.0
+sömmerda,1,1,0.0
+bad blankenburg,1,1,0.0
+taneytown,1,1,0.0
+murphysboro,2,2,0.0
+bad bentheim,1,1,0.0
+bad kötzting,1,1,0.0
+new iberia,3,3,0.0
+bad münstereifel,1,1,0.0
+royal palace of madrid,2,2,0.0
+slindon,1,1,0.0
+morriston,5,5,0.0
+new marlborough,1,1,0.0
+mortain,1,1,0.0
+bad sulza,1,1,0.0
+bad schönborn,1,1,0.0
+bad schwalbach,4,4,0.0
+bad schussenried,1,1,0.0
+moss,1,1,0.0
+taree,1,1,0.0
+mount joy,1,1,0.0
+motril,1,1,0.0
+söhlde,1,1,0.0
+new lenox,1,1,0.0
+taraz,1,1,0.0
+mound bayou,1,1,0.0
+mount clemens,5,5,0.0
+"mount forest, ontario",1,1,0.0
+mount holly,10,10,0.0
+mount hope,3,3,0.0
+mayville,1,1,0.0
+thiais,1,1,0.0
+rosenheim,10,10,0.0
+locust grove,1,1,0.0
+berkley,1,1,0.0
+wusterhausen,1,1,0.0
+toropets,1,1,0.0
+loganville,1,1,0.0
+loimaa,1,1,0.0
+bergerac,1,1,0.0
+bergenfield,1,1,0.0
+lomas de zamora,1,1,0.0
+rosières-en-santerre,1,1,0.0
+suzuka,1,1,0.0
+lomé,4,4,0.0
+london borough of barnet,1,1,0.0
+london borough of bexley,1,1,0.0
+london borough of brent,3,3,0.0
+oak ridge,1,1,0.0
+berck,1,1,0.0
+wylie,1,1,0.0
+berazino,1,1,0.0
+london borough of harrow,3,3,0.0
+berat,1,1,0.0
+zetel,1,1,0.0
+torre annunziata,1,1,0.0
+lockland,1,1,0.0
+torrington,6,6,0.0
+berkshire,1,1,0.0
+"sandal, england",1,1,0.0
+torreón,2,2,0.0
+torres vedras,1,1,0.0
+oban,1,1,0.0
+bernolákovo,1,1,0.0
+bernau am chiemsee,1,1,0.0
+llanfair talhaiarn,1,1,0.0
+llangefni,1,1,0.0
+llangollen,1,1,0.0
+llangyfelach,1,1,0.0
+llanrumney,1,1,0.0
+llantrisant,1,1,0.0
+oatlands palace,1,1,0.0
+llíria,1,1,0.0
+lobau,1,1,0.0
+rosheim,1,1,0.0
+sinuiju,1,1,0.0
+oakwood,1,1,0.0
+oakmont,1,1,0.0
+lochgilphead,1,1,0.0
+lochranza,1,1,0.0
+swaffham,1,1,0.0
+oak grove,1,1,0.0
+wymeswold,1,1,0.0
+arendal,2,2,0.0
+argun,1,1,0.0
+louisa,1,1,0.0
+tonopah,2,2,0.0
+belyov,1,1,0.0
+tonga,1,1,0.0
+nuuk,1,1,0.0
+belvoir castle,1,1,0.0
+nurmijärvi,1,1,0.0
+st. lawrence,1,1,0.0
+lovendegem,1,1,0.0
+lovön,1,1,0.0
+nuoro,1,1,0.0
+numazu,1,1,0.0
+tomball,1,1,0.0
+nueces county,1,1,0.0
+belper,2,2,0.0
+lower saxony,1,1,0.0
+"loyalist, ontario",1,1,0.0
+luanda,3,3,0.0
+nowra,1,1,0.0
+lubec,2,2,0.0
+nyköping castle,1,1,0.0
+"smith-ennismore-lakefield, ontario",1,1,0.0
+belz,2,2,0.0
+benicia,3,3,0.0
+london borough of sutton,2,2,0.0
+lone oak,1,1,0.0
+tordesillas,2,2,0.0
+long eaton,4,4,0.0
+bensenville,1,1,0.0
+saint-georges-haute-ville,1,1,0.0
+nürtingen,2,2,0.0
+longreach,1,1,0.0
+zemun,2,2,0.0
+návsí,1,1,0.0
+saint-dizier,2,2,0.0
+toowoomba,6,6,0.0
+zeltweg,1,1,0.0
+wynne,2,2,0.0
+los chaves,1,1,0.0
+nyngan,1,1,0.0
+los molinos,1,1,0.0
+loschwitz,4,4,0.0
+belzig,1,1,0.0
+lostwithiel,1,1,0.0
+beroun,1,1,0.0
+bertie county,2,2,0.0
+lubumbashi,1,1,0.0
+lesa,1,1,0.0
+ochsenfurt,1,1,0.0
+saint-lambert,1,1,0.0
+st kilda east,1,1,0.0
+tremadog,1,1,0.0
+letohrad,1,1,0.0
+leura,1,1,0.0
+leutershausen,1,1,0.0
+zhoukou,1,1,0.0
+aramon,1,1,0.0
+levin,1,1,0.0
+worth,1,1,0.0
+lewinsville,1,1,0.0
+treia,1,1,0.0
+lewisburg,10,10,0.0
+trebbin,1,1,0.0
+lexa,1,1,0.0
+son tay,1,1,0.0
+biedenkopf,1,1,0.0
+arbil,2,2,0.0
+saint-josse-ten-noode,3,3,0.0
+trebanog,1,1,0.0
+saint-léonard-de-noblat,1,1,0.0
+les sables-d'olonne,2,2,0.0
+bertinoro,1,1,0.0
+"trentham, staffordshire",1,1,0.0
+oerlinghausen,1,1,0.0
+leichlingen,1,1,0.0
+billericay,1,1,0.0
+oelde,1,1,0.0
+oeiras,1,1,0.0
+leighton buzzard,4,4,0.0
+bilgəh,1,1,0.0
+apalachin,1,1,0.0
+lempäälä,1,1,0.0
+lemwerder,1,1,0.0
+lengau,1,1,0.0
+apatzingán,1,1,0.0
+workington,5,5,0.0
+bikfaya,1,1,0.0
+lentini,1,1,0.0
+"lenton, nottingham",1,1,0.0
+odenton,1,1,0.0
+sutton forest,2,2,0.0
+leonberg,3,3,0.0
+worksop,9,9,0.0
+rosetta,1,1,0.0
+saint-joseph-de-beauce,1,1,0.0
+biddulph,1,1,0.0
+liberty county,4,4,0.0
+librazhd,1,1,0.0
+wrexham,14,14,0.0
+tournon-sur-rhône,1,1,0.0
+lindenau,1,1,0.0
+lindsborg,1,1,0.0
+writtle,1,1,0.0
+września,1,1,0.0
+linn county,2,2,0.0
+wuhan,2,2,0.0
+"lion's head, ontario",1,1,0.0
+toul,2,2,0.0
+lira,1,1,0.0
+berwickshire,2,2,0.0
+lisieux,3,3,0.0
+totteridge,3,3,0.0
+liss,1,1,0.0
+lithonia,1,1,0.0
+sint-truiden,3,3,0.0
+tortona,1,1,0.0
+little chute,1,1,0.0
+little compton,1,1,0.0
+saint-hippolyte,1,1,0.0
+oberndorf bei salzburg,1,1,0.0
+obernkirchen,2,2,0.0
+saint-jean-de-maurienne,1,1,0.0
+lidingö municipality,1,1,0.0
+sint-michiels,1,1,0.0
+wraysbury,1,1,0.0
+arboga,1,1,0.0
+lich,1,1,0.0
+trappe,2,2,0.0
+sint-oedenrode,1,1,0.0
+obertshausen,1,1,0.0
+lida,1,1,0.0
+beypore,1,1,0.0
+smithers,1,1,0.0
+limbach-oberfrohna,1,1,0.0
+lienen,1,1,0.0
+oberstaufen,1,1,0.0
+"lier, belgium",5,5,0.0
+liestal,1,1,0.0
+ligonier,2,2,0.0
+bexar county,1,1,0.0
+beverwijk,3,3,0.0
+lilleshall,1,1,0.0
+bevern,1,1,0.0
+tolú,1,1,0.0
+"lucan, dublin",1,1,0.0
+norbiton,1,1,0.0
+marchiennes,1,1,0.0
+mare island,2,2,0.0
+margao,1,1,0.0
+bazentin,1,1,0.0
+"zelenogorsk, saint petersburg",2,2,0.0
+marietta,27,27,0.0
+marino,2,2,0.0
+north haledon,1,1,0.0
+markdorf,1,1,0.0
+markersdorf,1,1,0.0
+"north glengarry, ontario",1,1,0.0
+market harborough,1,1,0.0
+market warsop,2,2,0.0
+thyrnau,1,1,0.0
+markkleeberg,1,1,0.0
+marktoberdorf,4,4,0.0
+"skerries, dublin",1,1,0.0
+thursday island,1,1,0.0
+north creek,1,1,0.0
+marmande,1,1,0.0
+marostica,1,1,0.0
+thuin,1,1,0.0
+beach city,1,1,0.0
+north reading,1,1,0.0
+mandaluyong,1,1,0.0
+beaminster,2,2,0.0
+north sydney,7,7,0.0
+skara,1,1,0.0
+beaver,6,6,0.0
+manistee,3,3,0.0
+manitoba,2,2,0.0
+manitowoc,2,2,0.0
+maniwaki,1,1,0.0
+north stonington,1,1,0.0
+beauly,1,1,0.0
+north stoneham,1,1,0.0
+mansura,1,1,0.0
+beaugency,1,1,0.0
+manteno,1,1,0.0
+manti,2,2,0.0
+manton,1,1,0.0
+north smithfield,1,1,0.0
+maple creek,1,1,0.0
+mapperley,1,1,0.0
+skarżysko-kamienna,1,1,0.0
+zelenogradsk,1,1,0.0
+bear river city,1,1,0.0
+marseilles,1,1,0.0
+bauska,1,1,0.0
+st. andrews,2,2,0.0
+baugé,1,1,0.0
+mathews county,1,1,0.0
+arundel castle,1,1,0.0
+matsudo,1,1,0.0
+matsumoto,1,1,0.0
+matsusaka,1,1,0.0
+rosslyn,1,1,0.0
+"nordstrand, germany",1,1,0.0
+maughold,1,1,0.0
+sylvania,2,2,0.0
+"mauriac, cantal",1,1,0.0
+mauritius,3,3,0.0
+skinnskatteberg,1,1,0.0
+mauston,1,1,0.0
+mawgan-in-meneage,1,1,0.0
+mawlamyine,3,3,0.0
+maxwelltown,1,1,0.0
+bastida pancarana,1,1,0.0
+maybole,1,1,0.0
+thibodaux,3,3,0.0
+norbury park,1,1,0.0
+maylands,1,1,0.0
+norridgewock,1,1,0.0
+sadhora,1,1,0.0
+matawan,2,2,0.0
+thornbury,1,1,0.0
+arona,3,3,0.0
+martin,2,2,0.0
+martin county,1,1,0.0
+north battleford,1,1,0.0
+yancey county,1,1,0.0
+martinsville,2,2,0.0
+martletwy,1,1,0.0
+"arris, algeria",1,1,0.0
+martorell,1,1,0.0
+thonon-les-bains,2,2,0.0
+batheaston,1,1,0.0
+"marín, pontevedra",1,1,0.0
+mascot,1,1,0.0
+masham,1,1,0.0
+mashpee,1,1,0.0
+massa,5,5,0.0
+north,1,1,0.0
+aruba,2,2,0.0
+mastic,1,1,0.0
+mata-utu,1,1,0.0
+mandan,1,1,0.0
+rossall,1,1,0.0
+lucas,1,1,0.0
+luverne,1,1,0.0
+lycksele,1,1,0.0
+saint-andré-d'hébertot,1,1,0.0
+"saint-andré-d'argenteuil, quebec",1,1,0.0
+sissinghurst,1,1,0.0
+belle île,1,1,0.0
+lyminster,1,1,0.0
+sitges,2,2,0.0
+saint-amant-tallende,1,1,0.0
+sitrah,1,1,0.0
+noto,2,2,0.0
+titchfield,1,1,0.0
+lyons-la-forêt,1,1,0.0
+bella coola,1,1,0.0
+lány,1,1,0.0
+bell buckle,1,1,0.0
+lübben,2,2,0.0
+sweet home,1,1,0.0
+lüderitz,1,1,0.0
+lüdinghausen,1,1,0.0
+lüneburg,16,16,0.0
+"tisbury, wiltshire",1,1,0.0
+"saint-anselme, quebec",1,1,0.0
+luumäki,1,1,0.0
+tienen,1,1,0.0
+lutterworth,1,1,0.0
+tolleson,1,1,0.0
+beloeil,1,1,0.0
+saint-christophe-en-oisans,1,1,0.0
+tokushima,1,1,0.0
+ludvika municipality,1,1,0.0
+tokunoshima,1,1,0.0
+saint-brice-sous-forêt,1,1,0.0
+ludwigshöhe,1,1,0.0
+togo,1,1,0.0
+saint-briac-sur-mer,1,1,0.0
+sweden,46,46,0.0
+wysokie mazowieckie,1,1,0.0
+lukovit,1,1,0.0
+novaya ladoga,1,1,0.0
+lunel,1,1,0.0
+bellheim,1,1,0.0
+bellflower,2,2,0.0
+luque,2,2,0.0
+luquillo,1,1,0.0
+"saint-arsène, quebec",1,1,0.0
+belley,2,2,0.0
+belize city,1,1,0.0
+"macamic, quebec",1,1,0.0
+macaé,1,1,0.0
+st. joseph county,1,1,0.0
+st neots,2,2,0.0
+maiolati spontini,1,1,0.0
+beilstein,1,1,0.0
+northcote,1,1,0.0
+"maitland, hants county, nova scotia",1,1,0.0
+majayjay,1,1,0.0
+makaryev,1,1,0.0
+northbridge,1,1,0.0
+makindye,1,1,0.0
+malappuram,1,1,0.0
+malartic,1,1,0.0
+"beeston, leeds",1,1,0.0
+tifton,1,1,0.0
+maldonado,1,1,0.0
+bedlington,1,1,0.0
+mali,1,1,0.0
+skagway,1,1,0.0
+malung,1,1,0.0
+northallerton,1,1,0.0
+beckedorf,1,1,0.0
+north wilkesboro,1,1,0.0
+maine-et-loire,1,1,0.0
+st mellons,1,1,0.0
+maiduguri,1,1,0.0
+swifton,1,1,0.0
+soncino,1,1,0.0
+belgrave square,1,1,0.0
+macksville,1,1,0.0
+belgorod,2,2,0.0
+belgershain,1,1,0.0
+belgern,1,1,0.0
+madera county,1,1,0.0
+tiraspol,2,2,0.0
+belford,1,1,0.0
+maenclochog,1,1,0.0
+timmins,5,5,0.0
+tinmouth,1,1,0.0
+magelang,1,1,0.0
+magill,1,1,0.0
+wölpinghausen,1,1,0.0
+tingley,1,1,0.0
+timrå,1,1,0.0
+zell am main,1,1,0.0
+mahon,1,1,0.0
+mahwah,1,1,0.0
+hude,1,1,0.0
+partille municipality,1,1,0.0
+sandbach,1,1,0.0
+schuylkill township,1,1,0.0
+aiskew,1,1,0.0
+"ettrick, scotland",1,1,0.0
+privas,1,1,0.0
+łagów,1,1,0.0
+eufaula,5,5,0.0
+ajdovščina,1,1,0.0
+spetses,2,2,0.0
+prince's palace of monaco,1,1,0.0
+charlotte hall,1,1,0.0
+wheat ridge,1,1,0.0
+etruria,1,1,0.0
+"charleville, county cork",1,1,0.0
+eveleth,2,2,0.0
+prince gong mansion,1,1,0.0
+prince george county,1,1,0.0
+charleston farmhouse,1,1,0.0
+ajuda,1,1,0.0
+ewing,2,2,0.0
+wheeler,1,1,0.0
+prešov,3,3,0.0
+ettal,1,1,0.0
+walpole island,1,1,0.0
+schramberg,2,2,0.0
+eschen,1,1,0.0
+erftstadt,1,1,0.0
+walton-on-thames,5,5,0.0
+stemwede,1,1,0.0
+erin,1,1,0.0
+erkelenz,1,1,0.0
+erlau,1,1,0.0
+ernakulam,3,3,0.0
+stephenson,1,1,0.0
+escalon,1,1,0.0
+walton county,1,1,0.0
+proddatur,1,1,0.0
+providence county,1,1,0.0
+staincliffe,1,1,0.0
+esperance,1,1,0.0
+walton,2,2,0.0
+schwaikheim,1,1,0.0
+estavayer-le-lac,1,1,0.0
+prosperity,1,1,0.0
+prosigk,2,2,0.0
+estremoz,2,2,0.0
+whitburn,2,2,0.0
+prestonsburg,2,2,0.0
+eppstein,1,1,0.0
+channa village,1,1,0.0
+fastiv,1,1,0.0
+fauglia,1,1,0.0
+chapel-en-le-frith,1,1,0.0
+"fauresmith, free state",1,1,0.0
+waldshut,1,1,0.0
+prairie du chien,3,3,0.0
+waldkirch,3,3,0.0
+fehmarn,1,1,0.0
+prahran,7,7,0.0
+felixstowe,1,1,0.0
+chapman,1,1,0.0
+felsted,1,1,0.0
+akureyri,1,1,0.0
+schoonhoven,1,1,0.0
+al fayyum,1,1,0.0
+fernandina beach,1,1,0.0
+waldkappel,1,1,0.0
+ferriday,1,1,0.0
+ferrisburgh,1,1,0.0
+pozoblanco,1,1,0.0
+farnham royal,1,1,0.0
+farncombe,1,1,0.0
+walmer,5,5,0.0
+fallodon,1,1,0.0
+steyning,4,4,0.0
+fairy meadow,1,1,0.0
+"sherborne, gloucestershire",1,1,0.0
+spiddal,1,1,0.0
+falaise,1,1,0.0
+falkenberg,1,1,0.0
+presque isle,1,1,0.0
+falkland palace,1,1,0.0
+"wallhausen, saxony-anhalt",1,1,0.0
+fallowfield,1,1,0.0
+"farnborough, london",1,1,0.0
+preslav,1,1,0.0
+presidio of san francisco,1,1,0.0
+wallerstein,2,2,0.0
+pratt,1,1,0.0
+farchant,1,1,0.0
+charente-maritime,1,1,0.0
+charente,1,1,0.0
+stillorgan,1,1,0.0
+"wallace, nova scotia",1,1,0.0
+erddig,1,1,0.0
+epps,1,1,0.0
+riversdale,1,1,0.0
+ekeren,1,1,0.0
+"eich, luxembourg",1,1,0.0
+eidsberg,1,1,0.0
+warstein,1,1,0.0
+chesham bois,2,2,0.0
+einsiedeln,1,1,0.0
+cherthala,1,1,0.0
+steinfort,1,1,0.0
+westover plantation,2,2,0.0
+putbus,1,1,0.0
+westward ho!,1,1,0.0
+wartberg im mürztal,1,1,0.0
+el campo,1,1,0.0
+warnemünde,2,2,0.0
+wetaskiwin,1,1,0.0
+cherkasy,1,1,0.0
+purmo,1,1,0.0
+cherchell,1,1,0.0
+shellharbour,1,1,0.0
+puri,2,2,0.0
+elbasan,2,2,0.0
+egmond,1,1,0.0
+pyay,3,3,0.0
+wargrave,1,1,0.0
+edgewater,1,1,0.0
+eckartsberga,1,1,0.0
+chevry-cossigny,1,1,0.0
+edam,1,1,0.0
+eddystone,1,1,0.0
+scone,1,1,0.0
+edenfield,1,1,0.0
+edgecliff,2,2,0.0
+stein,1,1,0.0
+scipio,1,1,0.0
+edgeworthstown,2,2,0.0
+edna,1,1,0.0
+chevilly,1,1,0.0
+schöppenstedt,1,1,0.0
+wartenberg,1,1,0.0
+agordo,1,1,0.0
+shelley,1,1,0.0
+pylos,1,1,0.0
+westmorland,1,1,0.0
+wartburg castle,1,1,0.0
+schöneiche,2,2,0.0
+cheppad,1,1,0.0
+purcellville,1,1,0.0
+eppingen,1,1,0.0
+schweinitz,1,1,0.0
+emmitsburg,1,1,0.0
+"steinhorst, lower saxony",1,1,0.0
+emporium,1,1,0.0
+emsworth,2,2,0.0
+shenstone,1,1,0.0
+cheam,1,1,0.0
+endicott,3,3,0.0
+enebakk,1,1,0.0
+chazy,1,1,0.0
+pucklechurch,1,1,0.0
+elsternwick,2,2,0.0
+eningen,1,1,0.0
+enköping,2,2,0.0
+"pubnico, nova scotia",1,1,0.0
+wandsworth common,1,1,0.0
+ptuj,1,1,0.0
+ensenada,1,1,0.0
+aigues-vives,1,1,0.0
+schwaz,1,1,0.0
+"eppendorf, saxony",1,1,0.0
+emmett,1,1,0.0
+elsmere,1,1,0.0
+punta arenas,1,1,0.0
+ahlen,2,2,0.0
+wardha,1,1,0.0
+chenecey-buillon,1,1,0.0
+chenango county,1,1,0.0
+elizabeth township,1,1,0.0
+elizabethton,1,1,0.0
+elizabethtown,5,5,0.0
+ahja,1,1,0.0
+wapping,1,1,0.0
+elkhorn,1,1,0.0
+elko,1,1,0.0
+risley,1,1,0.0
+pulaski county,2,2,0.0
+rishon lezion,1,1,0.0
+ellrich,1,1,0.0
+łowkowice,1,1,0.0
+elmdale,1,1,0.0
+elmer,1,1,0.0
+puerto princesa,1,1,0.0
+elmton,1,1,0.0
+elmwood park,1,1,0.0
+schongau,1,1,0.0
+schnaitsee,1,1,0.0
+stone mills,1,1,0.0
+fère-en-tardenois,1,1,0.0
+vétheuil,1,1,0.0
+port deposit,1,1,0.0
+spiro,1,1,0.0
+cathcart,1,1,0.0
+port blair,1,1,0.0
+port augusta,1,1,0.0
+catawba,1,1,0.0
+fuzhou,7,7,0.0
+fámjin,1,1,0.0
+föllinge,1,1,0.0
+froyle,1,1,0.0
+shimabara,1,1,0.0
+riyadh,9,9,0.0
+port alberni,1,1,0.0
+poros,1,1,0.0
+stadtsteinach,1,1,0.0
+poquonock bridge,1,1,0.0
+gadebusch,1,1,0.0
+gaggenau,1,1,0.0
+castletownshend,1,1,0.0
+"port elgin, ontario",1,1,0.0
+frostburg,1,1,0.0
+värnamo,1,1,0.0
+solihull,5,5,0.0
+french alps,1,1,0.0
+"freshwater, isle of wight",3,3,0.0
+whitewater,1,1,0.0
+fressingfield,1,1,0.0
+port louis,5,5,0.0
+friars point,1,1,0.0
+port loko,1,1,0.0
+friedenau,1,1,0.0
+port kembla,1,1,0.0
+cavour,1,1,0.0
+vézelay,1,1,0.0
+alberta,3,3,0.0
+whitley bay,1,1,0.0
+frisco,1,1,0.0
+friskney,1,1,0.0
+friuli-venezia giulia,1,1,0.0
+frogmore,1,1,0.0
+port eliot,1,1,0.0
+shifnal,2,2,0.0
+frontenac,2,2,0.0
+värnamo municipality,1,1,0.0
+galegos,1,1,0.0
+cedar lawn,1,1,0.0
+gehren,1,1,0.0
+stolberg,5,5,0.0
+cassino,2,2,0.0
+gavalou,1,1,0.0
+gavignano,1,1,0.0
+gaya,1,1,0.0
+cass,1,1,0.0
+volpedo,1,1,0.0
+"shingu, wakayama",1,1,0.0
+gefrees,1,1,0.0
+ponte de lima,1,1,0.0
+voronezh oblast,1,1,0.0
+volosko,1,1,0.0
+volodymyr-volynskyi,2,2,0.0
+pont-d'ain,1,1,0.0
+casalmaggiore,2,2,0.0
+wieden,1,1,0.0
+gengenbach,1,1,0.0
+volendam,1,1,0.0
+cary,3,3,0.0
+wiedensahl,1,1,0.0
+stokes county,1,1,0.0
+saône-et-loire,1,1,0.0
+vänersborg municipality,1,1,0.0
+castle leslie,1,1,0.0
+schaan,1,1,0.0
+gallarate,1,1,0.0
+gallese,1,1,0.0
+solebury township,1,1,0.0
+galloway,1,1,0.0
+wickham bishops,1,1,0.0
+castleblayney,1,1,0.0
+widdrington station and stobswood,1,1,0.0
+garda,1,1,0.0
+castilleja de la cuesta,1,1,0.0
+gastonia,5,5,0.0
+castelvetrano,2,2,0.0
+castelsarrasin,1,1,0.0
+castelnuovo don bosco,1,1,0.0
+gargunnock,1,1,0.0
+castellón,1,1,0.0
+ühlingen-birkendorf,1,1,0.0
+albuixech,1,1,0.0
+pontyclun,1,1,0.0
+stokenchurch,1,1,0.0
+cedar city,1,1,0.0
+port macquarie,4,4,0.0
+figueres,2,2,0.0
+schloss taxis,1,1,0.0
+poth,1,1,0.0
+folsom,2,2,0.0
+fontanelle,1,1,0.0
+wake forest,1,1,0.0
+fontenoy-le-château,1,1,0.0
+possilpark,1,1,0.0
+ford city,2,2,0.0
+schluchsee,1,1,0.0
+alamogordo,2,2,0.0
+chadds ford,3,3,0.0
+fluvanna county,1,1,0.0
+forest park,1,1,0.0
+forestville,1,1,0.0
+schlitz,1,1,0.0
+forlimpopoli,2,2,0.0
+porvoo,5,5,0.0
+alamosa,1,1,0.0
+waipukurau,1,1,0.0
+forrest city,1,1,0.0
+portswood,1,1,0.0
+alameda county,5,5,0.0
+champigny-sur-veude,1,1,0.0
+fort atkinson,1,1,0.0
+waldbröl,1,1,0.0
+fiji,1,1,0.0
+schmidmühlen,1,1,0.0
+sollerön,1,1,0.0
+finsterwalde,1,1,0.0
+firle,1,1,0.0
+poulan,1,1,0.0
+fisherville,1,1,0.0
+fishguard,1,1,0.0
+fishkill,2,2,0.0
+flat rock,1,1,0.0
+florø,1,1,0.0
+fleischmanns,1,1,0.0
+wakefield-peacedale,1,1,0.0
+"wakefield, quebec",1,1,0.0
+chang'an,5,5,0.0
+chandor,1,1,0.0
+schmalkalden,3,3,0.0
+sherfield on loddon,1,1,0.0
+florina,1,1,0.0
+chandannagar,1,1,0.0
+valongo,1,1,0.0
+fort bend county,2,2,0.0
+cedarhurst,1,1,0.0
+schieren,1,1,0.0
+fort-de-france,3,3,0.0
+"central elgin, ontario",1,1,0.0
+center,2,2,0.0
+fox lake,1,1,0.0
+foz do iguaçu,1,1,0.0
+framlingham,1,1,0.0
+sherrill,1,1,0.0
+albania,1,1,0.0
+frankenmuth,1,1,0.0
+waging am see,1,1,0.0
+porto san giorgio,1,1,0.0
+franklinton,2,2,0.0
+port-vendres,1,1,0.0
+wadsworth,2,2,0.0
+fredericton,14,14,0.0
+port perry,1,1,0.0
+port orange,1,1,0.0
+albert lea,2,2,0.0
+freehold borough,1,1,0.0
+freeland,1,1,0.0
+alatri,1,1,0.0
+fort william,2,2,0.0
+fort benning,2,2,0.0
+ceredo,1,1,0.0
+stockdale,1,1,0.0
+český krumlov,2,2,0.0
+schleusingen,1,1,0.0
+fort frances,1,1,0.0
+fort lee,3,3,0.0
+fort lyon,1,1,0.0
+fort montgomery,1,1,0.0
+fort niagara,1,1,0.0
+fort oglethorpe,1,1,0.0
+portomaggiore,1,1,0.0
+central london,1,1,0.0
+"fort rupert, british columbia",1,1,0.0
+fort saskatchewan,1,1,0.0
+waikīkī,3,3,0.0
+portobello,1,1,0.0
+whiteabbey,1,1,0.0
+fort thomas,1,1,0.0
+fort valley,1,1,0.0
+fort vancouver,1,1,0.0
+fort washington,2,2,0.0
+stegen,1,1,0.0
+wartrace,1,1,0.0
+ebrach,1,1,0.0
+rehoboth,2,2,0.0
+clatskanie,1,1,0.0
+crow wing county,1,1,0.0
+crowborough,3,3,0.0
+cruger,1,1,0.0
+crumlin,1,1,0.0
+cruwys morchard,1,1,0.0
+selly oak,1,1,0.0
+csokonyavisonta,1,1,0.0
+csorna,1,1,0.0
+cuautla,1,1,0.0
+"crofton, west yorkshire",1,1,0.0
+south philadelphia,2,2,0.0
+abington,6,6,0.0
+clarks summit,1,1,0.0
+welzheim,1,1,0.0
+cullman,2,2,0.0
+cullyhanna,1,1,0.0
+clarion,1,1,0.0
+sharpsburg,4,4,0.0
+selling,1,1,0.0
+cromford,1,1,0.0
+crieff,3,3,0.0
+cumberland lodge,1,1,0.0
+"craon, mayenne",1,1,0.0
+clearbrook,1,1,0.0
+cowbridge,1,1,0.0
+west twyford,1,1,0.0
+renthendorf,1,1,0.0
+clayfield,1,1,0.0
+wentworth falls,1,1,0.0
+abergwili,1,1,0.0
+cranleigh,1,1,0.0
+stanmore,3,3,0.0
+renkum,1,1,0.0
+cricklewood,1,1,0.0
+renchen,1,1,0.0
+wenonah,1,1,0.0
+rena,1,1,0.0
+wenham,1,1,0.0
+cresskill,1,1,0.0
+cresson,1,1,0.0
+crestline,2,2,0.0
+rembang regency,1,1,0.0
+claxton,1,1,0.0
+riihimäki,1,1,0.0
+cumming,2,2,0.0
+courtland,1,1,0.0
+darbhanga,2,2,0.0
+dallastown,1,1,0.0
+dalston,2,2,0.0
+dampierre-en-yvelines,1,1,0.0
+danielson,1,1,0.0
+danilovgrad,1,1,0.0
+"dannemarie, haut-rhin",1,1,0.0
+dannevirke,2,2,0.0
+wellesley hills,1,1,0.0
+"daraga, albay",1,1,0.0
+city of london,5,5,0.0
+dalhousie castle,2,2,0.0
+seini,1,1,0.0
+darkov,1,1,0.0
+"city hospital, birmingham",1,1,0.0
+wellendingen,1,1,0.0
+wellawatte,1,1,0.0
+recklinghausen,2,2,0.0
+cittiglio,1,1,0.0
+"dasmariñas, cavite",1,1,0.0
+welland,3,3,0.0
+dalian,2,2,0.0
+"dalby, skåne, sweden",1,1,0.0
+westbury-on-severn,1,1,0.0
+clapham common,1,1,0.0
+reed city,1,1,0.0
+cusco,5,5,0.0
+redwood falls,2,2,0.0
+absam,1,1,0.0
+cwmgors,1,1,0.0
+cyncoed,1,1,0.0
+clarence,4,4,0.0
+cyprus,7,7,0.0
+"wellington, ontario",1,1,0.0
+accomac,1,1,0.0
+civita castellana,1,1,0.0
+stapleford,1,1,0.0
+selangor,1,1,0.0
+dabas,1,1,0.0
+dadar,1,1,0.0
+red wing,2,2,0.0
+dagsboro,1,1,0.0
+dahme,1,1,0.0
+dakota county,1,1,0.0
+achern,3,3,0.0
+repino,2,2,0.0
+republic of venice,1,1,0.0
+chewton mendip,1,1,0.0
+comiso,2,2,0.0
+west frankfort,1,1,0.0
+south uist,1,1,0.0
+colusa,4,4,0.0
+west nipissing,1,1,0.0
+colyton,1,1,0.0
+west fork,1,1,0.0
+combe down,1,1,0.0
+combe florey,1,1,0.0
+richlands,1,1,0.0
+west feliciana parish,1,1,0.0
+colotlán,2,2,0.0
+west drayton,1,1,0.0
+west chester,13,13,0.0
+coalbrookdale,1,1,0.0
+concarneau,1,1,0.0
+settle,1,1,0.0
+richland center,1,1,0.0
+concordia,2,2,0.0
+condé-sur-l'escaut,1,1,0.0
+richland,3,3,0.0
+colrain,1,1,0.0
+sfax,1,1,0.0
+congo,1,1,0.0
+west melbourne,1,1,0.0
+colaba,1,1,0.0
+coldingham,1,1,0.0
+colditz,1,1,0.0
+coldstream,1,1,0.0
+southall,2,2,0.0
+coleorton,1,1,0.0
+coles county,1,1,0.0
+west lafayette,2,2,0.0
+rickmansworth,2,2,0.0
+coffs harbour,1,1,0.0
+colorado county,1,1,0.0
+colleretto giacosa,1,1,0.0
+collierville,1,1,0.0
+west memphis,1,1,0.0
+collington,1,1,0.0
+west monroe,2,2,0.0
+cocos islands,1,1,0.0
+rickinghall,1,1,0.0
+colne,1,1,0.0
+west hampstead,3,3,0.0
+conflans-sur-anille,1,1,0.0
+richfield springs,1,1,0.0
+resende,1,1,0.0
+sens,3,3,0.0
+abbotsford,3,3,0.0
+corrientes,1,1,0.0
+corry,1,1,0.0
+clifton forge,2,2,0.0
+corsico,1,1,0.0
+corstorphine,1,1,0.0
+aberaeron,1,1,0.0
+werneck,1,1,0.0
+cortona,3,3,0.0
+clervaux,2,2,0.0
+abbey wood,1,1,0.0
+senlis,3,3,0.0
+west roxbury,2,2,0.0
+abercraf,1,1,0.0
+costigliole d'asti,1,1,0.0
+coteau-du-lac,1,1,0.0
+rigaud,1,1,0.0
+clermont,5,5,0.0
+resolven,1,1,0.0
+wermelskirchen,2,2,0.0
+clifton heights,3,3,0.0
+werribee,1,1,0.0
+richfield,2,2,0.0
+aalst,2,2,0.0
+conneautville,1,1,0.0
+shamli,1,1,0.0
+west bridgewater,2,2,0.0
+west boylston,1,1,0.0
+ribe,4,4,0.0
+west bloomfield,1,1,0.0
+west auckland,1,1,0.0
+south salem,2,2,0.0
+conversano,1,1,0.0
+south river,2,2,0.0
+seraing,1,1,0.0
+west,1,1,0.0
+ridgway,2,2,0.0
+sergiyev posad,2,2,0.0
+seregno,2,2,0.0
+abbadia lariana,1,1,0.0
+stamford hill,1,1,0.0
+žabalj,1,1,0.0
+serampore,1,1,0.0
+wessling,1,1,0.0
+welbeck,1,1,0.0
+citronelle,1,1,0.0
+seelze,1,1,0.0
+duncan,4,4,0.0
+duderstadt,1,1,0.0
+waunarlwydd,1,1,0.0
+dudweiler,2,2,0.0
+radibor,1,1,0.0
+dufftown,1,1,0.0
+chislehurst,5,5,0.0
+waubay,1,1,0.0
+dumfries and galloway,1,1,0.0
+dun-sur-meuse,1,1,0.0
+westham,1,1,0.0
+duchcov,1,1,0.0
+chipping norton,1,1,0.0
+westhampnett,1,1,0.0
+radcliffe on trent,1,1,0.0
+chippewa county,1,1,0.0
+rinteln,2,2,0.0
+chipley,2,2,0.0
+stavelot,1,1,0.0
+aegyptus,1,1,0.0
+qyzylorda,1,1,0.0
+radnor,1,1,0.0
+chiusdino,1,1,0.0
+chinsali,1,1,0.0
+chongqing,1,1,0.0
+wayzata,1,1,0.0
+dossenheim,1,1,0.0
+ramapuram,1,1,0.0
+douala,1,1,0.0
+doubs,1,1,0.0
+dowagiac,1,1,0.0
+raków,1,1,0.0
+westerstede,1,1,0.0
+downpatrick,1,1,0.0
+chomýž,1,1,0.0
+statesville,2,2,0.0
+wayland,3,3,0.0
+drogheda,2,2,0.0
+adjud,1,1,0.0
+sculcoates rural district,1,1,0.0
+drottningholm,1,1,0.0
+droylsden,1,1,0.0
+scrooby,1,1,0.0
+dubach,1,1,0.0
+statesboro,1,1,0.0
+"durbanville, cape town",1,1,0.0
+québec,24,24,0.0
+recanati,2,2,0.0
+chiavenna,1,1,0.0
+chilaw,2,2,0.0
+chikushino,1,1,0.0
+agawam,1,1,0.0
+washington-on-the-brazos,2,2,0.0
+"queenston, ontario",1,1,0.0
+scotia,1,1,0.0
+east maitland,1,1,0.0
+aglasterhausen,1,1,0.0
+east new market,1,1,0.0
+chiavari,1,1,0.0
+chilmark,1,1,0.0
+scotch plains,1,1,0.0
+eastland,1,1,0.0
+queanbeyan,2,2,0.0
+easton,35,35,0.0
+quakertown,1,1,0.0
+ebensee,1,1,0.0
+eberbach,3,3,0.0
+eberhardzell,1,1,0.0
+ebersbach an der fils,1,1,0.0
+east dereham,2,2,0.0
+qufu,1,1,0.0
+quogue,1,1,0.0
+dömitz,1,1,0.0
+durlach,7,7,0.0
+durmersheim,1,1,0.0
+durrës,4,4,0.0
+watchet,1,1,0.0
+duval county,1,1,0.0
+affton,1,1,0.0
+dénia,1,1,0.0
+watauga county,1,1,0.0
+stavern,1,1,0.0
+quinter,1,1,0.0
+"quiapo, manila",1,1,0.0
+chinley,1,1,0.0
+düsseldorf-gerresheim,1,1,0.0
+wasserburg am bodensee,1,1,0.0
+eagar,1,1,0.0
+ste. genevieve,3,3,0.0
+earby,1,1,0.0
+earls barton,1,1,0.0
+earls colne,1,1,0.0
+chilpancingo,2,2,0.0
+choudrant,1,1,0.0
+dorset,17,17,0.0
+south petherton,1,1,0.0
+châtelet,1,1,0.0
+acre,4,4,0.0
+second mesa,1,1,0.0
+democratic republic of the congo,1,1,0.0
+demopolis,1,1,0.0
+demorest,1,1,0.0
+denekamp,1,1,0.0
+deniliquin,1,1,0.0
+châtillon,1,1,0.0
+żabbar,1,1,0.0
+"acton green, london",1,1,0.0
+ringsted,2,2,0.0
+stary sącz,1,1,0.0
+sebezh,1,1,0.0
+desio,1,1,0.0
+desloge,1,1,0.0
+châteauneuf-sur-loire,1,1,0.0
+châteaugiron,1,1,0.0
+dettenhausen,1,1,0.0
+dettingen unter teck,1,1,0.0
+deurne,2,2,0.0
+châtillon-sur-loire,1,1,0.0
+delden,1,1,0.0
+dorfen,1,1,0.0
+acocks green,1,1,0.0
+readsboro,1,1,0.0
+dawson city,1,1,0.0
+sedgeford,1,1,0.0
+cinisello balsamo,1,1,0.0
+westerholt,1,1,0.0
+de graff,1,1,0.0
+cigales,1,1,0.0
+de ridder,2,2,0.0
+de witt,2,2,0.0
+rawdon,1,1,0.0
+weinstadt,1,1,0.0
+deer lodge,2,2,0.0
+deer park,1,1,0.0
+rawalpindi,10,10,0.0
+deining,1,1,0.0
+rindge,1,1,0.0
+sedbury,1,1,0.0
+westerland,2,2,0.0
+weirton,2,2,0.0
+acqui terme,1,1,0.0
+sebastian,1,1,0.0
+châteaubriant,1,1,0.0
+devon,32,32,0.0
+châlons-en-champagne,8,8,0.0
+djurgården,2,2,0.0
+dniprodzerzhynsk,3,3,0.0
+randersacker,1,1,0.0
+rancho la puente,1,1,0.0
+doddsville,1,1,0.0
+dolgellau,1,1,0.0
+dolná krupá,1,1,0.0
+dolná strehová,1,1,0.0
+domažlice,1,1,0.0
+dona ana county,1,1,0.0
+dewitt,1,1,0.0
+sheboygan,3,3,0.0
+churt,1,1,0.0
+shediac,1,1,0.0
+webb city,2,2,0.0
+chudleigh,1,1,0.0
+donji lapac,1,1,0.0
+weaverville,2,2,0.0
+christianshavn,1,1,0.0
+scy-chazelles,1,1,0.0
+ransom township,1,1,0.0
+diss,1,1,0.0
+dischingen,2,2,0.0
+dinnington,1,1,0.0
+château-salins,1,1,0.0
+soltaniyeh,1,1,0.0
+dholpur,1,1,0.0
+dickenson county,1,1,0.0
+adair county,2,2,0.0
+didcot,1,1,0.0
+château de saint-cloud,5,5,0.0
+weilheim in oberbayern,1,1,0.0
+weilheim an der teck,1,1,0.0
+digne-les-bains,1,1,0.0
+château de oiron,1,1,0.0
+searsmont,1,1,0.0
+weedsport,1,1,0.0
+château de montaigne,1,1,0.0
+dimboola,1,1,0.0
+wedderburn,1,1,0.0
+dingelstädt,1,1,0.0
+dingle,1,1,0.0
+dingolfing,2,2,0.0
+volcano,1,1,0.0
+portstewart,1,1,0.0
+hazaribagh,1,1,0.0
+villa altagracia,1,1,0.0
+sapulpa,3,3,0.0
+groombridge,1,1,0.0
+peckville,1,1,0.0
+béthune,1,1,0.0
+camp verde,1,1,0.0
+båstad municipality,1,1,0.0
+gripsholm castle,1,1,0.0
+campania,2,2,0.0
+grimsthorpe,1,1,0.0
+holt,1,1,0.0
+penwortham,1,1,0.0
+willunga,1,1,0.0
+heřmanův městec,1,1,0.0
+vilafranca del penedès,1,1,0.0
+horndean,1,1,0.0
+pearsall,1,1,0.0
+holmfirth,1,1,0.0
+griffithstown,1,1,0.0
+saransk,1,1,0.0
+pemberton,2,2,0.0
+grieskirchen,1,1,0.0
+sokolov,1,1,0.0
+sangerhausen,1,1,0.0
+gretton,1,1,0.0
+gresten,1,1,0.0
+byron,2,2,0.0
+hickory,4,4,0.0
+gressoney-saint-jean,1,1,0.0
+grenola,1,1,0.0
+heytesbury,1,1,0.0
+harderwijk,1,1,0.0
+grosseto,3,3,0.0
+heuvelland,1,1,0.0
+rockland county,2,2,0.0
+piscataway,1,1,0.0
+springerville,1,1,0.0
+gräfenberg,1,1,0.0
+heubach,2,2,0.0
+grunewald,2,2,0.0
+holton,1,1,0.0
+pfullendorf,1,1,0.0
+petah tikva,1,1,0.0
+straufhain,1,1,0.0
+grozny,2,2,0.0
+groveport,1,1,0.0
+vik,1,1,0.0
+grove,1,1,0.0
+heyshott,1,1,0.0
+peeblesshire,2,2,0.0
+hanoverton,1,1,0.0
+grouville,1,1,0.0
+pisco,1,1,0.0
+heverlee,1,1,0.0
+strand,1,1,0.0
+strängnäs,2,2,0.0
+varberg municipality,1,1,0.0
+bømlo,1,1,0.0
+heysham,1,1,0.0
+grossharthau,1,1,0.0
+willows,1,1,0.0
+pforta,1,1,0.0
+vilkaviškis,1,1,0.0
+williamston,1,1,0.0
+velia,1,1,0.0
+campbell river,1,1,0.0
+great lever,1,1,0.0
+harrow on the hill,1,1,0.0
+hohenschwangau,1,1,0.0
+stoŭptsy,1,1,0.0
+"harrow, london",9,9,0.0
+great britain,2,2,0.0
+great bend,1,1,0.0
+great barrington,6,6,0.0
+high bridge,1,1,0.0
+grazzano badoglio,1,1,0.0
+pichilemu,3,3,0.0
+holme pierrepont,1,1,0.0
+algeria,6,6,0.0
+almazán,1,1,0.0
+shoshone,1,1,0.0
+sarnia,4,4,0.0
+buynaksk,1,1,0.0
+windber,1,1,0.0
+althorp,3,3,0.0
+gravenhurst,1,1,0.0
+high river,1,1,0.0
+cantalapiedra,1,1,0.0
+cantanhede,1,1,0.0
+bulacan,1,1,0.0
+rodewisch,1,1,0.0
+île-de-france,2,2,0.0
+willemstad,2,2,0.0
+petworth,3,3,0.0
+highbridge,1,1,0.0
+cantal,1,1,0.0
+wilmerding,1,1,0.0
+bruchhausen-vilsen,1,1,0.0
+shirehampton,1,1,0.0
+villach,7,7,0.0
+bulle,1,1,0.0
+vannes,5,5,0.0
+horodok,1,1,0.0
+pentre,1,1,0.0
+harlow,2,2,0.0
+harpers ferry,3,3,0.0
+peninsula,1,1,0.0
+shiremoor,1,1,0.0
+villalba,1,1,0.0
+greenlaw,1,1,0.0
+harran,1,1,0.0
+harrington,1,1,0.0
+stradella,1,1,0.0
+placer county,2,2,0.0
+villarrica,1,1,0.0
+can tho,1,1,0.0
+peypin,1,1,0.0
+south jordan,1,1,0.0
+canadian,1,1,0.0
+placentia,1,1,0.0
+byram,1,1,0.0
+byker,1,1,0.0
+harrisville,1,1,0.0
+greeley,2,2,0.0
+canby,1,1,0.0
+sarisbury green,1,1,0.0
+cannelton,2,2,0.0
+philadelphia county,1,1,0.0
+philippi,1,1,0.0
+solano county,1,1,0.0
+vicchio,1,1,0.0
+hokianga,1,1,0.0
+callery,1,1,0.0
+hagetmau,1,1,0.0
+hagerman,1,1,0.0
+vardø,1,1,0.0
+hage,1,1,0.0
+buochs,1,1,0.0
+hadleigh,2,2,0.0
+calne,2,2,0.0
+st. simons,2,2,0.0
+haddon township,1,1,0.0
+hermitage,1,1,0.0
+brunei,1,1,0.0
+vienne,1,1,0.0
+st. wolfgang,1,1,0.0
+rodez,2,2,0.0
+hachenburg,1,1,0.0
+homerton,1,1,0.0
+rockenberg,1,1,0.0
+calvados,1,1,0.0
+głubczyce,3,3,0.0
+vierzon,1,1,0.0
+gültz,1,1,0.0
+heppenheim,1,1,0.0
+allegan,4,4,0.0
+hokitika,2,2,0.0
+rocky mountain house,1,1,0.0
+pima,1,1,0.0
+hoofddorp,1,1,0.0
+sankt martin im innkreis,1,1,0.0
+herisau,2,2,0.0
+sankt lorenz,1,1,0.0
+pico rivera,1,1,0.0
+hall in tirol,3,3,0.0
+calabria,5,5,0.0
+"victoria beach, nova scotia",1,1,0.0
+caldicot,1,1,0.0
+willoughby,1,1,0.0
+"alliston, ontario",1,1,0.0
+"victoria park, manchester",1,1,0.0
+altena,1,1,0.0
+vicksburg,15,15,0.0
+hallsville,1,1,0.0
+hajdúnánás,1,1,0.0
+picanya,1,1,0.0
+piazza armerina,1,1,0.0
+halstenbek,1,1,0.0
+"hague, virginia",1,1,0.0
+halton,1,1,0.0
+ham,1,1,0.0
+"ham, london",1,1,0.0
+"bruny island, tasmania",1,1,0.0
+buntingford,2,2,0.0
+caguas,2,2,0.0
+pictou county,1,1,0.0
+cagayan de oro,2,2,0.0
+herent,1,1,0.0
+hailey,1,1,0.0
+st. thomas mount,1,1,0.0
+brunoy,2,2,0.0
+pietrapertosa,1,1,0.0
+vigan city,2,2,0.0
+herne bay,3,3,0.0
+vihti,3,3,0.0
+"south dundas, ontario",1,1,0.0
+guerrero,1,1,0.0
+guernsey,11,11,0.0
+philmont,1,1,0.0
+guelma,1,1,0.0
+gudme,1,1,0.0
+hennepin county,1,1,0.0
+holzminden,5,5,0.0
+piracicaba,2,2,0.0
+peenemünde,1,1,0.0
+hanamaki,1,1,0.0
+bulli,1,1,0.0
+perinthalmanna,1,1,0.0
+piran,1,1,0.0
+hennebont,1,1,0.0
+percé,1,1,0.0
+phillaur,1,1,0.0
+hooper,1,1,0.0
+guatemala city,21,21,0.0
+sremska mitrovica,2,2,0.0
+willimantic,3,3,0.0
+bryan county,1,1,0.0
+rodborough,1,1,0.0
+vestal,1,1,0.0
+gualtieri,1,1,0.0
+hethersett,1,1,0.0
+santo stefano di magra,1,1,0.0
+alhambra,8,8,0.0
+camden town,3,3,0.0
+handrup,1,1,0.0
+guerrero negro,1,1,0.0
+strasskirchen,1,1,0.0
+büyükada,1,1,0.0
+hohenwestedt,1,1,0.0
+vigasio,1,1,0.0
+pine creek township,1,1,0.0
+soissons,3,3,0.0
+öland,1,1,0.0
+vlorë,1,1,0.0
+camargo,3,3,0.0
+vic-sur-seille,1,1,0.0
+hammerfest,1,1,0.0
+stratton,2,2,0.0
+rocky river,2,2,0.0
+pinhoe,1,1,0.0
+henrico county,3,3,0.0
+st. stephen,5,5,0.0
+camarines norte,1,1,0.0
+pippa passes,1,1,0.0
+south croydon,1,1,0.0
+altamont,1,1,0.0
+bulls,1,1,0.0
+hammonton,1,1,0.0
+camberley,6,6,0.0
+phoenix,1,1,0.0
+pinner,3,3,0.0
+hampton court palace,5,5,0.0
+gunnedah,2,2,0.0
+gulpaigan,1,1,0.0
+guiseley,3,3,0.0
+"guinobatan, albay",1,1,0.0
+piotrków trybunalski,4,4,0.0
+grasberg,1,1,0.0
+villers-cotterêts,1,1,0.0
+penticton,1,1,0.0
+penn,1,1,0.0
+hirschholm palace,1,1,0.0
+heerlen,3,3,0.0
+haverstraw,1,1,0.0
+glenwood,1,1,0.0
+brčko,1,1,0.0
+alenquer,1,1,0.0
+glens falls,8,8,0.0
+glenorchy,1,1,0.0
+vermilion,1,1,0.0
+sault ste. marie,10,10,0.0
+heemskerk,1,1,0.0
+burnham thorpe,1,1,0.0
+"pointe-du-lac, quebec",1,1,0.0
+glencolumbkille,1,1,0.0
+vitré,1,1,0.0
+glencoe,2,2,0.0
+glen rose,1,1,0.0
+penclawdd,2,2,0.0
+glen rock,1,1,0.0
+pawnee,2,2,0.0
+alella,1,1,0.0
+sault-au-récollet,1,1,0.0
+hedingham castle,1,1,0.0
+carnforth,1,1,0.0
+burwood,3,3,0.0
+hawera,2,2,0.0
+vaughan,1,1,0.0
+verden,2,2,0.0
+sankt vith,1,1,0.0
+bushehr,1,1,0.0
+carnoustie,2,2,0.0
+grants,1,1,0.0
+hollis,2,2,0.0
+spring hill,5,5,0.0
+buga,1,1,0.0
+gonda,1,1,0.0
+gomshall,1,1,0.0
+vaxholm,1,1,0.0
+carlisle barracks,1,1,0.0
+übach-palenberg,1,1,0.0
+goldfield,3,3,0.0
+golders green,3,3,0.0
+shiojiri,1,1,0.0
+hintertiefenbach,1,1,0.0
+goes,1,1,0.0
+stuhr,1,1,0.0
+globe,2,2,0.0
+glückstadt,3,3,0.0
+burnet,2,2,0.0
+bucklow,1,1,0.0
+glynneath,2,2,0.0
+pohja,1,1,0.0
+pointe coupee parish,1,1,0.0
+gloucester county,1,1,0.0
+saulieu,1,1,0.0
+sant'elpidio a mare,1,1,0.0
+hiroshima,13,13,0.0
+shringeri,1,1,0.0
+glonn,3,3,0.0
+pawtucket,8,8,0.0
+howell,2,2,0.0
+aleksandrów łódzki,2,2,0.0
+alexander city,1,1,0.0
+giffnock,1,1,0.0
+gilbertsville,1,1,0.0
+robertson,1,1,0.0
+gilbert,2,2,0.0
+rocky ford,1,1,0.0
+hayneville,1,1,0.0
+sanlúcar de barrameda,3,3,0.0
+gila river indian community,1,1,0.0
+hua hin,1,1,0.0
+"hockley, birmingham",1,1,0.0
+hays,2,2,0.0
+wigston magna,1,1,0.0
+pombal,1,1,0.0
+huahine,1,1,0.0
+vlachovo březí,1,1,0.0
+robertson county,2,2,0.0
+gielde,1,1,0.0
+giekau,1,1,0.0
+vaudreuil-dorion,1,1,0.0
+heacham,1,1,0.0
+savai'i,1,1,0.0
+stone mountain,2,2,0.0
+pommeuse,1,1,0.0
+aldeburgh,4,4,0.0
+alcsútdoboz,2,2,0.0
+pompeii,1,1,0.0
+germignaga,1,1,0.0
+burnie,1,1,0.0
+vleuten,1,1,0.0
+headington,2,2,0.0
+polperro,1,1,0.0
+glasnevin,1,1,0.0
+vitória,1,1,0.0
+shuya,1,1,0.0
+south berwick,3,3,0.0
+hawkchurch,1,1,0.0
+hoxne,1,1,0.0
+pendlebury,1,1,0.0
+glamis castle,1,1,0.0
+springvale,1,1,0.0
+polička,1,1,0.0
+saunderstown,1,1,0.0
+healdsburg,3,3,0.0
+polk city,1,1,0.0
+hawke's bay,1,1,0.0
+pawhuska,1,1,0.0
+gjøvik,1,1,0.0
+gillespie county,1,1,0.0
+hmnb devonport,1,1,0.0
+giussano,1,1,0.0
+robin hood's bay,1,1,0.0
+girton,1,1,0.0
+paulsboro,1,1,0.0
+pollone,1,1,0.0
+buckhannon,2,2,0.0
+gingelom,1,1,0.0
+bucksport,1,1,0.0
+carradale,1,1,0.0
+van buren,4,4,0.0
+hayle,4,4,0.0
+holderness,1,1,0.0
+windermere,3,3,0.0
+godfrey,1,1,0.0
+goodrich,1,1,0.0
+grand haven,1,1,0.0
+grand blanc,1,1,0.0
+grand bassa county,1,1,0.0
+sarzeau,1,1,0.0
+builth wells,2,2,0.0
+capel curig,1,1,0.0
+altlussheim,1,1,0.0
+"hatfield, hertfordshire",6,6,0.0
+"shushicë, elbasan",1,1,0.0
+hemer,3,3,0.0
+hathazari upazila,1,1,0.0
+hattiesburg,5,5,0.0
+butleigh,1,1,0.0
+buies creek,1,1,0.0
+haughton,1,1,0.0
+willcox,1,1,0.0
+capranica,1,1,0.0
+pleasant hill,2,2,0.0
+østerbro,1,1,0.0
+goyang,1,1,0.0
+caputh,1,1,0.0
+hautvillers,1,1,0.0
+pleasantville,5,5,0.0
+hottingen,1,1,0.0
+pleven,1,1,0.0
+viroflay,1,1,0.0
+hausach,1,1,0.0
+hellertown,1,1,0.0
+spring valley,3,3,0.0
+hillsboro,23,23,0.0
+plattsburgh,7,7,0.0
+"buckland, kent",1,1,0.0
+ploemeur,1,1,0.0
+cape of good hope,2,2,0.0
+sandymount,1,1,0.0
+burg rheinfels,1,1,0.0
+winchelsea,2,2,0.0
+pearl,1,1,0.0
+algarve,1,1,0.0
+grantchester,2,2,0.0
+"rodriguez, rizal",1,1,0.0
+vilshofen an der donau,2,2,0.0
+cape coast,2,2,0.0
+hartsdale,1,1,0.0
+hartville,1,1,0.0
+granollers,1,1,0.0
+haselünne,1,1,0.0
+hasenmoor,1,1,0.0
+petrozavodsk,1,1,0.0
+granite falls,1,1,0.0
+vilvoorde,1,1,0.0
+granger,1,1,0.0
+"butte city, california",1,1,0.0
+hohenfinow,1,1,0.0
+highgate,10,10,0.0
+alfriston,1,1,0.0
+peru,14,14,0.0
+springdale,2,2,0.0
+hofu,1,1,0.0
+highland,2,2,0.0
+hassocks,1,1,0.0
+wilmersdorf,3,3,0.0
+horton,1,1,0.0
+houghton,3,3,0.0
+carangola,1,1,0.0
+wilford,2,2,0.0
+gorizia,9,9,0.0
+gosforth,3,3,0.0
+cardross,2,2,0.0
+hof,4,4,0.0
+vechelde,1,1,0.0
+gorey,1,1,0.0
+pembrokeshire,3,3,0.0
+butjadingen,1,1,0.0
+hillsborough county,1,1,0.0
+shipley,3,3,0.0
+houghton-le-spring,1,1,0.0
+soham,1,1,0.0
+alexander palace,1,1,0.0
+stourport-on-severn,2,2,0.0
+gosford,1,1,0.0
+haute-garonne,1,1,0.0
+vedeno,1,1,0.0
+virovitica-podravina county,1,1,0.0
+brynmawr,1,1,0.0
+visoko,1,1,0.0
+penarth,5,5,0.0
+heinola,1,1,0.0
+windom,1,1,0.0
+hausneindorf,1,1,0.0
+sprowston,1,1,0.0
+pescia,2,2,0.0
+haute-savoie,1,1,0.0
+burke,1,1,0.0
+gostynin,1,1,0.0
+amsterdam,414,412,-0.07
+saint petersburg,468,466,-0.07
+havana,97,96,-0.07
+tallinn,74,73,-0.08
+versailles,67,66,-0.09
+mantua,41,40,-0.11
+mobile,40,39,-0.11
+morristown,28,27,-0.13
+karlsruhe,99,97,-0.14
+new london,27,26,-0.14
+alameda,22,21,-0.15
+st. john's,23,22,-0.15
+greifswald,22,21,-0.15
+arlington,22,21,-0.15
+lambeth,22,21,-0.15
+duluth,20,19,-0.16
+suffolk,21,20,-0.16
+trondheim,21,20,-0.16
+new york,286,282,-0.17
+yarmouth,16,15,-0.18
+augusta,56,54,-0.19
+norwood,14,13,-0.19
+derby,55,53,-0.19
+surakarta,14,13,-0.19
+weston-super-mare,14,13,-0.19
+la plata,14,13,-0.19
+novi sad,13,12,-0.2
+rochdale,13,12,-0.2
+st kilda,13,12,-0.2
+horsham,13,12,-0.2
+pesaro,13,12,-0.2
+sigmaringen,13,12,-0.2
+eutin,12,11,-0.21
+saskatoon,12,11,-0.21
+corpus christi,12,11,-0.21
+bruges,45,43,-0.21
+marlborough,11,10,-0.22
+newton,44,42,-0.22
+napier,11,10,-0.22
+enid,11,10,-0.22
+cartagena,11,10,-0.22
+gouda,10,9,-0.23
+tegucigalpa,10,9,-0.23
+gravesend,10,9,-0.23
+weymouth,9,8,-0.24
+stade,9,8,-0.24
+gütersloh,9,8,-0.24
+faenza,9,8,-0.24
+olympia,9,8,-0.24
+jefferson city,9,8,-0.24
+narva,9,8,-0.24
+waco,34,32,-0.25
+bayreuth,33,31,-0.25
+selma,8,7,-0.26
+lunéville,8,7,-0.26
+whitehall,8,7,-0.26
+wernigerode,8,7,-0.26
+soest,8,7,-0.26
+china,67,64,-0.26
+wetzlar,8,7,-0.26
+gallipolis,8,7,-0.26
+dresden,246,240,-0.27
+penrith,7,6,-0.28
+scheveningen,7,6,-0.28
+arles,7,6,-0.28
+rutland,7,6,-0.28
+woodbridge,7,6,-0.28
+wandsworth,26,24,-0.28
+vila viçosa,7,6,-0.28
+northfield,7,6,-0.28
+dalton,7,6,-0.28
+ames,7,6,-0.28
+aiken,7,6,-0.28
+jaffna,7,6,-0.28
+essex,26,24,-0.28
+hoorn,7,6,-0.28
+plön,7,6,-0.28
+margate,7,6,-0.28
+scarborough,27,25,-0.28
+uelzen,6,5,-0.3
+palmerston north,6,5,-0.3
+homer,6,5,-0.3
+palais royal,6,5,-0.3
+baltimore county,6,5,-0.3
+kempten im allgäu,6,5,-0.3
+mantes-la-jolie,6,5,-0.3
+opelousas,6,5,-0.3
+haguenau,6,5,-0.3
+farnborough,6,5,-0.3
+alcalá de henares,6,5,-0.3
+sutton-in-ashfield,6,5,-0.3
+lagrange,6,5,-0.3
+amarapura,6,5,-0.3
+multan,6,5,-0.3
+gunzenhausen,6,5,-0.3
+lawton,6,5,-0.3
+croatia,6,5,-0.3
+saint-brieuc,6,5,-0.3
+novosibirsk,6,5,-0.3
+brittany,6,5,-0.3
+guatemala,6,5,-0.3
+tarbes,6,5,-0.3
+kitzbühel,6,5,-0.3
+offenburg,6,5,-0.3
+oaxaca,6,5,-0.3
+xenia,6,5,-0.3
+tuscany,6,5,-0.3
+wildervank,6,5,-0.3
+canandaigua,6,5,-0.3
+dehradun,6,5,-0.3
+innsbruck,49,46,-0.31
+perugia,20,18,-0.32
+altenburg,20,18,-0.32
+coimbatore,5,4,-0.33
+chatswood,5,4,-0.33
+winthrop,5,4,-0.33
+orvieto,5,4,-0.33
+winfield,5,4,-0.33
+hancock,5,4,-0.33
+st. clairsville,5,4,-0.33
+portsea,5,4,-0.33
+tipton county,5,4,-0.33
+sydenham,5,4,-0.33
+huron,5,4,-0.33
+jever,5,4,-0.33
+esch-sur-alzette,5,4,-0.33
+alnwick,5,4,-0.33
+deinze,5,4,-0.33
+chillicothe,19,17,-0.33
+arnstadt,5,4,-0.33
+harvey,5,4,-0.33
+bayamón,5,4,-0.33
+newark-on-trent,5,4,-0.33
+maywood,5,4,-0.33
+valence,5,4,-0.33
+orangeburg,5,4,-0.33
+eichstätt,5,4,-0.33
+brecon,5,4,-0.33
+watsonville,5,4,-0.33
+sanford,5,4,-0.33
+kętrzyn,5,4,-0.33
+hamina,5,4,-0.33
+château de saint-germain-en-laye,5,4,-0.33
+assam,5,4,-0.33
+babylon,5,4,-0.33
+teignmouth,5,4,-0.33
+limassol,5,4,-0.33
+české budějovice,5,4,-0.33
+clarke county,5,4,-0.33
+pitcairn islands,5,4,-0.33
+saint-omer,5,4,-0.33
+ilmenau,5,4,-0.33
+cook county,5,4,-0.33
+port washington,5,4,-0.33
+midlothian,5,4,-0.33
+brownwood,5,4,-0.33
+reidsville,5,4,-0.33
+huy,5,4,-0.33
+tbilisi,75,71,-0.33
+lake city,5,4,-0.33
+kidderminster,18,16,-0.34
+stockton,18,16,-0.34
+"clifton, bristol",16,14,-0.37
+east orange,16,14,-0.37
+plains,4,3,-0.38
+krosno odrzańskie,4,3,-0.38
+leer,4,3,-0.38
+foggia,4,3,-0.38
+lefkada,4,3,-0.38
+annecy,4,3,-0.38
+placerville,4,3,-0.38
+new berlin,4,3,-0.38
+saint-jean-de-luz,4,3,-0.38
+appingedam,4,3,-0.38
+saint-lô,4,3,-0.38
+zutphen,4,3,-0.38
+leyton,4,3,-0.38
+biddeford,4,3,-0.38
+port royal,4,3,-0.38
+"lennoxville, quebec",4,3,-0.38
+uruguay,4,3,-0.38
+chorzów,4,3,-0.38
+houlton,4,3,-0.38
+merced,4,3,-0.38
+beverley,4,3,-0.38
+forest,4,3,-0.38
+oberndorf am neckar,4,3,-0.38
+woodland,4,3,-0.38
+rottweil,4,3,-0.38
+pickering,4,3,-0.38
+wimborne minster,4,3,-0.38
+terrebonne,4,3,-0.38
+mill hill,4,3,-0.38
+gabrovo,4,3,-0.38
+kumamoto,4,3,-0.38
+llandovery,4,3,-0.38
+vineland,4,3,-0.38
+great dunmow,4,3,-0.38
+inowrocław,4,3,-0.38
+benson,4,3,-0.38
+elmhurst,4,3,-0.38
+cromer,4,3,-0.38
+taylor,4,3,-0.38
+siegburg,4,3,-0.38
+mount airy,4,3,-0.38
+south gate,4,3,-0.38
+beeston,4,3,-0.38
+znojmo,4,3,-0.38
+jericho,4,3,-0.38
+matamoros,4,3,-0.38
+schwelm,4,3,-0.38
+baltiysk,4,3,-0.38
+northam,4,3,-0.38
+owatonna,4,3,-0.38
+parsons,4,3,-0.38
+st peter port,4,3,-0.38
+steinfurt,4,3,-0.38
+ottery st mary,4,3,-0.38
+tønsberg,4,3,-0.38
+braunau am inn,4,3,-0.38
+rottenburg am neckar,4,3,-0.38
+amboise,4,3,-0.38
+strathfield,4,3,-0.38
+caldwell,4,3,-0.38
+pelham,4,3,-0.38
+widnes,4,3,-0.38
+edwardsville,4,3,-0.38
+mukacheve,4,3,-0.38
+stanley,4,3,-0.38
+château de blois,4,3,-0.38
+dalkey,4,3,-0.38
+st. louis county,4,3,-0.38
+orsha,4,3,-0.38
+glamorgan,4,3,-0.38
+ledbury,4,3,-0.38
+mâcon,4,3,-0.38
+farmville,4,3,-0.38
+bruchsal,4,3,-0.38
+fairview,4,3,-0.38
+indore,4,3,-0.38
+corsica,4,3,-0.38
+noyon,4,3,-0.38
+dennison,4,3,-0.38
+braniewo,4,3,-0.38
+kitzingen,4,3,-0.38
+winsford,4,3,-0.38
+bellefonte,4,3,-0.38
+nanaimo,4,3,-0.38
+brewer,4,3,-0.38
+middlesbrough,14,12,-0.39
+exeter,53,49,-0.4
+vernon,13,11,-0.41
+heilbronn,13,11,-0.41
+epsom,13,11,-0.41
+cremona,28,25,-0.41
+anniston,13,11,-0.41
+bathurst,13,11,-0.41
+dedham,12,10,-0.43
+st andrews,12,10,-0.43
+poughkeepsie,26,23,-0.43
+yverdon-les-bains,3,2,-0.45
+heckmondwike,3,2,-0.45
+coushatta,3,2,-0.45
+royal palace of turin,3,2,-0.45
+cromwell,3,2,-0.45
+hitzacker,3,2,-0.45
+new malden,3,2,-0.45
+winchmore hill,3,2,-0.45
+iola,3,2,-0.45
+upton-upon-severn,3,2,-0.45
+atkins,3,2,-0.45
+breckinridge county,3,2,-0.45
+brevard,3,2,-0.45
+jaffrey,3,2,-0.45
+montargis,3,2,-0.45
+herzogenaurach,3,2,-0.45
+panama canal zone,3,2,-0.45
+monongahela,3,2,-0.45
+weinsberg,3,2,-0.45
+pana,3,2,-0.45
+wisconsin rapids,3,2,-0.45
+bunker hill,3,2,-0.45
+weissenburg in bayern,3,2,-0.45
+jeannette,3,2,-0.45
+jedburgh,3,2,-0.45
+mladá boleslav,3,2,-0.45
+palos de la frontera,3,2,-0.45
+rensselaer,3,2,-0.45
+delavan,3,2,-0.45
+city of sunderland,3,2,-0.45
+weingarten,3,2,-0.45
+hoddesdon,3,2,-0.45
+montmartre,3,2,-0.45
+bad windsheim,3,2,-0.45
+culemborg,3,2,-0.45
+siedlce,3,2,-0.45
+"devonport, new zealand",3,2,-0.45
+seaton,3,2,-0.45
+crediton,3,2,-0.45
+stalybridge,3,2,-0.45
+joensuu,3,2,-0.45
+bagnères-de-bigorre,3,2,-0.45
+st. clair county,3,2,-0.45
+mooncoin,3,2,-0.45
+redfield,3,2,-0.45
+redcar,3,2,-0.45
+soltau-fallingbostel,3,2,-0.45
+iver,3,2,-0.45
+international falls,3,2,-0.45
+seneca,3,2,-0.45
+dannenberg,3,2,-0.45
+crickhowell,3,2,-0.45
+château d'amboise,3,2,-0.45
+lyubavichi,3,2,-0.45
+ostróda,3,2,-0.45
+enghien,3,2,-0.45
+enschede,3,2,-0.45
+clydach,3,2,-0.45
+wriezen,3,2,-0.45
+lingen,3,2,-0.45
+gubbio,3,2,-0.45
+sondrio,3,2,-0.45
+northwood,3,2,-0.45
+liskeard,3,2,-0.45
+nampa,3,2,-0.45
+cambria,3,2,-0.45
+middlesborough,3,2,-0.45
+south hadley,3,2,-0.45
+lünen,3,2,-0.45
+"charlton, london",3,2,-0.45
+camerino,3,2,-0.45
+northampton county,3,2,-0.45
+kingwood,3,2,-0.45
+townsville,3,2,-0.45
+sneek,3,2,-0.45
+white bear lake,3,2,-0.45
+keystone,3,2,-0.45
+putnam,3,2,-0.45
+marengo,3,2,-0.45
+agrigento,3,2,-0.45
+beardstown,3,2,-0.45
+albano laziale,3,2,-0.45
+ellsworth,3,2,-0.45
+alingsås,3,2,-0.45
+xanten,3,2,-0.45
+wapakoneta,3,2,-0.45
+beccles,3,2,-0.45
+elstree,3,2,-0.45
+oosterhout,3,2,-0.45
+tukums,3,2,-0.45
+tighina,3,2,-0.45
+schwandorf,3,2,-0.45
+lyndon,3,2,-0.45
+angola,3,2,-0.45
+belle plaine,3,2,-0.45
+chard,3,2,-0.45
+pittsboro,3,2,-0.45
+"walker, newcastle upon tyne",3,2,-0.45
+"simcoe, ontario",3,2,-0.45
+feldkirch,3,2,-0.45
+horsforth,3,2,-0.45
+tunbridge,3,2,-0.45
+wyandotte,3,2,-0.45
+changdeokgung,3,2,-0.45
+lompoc,3,2,-0.45
+fleetwood,3,2,-0.45
+lom,3,2,-0.45
+kuching,3,2,-0.45
+st austell,3,2,-0.45
+sunbury-on-thames,3,2,-0.45
+st. martinville,3,2,-0.45
+potters bar,3,2,-0.45
+koprivnica,3,2,-0.45
+prattville,3,2,-0.45
+bronx,3,2,-0.45
+knutsford,3,2,-0.45
+graham,3,2,-0.45
+klang,3,2,-0.45
+lisse,3,2,-0.45
+knaresborough,3,2,-0.45
+bootle,3,2,-0.45
+lusatian neisse,3,2,-0.45
+swedesboro,3,2,-0.45
+berwick-upon-tweed,3,2,-0.45
+grevenbroich,3,2,-0.45
+boonton,3,2,-0.45
+altötting,3,2,-0.45
+sandersville,3,2,-0.45
+kochi,11,9,-0.45
+fair haven,3,2,-0.45
+kusel,3,2,-0.45
+oppenheim,3,2,-0.45
+vidin,3,2,-0.45
+st. james,3,2,-0.45
+cleveland heights,3,2,-0.45
+kalkar,3,2,-0.45
+bingley,3,2,-0.45
+douglas county,3,2,-0.45
+merewether,3,2,-0.45
+werne,3,2,-0.45
+brownhills,3,2,-0.45
+hunter's hill,3,2,-0.45
+barnaul,3,2,-0.45
+waycross,3,2,-0.45
+castleton,3,2,-0.45
+new bern,11,9,-0.45
+drottningholm palace,3,2,-0.45
+west plains,3,2,-0.45
+kano,3,2,-0.45
+sutherland,3,2,-0.45
+myrhorod,3,2,-0.45
+carlyle,3,2,-0.45
+vidalia,3,2,-0.45
+dothan,3,2,-0.45
+skowhegan,3,2,-0.45
+blue island,3,2,-0.45
+nicomedia,3,2,-0.45
+ponca city,3,2,-0.45
+şamaxı,3,2,-0.45
+broadlands,3,2,-0.45
+hay,3,2,-0.45
+valtice,3,2,-0.45
+burton,3,2,-0.45
+miamisburg,3,2,-0.45
+gaza strip,3,2,-0.45
+yekaterinburg,11,9,-0.45
+sayre,3,2,-0.45
+brandýs nad labem-stará boleslav,3,2,-0.45
+ybbs an der donau,3,2,-0.45
+giza,3,2,-0.45
+birgu,3,2,-0.45
+metzingen,3,2,-0.45
+bucaramanga,3,2,-0.45
+lebus,3,2,-0.45
+waukegan,11,9,-0.45
+chambéry,11,9,-0.45
+lenzburg,3,2,-0.45
+friedrichroda,3,2,-0.45
+chełm,3,2,-0.45
+wabash,3,2,-0.45
+lexington county,3,2,-0.45
+north andover,3,2,-0.45
+eberswalde,3,2,-0.45
+uetersen,3,2,-0.45
+bochnia,3,2,-0.45
+piatra neamţ,3,2,-0.45
+eckernförde,3,2,-0.45
+gordon,3,2,-0.45
+cefn mawr,3,2,-0.45
+north brookfield,3,2,-0.45
+gorleston,3,2,-0.45
+chester-le-street,3,2,-0.45
+marlboro,3,2,-0.45
+altrincham,3,2,-0.45
+cochrane,3,2,-0.45
+sulaymaniyah,3,2,-0.45
+queen anne's county,3,2,-0.45
+santa cruz de la sierra,3,2,-0.45
+eagle rock,3,2,-0.45
+"uitenhage, eastern cape",3,2,-0.45
+katanning,3,2,-0.45
+matlock,3,2,-0.45
+mechanicsburg,3,2,-0.45
+olyphant,3,2,-0.45
+chieti,3,2,-0.45
+mauchline,3,2,-0.45
+karviná,3,2,-0.45
+gloster,3,2,-0.45
+abergavenny,10,8,-0.47
+zerbst,10,8,-0.47
+caen,22,19,-0.47
+novara,10,8,-0.47
+bagan,10,8,-0.47
+port huron,10,8,-0.47
+montrouge,10,8,-0.47
+lewiston,21,18,-0.48
+dubuque,21,18,-0.48
+"handsworth, west midlands",9,7,-0.5
+oakland,133,125,-0.5
+el dorado,9,7,-0.5
+culpeper,9,7,-0.5
+st. catharines,9,7,-0.5
+egypt,34,30,-0.5
+guayaquil,19,16,-0.51
+walsall,19,16,-0.51
+reading,71,65,-0.51
+fulda,18,15,-0.52
+llanelli,32,28,-0.52
+ashland,32,28,-0.52
+kalamazoo,18,15,-0.52
+flemington,8,6,-0.53
+agen,8,6,-0.53
+olney,8,6,-0.53
+meadville,8,6,-0.53
+addis ababa,8,6,-0.53
+pescara,8,6,-0.53
+palencia,8,6,-0.53
+ternopil,8,6,-0.53
+laval,8,6,-0.53
+hechingen,8,6,-0.53
+székesfehérvár,8,6,-0.53
+ripon,8,6,-0.53
+hingham,8,6,-0.53
+belo horizonte,8,6,-0.53
+llandaff,8,6,-0.53
+lüdenscheid,8,6,-0.53
+americus,8,6,-0.53
+gibraltar,17,14,-0.54
+smolensk,17,14,-0.54
+butte,16,13,-0.56
+nashua,16,13,-0.56
+tacoma,42,37,-0.56
+abingdon,16,13,-0.56
+guelph,16,13,-0.56
+monterrey,16,13,-0.56
+aachen,41,36,-0.57
+richmond county,2,1,-0.58
+aberavon,2,1,-0.58
+żagań,2,1,-0.58
+auburndale,2,1,-0.58
+reynolds,2,1,-0.58
+alès,2,1,-0.58
+peckham,7,5,-0.58
+patterson,2,1,-0.58
+aups,2,1,-0.58
+stäfa,2,1,-0.58
+richland county,2,1,-0.58
+resistencia,2,1,-0.58
+amelia courthouse,2,1,-0.58
+altus,2,1,-0.58
+remiremont,2,1,-0.58
+penetanguishene,2,1,-0.58
+abersychan,2,1,-0.58
+alwar,2,1,-0.58
+peleş castle,2,1,-0.58
+süssen,2,1,-0.58
+stanstead,2,1,-0.58
+parowan,2,1,-0.58
+atwood,2,1,-0.58
+rheinsberg,2,1,-0.58
+rheinhausen,2,1,-0.58
+paterna,2,1,-0.58
+ambon city,2,1,-0.58
+"new cross, london, england",2,1,-0.58
+süpplingen,2,1,-0.58
+sturgeon bay,2,1,-0.58
+sligo,2,1,-0.58
+rohri,2,1,-0.58
+repentigny,2,1,-0.58
+peine,7,5,-0.58
+antofagasta,2,1,-0.58
+rosslau,2,1,-0.58
+reinhardtsgrimma,2,1,-0.58
+prestbury,2,1,-0.58
+aisne,2,1,-0.58
+annaba,2,1,-0.58
+annaberg,2,1,-0.58
+nova gradiška,2,1,-0.58
+novi ligure,2,1,-0.58
+"primorsk, kaliningrad oblast",2,1,-0.58
+summerfield,2,1,-0.58
+presteigne,2,1,-0.58
+swarzędz,2,1,-0.58
+sterzing,2,1,-0.58
+nu'uul,2,1,-0.58
+stillman valley,2,1,-0.58
+pitt county,2,1,-0.58
+pittem,2,1,-0.58
+prangins,2,1,-0.58
+strafford,2,1,-0.58
+sumy,2,1,-0.58
+stirling castle,2,1,-0.58
+łomża,2,1,-0.58
+ainsworth,2,1,-0.58
+reinfeld,2,1,-0.58
+allegheny county,2,1,-0.58
+arnaudville,2,1,-0.58
+smethport,2,1,-0.58
+north plainfield,2,1,-0.58
+north platte,7,5,-0.58
+agrinio,2,1,-0.58
+swissvale,2,1,-0.58
+pieve di cadore,2,1,-0.58
+allenhurst,2,1,-0.58
+pilot point,2,1,-0.58
+östermalm,2,1,-0.58
+pinar del río,2,1,-0.58
+sultanpur,2,1,-0.58
+steinheim an der murr,2,1,-0.58
+puducherry,2,1,-0.58
+ahoskie,2,1,-0.58
+pryor creek,2,1,-0.58
+swift current,2,1,-0.58
+sweet springs,2,1,-0.58
+orion,2,1,-0.58
+oakdale,2,1,-0.58
+orient,2,1,-0.58
+robbinsdale,2,1,-0.58
+poplarville,2,1,-0.58
+anzegem,2,1,-0.58
+susanville,2,1,-0.58
+robinson,2,1,-0.58
+alderley edge,2,1,-0.58
+polizzi generosa,2,1,-0.58
+poplar bluff,2,1,-0.58
+okemah,2,1,-0.58
+albia,2,1,-0.58
+oakley,2,1,-0.58
+"polokwane, limpopo",2,1,-0.58
+pontyberem,2,1,-0.58
+antigua guatemala,2,1,-0.58
+oldsum,2,1,-0.58
+pontedera,2,1,-0.58
+ponteareas,2,1,-0.58
+old hill,2,1,-0.58
+stone,2,1,-0.58
+albertville,2,1,-0.58
+pointe-aux-trembles,2,1,-0.58
+port colborne,2,1,-0.58
+olivia,2,1,-0.58
+potosí,2,1,-0.58
+potenza,2,1,-0.58
+stadtallendorf,2,1,-0.58
+platteville,2,1,-0.58
+plattsmouth,2,1,-0.58
+stow,2,1,-0.58
+arcata,2,1,-0.58
+pleasant grove,2,1,-0.58
+alfeld,2,1,-0.58
+ootacamund,2,1,-0.58
+oberrot,2,1,-0.58
+porth,2,1,-0.58
+suomussalmi,2,1,-0.58
+ürzig,2,1,-0.58
+port pirie,2,1,-0.58
+oman,2,1,-0.58
+antelias,2,1,-0.58
+solon,2,1,-0.58
+pickerington,2,1,-0.58
+smederevo,2,1,-0.58
+asmara,2,1,-0.58
+perkins,2,1,-0.58
+strood,2,1,-0.58
+razgrad,2,1,-0.58
+ampthill,2,1,-0.58
+newington green,2,1,-0.58
+rathenow,2,1,-0.58
+altdorf,2,1,-0.58
+"newington, london",2,1,-0.58
+"sudbury, london",2,1,-0.58
+ranchi,2,1,-0.58
+street,2,1,-0.58
+raritan,2,1,-0.58
+newnan,2,1,-0.58
+rapla,2,1,-0.58
+rantoul,2,1,-0.58
+anadarko,2,1,-0.58
+alsfeld,2,1,-0.58
+pall mall,2,1,-0.58
+stari grad,2,1,-0.58
+são tomé,2,1,-0.58
+penza oblast,2,1,-0.58
+são tomé and príncipe,2,1,-0.58
+stanton,2,1,-0.58
+étretat,2,1,-0.58
+rigshospitalet,2,1,-0.58
+paravoor,2,1,-0.58
+zachary,2,1,-0.58
+stanway,2,1,-0.58
+zagarolo,2,1,-0.58
+"abington, northamptonshire",2,1,-0.58
+abiquiú,2,1,-0.58
+reedsburg,2,1,-0.58
+penshurst,2,1,-0.58
+new providence,2,1,-0.58
+new roads,2,1,-0.58
+astana,2,1,-0.58
+red river county,2,1,-0.58
+red lodge,2,1,-0.58
+new windsor,2,1,-0.58
+palisades park,2,1,-0.58
+ramsbottom,2,1,-0.58
+angleur,2,1,-0.58
+"small heath, birmingham",2,1,-0.58
+pfaffenhofen an der ilm,2,1,-0.58
+pfarrweisach,2,1,-0.58
+noisy-le-sec,2,1,-0.58
+nokomis,2,1,-0.58
+śmigiel,2,1,-0.58
+ascheberg,2,1,-0.58
+queluz,2,1,-0.58
+queenstown,2,1,-0.58
+smallthorne,2,1,-0.58
+adamsville,2,1,-0.58
+norfolk island,2,1,-0.58
+sykesville,2,1,-0.58
+steele county,2,1,-0.58
+quakenbrück,2,1,-0.58
+arta,2,1,-0.58
+north attleborough,2,1,-0.58
+stegeborg castle,2,1,-0.58
+piana degli albanesi,2,1,-0.58
+pełkinie,2,1,-0.58
+padiham,2,1,-0.58
+adwa,2,1,-0.58
+st. paul,2,1,-0.58
+świdwin,2,1,-0.58
+nidda,2,1,-0.58
+petone,2,1,-0.58
+niebüll,2,1,-0.58
+niederfischbach,2,1,-0.58
+palatine bridge,2,1,-0.58
+niederstetten,2,1,-0.58
+addison,2,1,-0.58
+rajkot,2,1,-0.58
+"nieuwpoort, belgium",2,1,-0.58
+palais du louvre,2,1,-0.58
+zehdenick,2,1,-0.58
+roman,2,1,-0.58
+adorf,2,1,-0.58
+adria,2,1,-0.58
+petrovaradin,2,1,-0.58
+sysmä,2,1,-0.58
+neuenhaus,2,1,-0.58
+west lothian,2,1,-0.58
+hugli-chuchura,2,1,-0.58
+henderson county,2,1,-0.58
+burgwedel,2,1,-0.58
+burlington county,2,1,-0.58
+heidesheim am rhein,2,1,-0.58
+wimbledon,2,1,-0.58
+burscheid,2,1,-0.58
+"hayes, bromley",2,1,-0.58
+vermilion parish,2,1,-0.58
+haverfordwest,7,5,-0.58
+sansepolcro,2,1,-0.58
+ridgeway,2,1,-0.58
+butzbach,2,1,-0.58
+haskell,2,1,-0.58
+hartley,2,1,-0.58
+buzău,2,1,-0.58
+santa clara pueblo,2,1,-0.58
+harnett county,2,1,-0.58
+harlan,2,1,-0.58
+harbour grace,2,1,-0.58
+veshenskaya,2,1,-0.58
+santa paula,2,1,-0.58
+büren an der aare,2,1,-0.58
+cadillac,2,1,-0.58
+vic,2,1,-0.58
+burgess hill,2,1,-0.58
+burford,2,1,-0.58
+caernarfon,2,1,-0.58
+henniker,2,1,-0.58
+bryansk,2,1,-0.58
+holly,2,1,-0.58
+holliston,2,1,-0.58
+holguín,2,1,-0.58
+buckingham,2,1,-0.58
+buckingham county,2,1,-0.58
+hohenstein-ernstthal,2,1,-0.58
+hluboká nad vltavou,2,1,-0.58
+budaun,2,1,-0.58
+hinckley,2,1,-0.58
+hillside,2,1,-0.58
+vega baja,2,1,-0.58
+high prairie,2,1,-0.58
+higginsport,2,1,-0.58
+heusden,2,1,-0.58
+hessle,2,1,-0.58
+hessisch oldendorf,2,1,-0.58
+herzogenbuchsee,2,1,-0.58
+bullitt county,2,1,-0.58
+hertford,7,5,-0.58
+bunbury,2,1,-0.58
+velyki sorochyntsi,2,1,-0.58
+burbage,2,1,-0.58
+cadolzburg,2,1,-0.58
+caithness,2,1,-0.58
+carolina,7,5,-0.58
+canajoharie,2,1,-0.58
+villeneuve-saint-georges,2,1,-0.58
+great harwood,2,1,-0.58
+grayson county,2,1,-0.58
+granville county,2,1,-0.58
+cape elizabeth,2,1,-0.58
+grand ledge,2,1,-0.58
+springburn,2,1,-0.58
+capodimonte,2,1,-0.58
+grainger county,2,1,-0.58
+graceville,2,1,-0.58
+shippagan,2,1,-0.58
+govan,2,1,-0.58
+gourock,2,1,-0.58
+gorlice,2,1,-0.58
+goldthorpe,2,1,-0.58
+goldsboro,7,5,-0.58
+sauk city,2,1,-0.58
+vitry-sur-seine,2,1,-0.58
+carlton house,2,1,-0.58
+carlton north,2,1,-0.58
+carman,2,1,-0.58
+shinnston,2,1,-0.58
+carnwath,2,1,-0.58
+canal winchester,2,1,-0.58
+campobasso,2,1,-0.58
+halikko,2,1,-0.58
+greenup,2,1,-0.58
+haiphong,2,1,-0.58
+haina,2,1,-0.58
+"south glengarry, ontario",2,1,-0.58
+callander,2,1,-0.58
+hadamar,2,1,-0.58
+hachioji,2,1,-0.58
+haarlemmermeer,2,1,-0.58
+calvert,2,1,-0.58
+calverton,2,1,-0.58
+gödöllő,2,1,-0.58
+guyton,2,1,-0.58
+guyana,2,1,-0.58
+guryevsk,2,1,-0.58
+camborne,2,1,-0.58
+guingamp,2,1,-0.58
+guimarães,2,1,-0.58
+guayubín,2,1,-0.58
+santiago del estero,2,1,-0.58
+guaduas,2,1,-0.58
+vila do conde,2,1,-0.58
+grossneuhausen,2,1,-0.58
+grevesmühlen,2,1,-0.58
+greer,2,1,-0.58
+holmestrand,2,1,-0.58
+homburg,2,1,-0.58
+homebush,2,1,-0.58
+wińsko,2,1,-0.58
+bourton-on-the-water,2,1,-0.58
+sigourney,2,1,-0.58
+kenton county,2,1,-0.58
+srirangam,2,1,-0.58
+kenedy,2,1,-0.58
+"kemptville, ontario",2,1,-0.58
+keir,2,1,-0.58
+kehl,2,1,-0.58
+kealakekua,2,1,-0.58
+kazanlak,2,1,-0.58
+brackenheim,2,1,-0.58
+brackley,2,1,-0.58
+kastellaun,2,1,-0.58
+kashgar,2,1,-0.58
+braga,2,1,-0.58
+karimnagar district,2,1,-0.58
+kaolack,2,1,-0.58
+unionville,2,1,-0.58
+"bramley, leeds",2,1,-0.58
+san felipe de puerto plata,2,1,-0.58
+unterreichenbach,2,1,-0.58
+unterwellenborn,2,1,-0.58
+kaldenkirchen,2,1,-0.58
+keszthely,2,1,-0.58
+kidbrooke,2,1,-0.58
+varkaus,2,1,-0.58
+killingworth,2,1,-0.58
+kota,2,1,-0.58
+turtle creek,2,1,-0.58
+silver creek,2,1,-0.58
+konotop,2,1,-0.58
+kongens lyngby,2,1,-0.58
+kolbermoor,2,1,-0.58
+kohat,2,1,-0.58
+kofu,2,1,-0.58
+wollaston,2,1,-0.58
+knowsley,2,1,-0.58
+wolin,2,1,-0.58
+kirriemuir,2,1,-0.58
+kirn,2,1,-0.58
+borjomi,2,1,-0.58
+salt lake county,2,1,-0.58
+bornholm,2,1,-0.58
+kirchberg,2,1,-0.58
+kinver,2,1,-0.58
+tyrone,2,1,-0.58
+kingstown,2,1,-0.58
+king city,2,1,-0.58
+kimberly,2,1,-0.58
+killyleagh,2,1,-0.58
+witterda,2,1,-0.58
+upminster,2,1,-0.58
+upper cwmbran,2,1,-0.58
+witten-annen,2,1,-0.58
+windsor castle,15,12,-0.58
+san vito al tagliamento,2,1,-0.58
+huntersville,2,1,-0.58
+huizen,2,1,-0.58
+neubukow,2,1,-0.58
+sandefjord,2,1,-0.58
+hoym,2,1,-0.58
+hoylake,2,1,-0.58
+hoyerswerda,2,1,-0.58
+hoya,2,1,-0.58
+sanderstead,2,1,-0.58
+howard,2,1,-0.58
+hortonville,2,1,-0.58
+vanceburg,2,1,-0.58
+horstmar,2,1,-0.58
+hornell,2,1,-0.58
+hornberg,2,1,-0.58
+horn,2,1,-0.58
+sandford-on-thames,2,1,-0.58
+hoogstraten,2,1,-0.58
+hoogeveen,2,1,-0.58
+brugg,2,1,-0.58
+honey brook,2,1,-0.58
+bromyard,2,1,-0.58
+windsor locks,2,1,-0.58
+höchst,2,1,-0.58
+itu,2,1,-0.58
+jordan,2,1,-0.58
+jičín,2,1,-0.58
+san giovanni valdarno,2,1,-0.58
+jesup,2,1,-0.58
+jayuya,2,1,-0.58
+jamshedpur,2,1,-0.58
+james city county,2,1,-0.58
+brescello,2,1,-0.58
+bretten,2,1,-0.58
+i̇znik,2,1,-0.58
+winters,2,1,-0.58
+ibagué,2,1,-0.58
+brielle,2,1,-0.58
+isle of sheppey,2,1,-0.58
+usk,2,1,-0.58
+inverbervie,2,1,-0.58
+ingå,2,1,-0.58
+winnemucca,2,1,-0.58
+"san martín, buenos aires",2,1,-0.58
+immenstadt,2,1,-0.58
+idaho springs,2,1,-0.58
+san nicolás de los arroyos,2,1,-0.58
+glarus,2,1,-0.58
+carouge,2,1,-0.58
+bollington,2,1,-0.58
+choteau,2,1,-0.58
+doetinchem,2,1,-0.58
+doesburg,2,1,-0.58
+dobson,2,1,-0.58
+château d'eu,2,1,-0.58
+dickinson,2,1,-0.58
+sebastian county,2,1,-0.58
+desborough,2,1,-0.58
+shawnee,7,5,-0.58
+delphi,2,1,-0.58
+delaware city,2,1,-0.58
+weiser,2,1,-0.58
+deggendorf,2,1,-0.58
+ciaculli,2,1,-0.58
+ciboure,2,1,-0.58
+sedgefield,2,1,-0.58
+cieszyn,7,5,-0.58
+de kalb,2,1,-0.58
+dax,2,1,-0.58
+wejherowo,2,1,-0.58
+cinisi,2,1,-0.58
+segni,2,1,-0.58
+darton,2,1,-0.58
+danby,2,1,-0.58
+waynesboro city,2,1,-0.58
+down ampney,2,1,-0.58
+dalat,2,1,-0.58
+downsville,2,1,-0.58
+echternach,2,1,-0.58
+scone palace,2,1,-0.58
+ebensburg,2,1,-0.58
+washburn,2,1,-0.58
+east jordan,2,1,-0.58
+chigwell,2,1,-0.58
+east bridgewater,2,1,-0.58
+spalding,2,1,-0.58
+easington,2,1,-0.58
+westhoughton,2,1,-0.58
+chino,2,1,-0.58
+chinon,2,1,-0.58
+"durham, ontario",2,1,-0.58
+durham county,2,1,-0.58
+"westhorpe, suffolk",2,1,-0.58
+dupnitsa,2,1,-0.58
+dunn,2,1,-0.58
+chisholm,2,1,-0.58
+chittoor,2,1,-0.58
+duckmanton,2,1,-0.58
+waverley,7,5,-0.58
+wavre,2,1,-0.58
+waxhaw,2,1,-0.58
+damietta,2,1,-0.58
+civitanova marche,2,1,-0.58
+girvan,2,1,-0.58
+coweta,2,1,-0.58
+shannon,2,1,-0.58
+county durham,7,5,-0.58
+county armagh,2,1,-0.58
+wermsdorf,2,1,-0.58
+coswig,2,1,-0.58
+coryell county,2,1,-0.58
+corunna,2,1,-0.58
+cortemaggiore,2,1,-0.58
+sequals,2,1,-0.58
+cliftonville,2,1,-0.58
+cootamundra,2,1,-0.58
+cooper county,2,1,-0.58
+coonamble,2,1,-0.58
+cloyne,2,1,-0.58
+sestri levante,2,1,-0.58
+clydebank,2,1,-0.58
+coniston,2,1,-0.58
+south tyrol,2,1,-0.58
+west norwood,2,1,-0.58
+cobalt,2,1,-0.58
+columbia falls,2,1,-0.58
+colima,2,1,-0.58
+west lavington,2,1,-0.58
+cowdenbeath,2,1,-0.58
+claysville,2,1,-0.58
+dagenham,2,1,-0.58
+cranbury,2,1,-0.58
+daegu,2,1,-0.58
+côte d’ivoire,2,1,-0.58
+cítoliby,2,1,-0.58
+cárdenas,2,1,-0.58
+selinsgrove,2,1,-0.58
+curragh,2,1,-0.58
+wellow,2,1,-0.58
+wellston,2,1,-0.58
+cuiabá,2,1,-0.58
+cuddalore,2,1,-0.58
+ctesiphon,2,1,-0.58
+crystal springs,2,1,-0.58
+crumpsall,2,1,-0.58
+wemding,2,1,-0.58
+crittenden county,2,1,-0.58
+crimea,7,5,-0.58
+clausthal-zellerfeld,2,1,-0.58
+wendover,2,1,-0.58
+creston,2,1,-0.58
+crescent city,2,1,-0.58
+clay city,2,1,-0.58
+senatobia,2,1,-0.58
+southfields,2,1,-0.58
+eddyville,2,1,-0.58
+chesterville,2,1,-0.58
+edisto,2,1,-0.58
+whittington,2,1,-0.58
+fukuoka,7,5,-0.58
+fuengirola,2,1,-0.58
+catskill mountains,2,1,-0.58
+caversham,2,1,-0.58
+friesland,2,1,-0.58
+friedrichstadt,2,1,-0.58
+vöhringen,2,1,-0.58
+freyburg,2,1,-0.58
+freising,7,5,-0.58
+freedom,2,1,-0.58
+cedartown,2,1,-0.58
+frederica,2,1,-0.58
+shewa,2,1,-0.58
+celaya,2,1,-0.58
+wahpeton,2,1,-0.58
+frankenberg,2,1,-0.58
+fotheringay castle,2,1,-0.58
+fossombrone,2,1,-0.58
+fossano,2,1,-0.58
+central java,2,1,-0.58
+waialua,2,1,-0.58
+centreville,2,1,-0.58
+certaldo,2,1,-0.58
+vårdö,2,1,-0.58
+castor,2,1,-0.58
+edwards,2,1,-0.58
+gallia narbonensis,2,1,-0.58
+wijk bij duurstede,2,1,-0.58
+vizianagaram district,2,1,-0.58
+wigtown,2,1,-0.58
+gildersome,2,1,-0.58
+gilberton,2,1,-0.58
+ghazipur,2,1,-0.58
+wieliczka,2,1,-0.58
+georgetown county,2,1,-0.58
+genesee county,2,1,-0.58
+caserta,7,5,-0.58
+shiner,2,1,-0.58
+gavà,2,1,-0.58
+gause,2,1,-0.58
+gaul,2,1,-0.58
+cassville,2,1,-0.58
+vranje,2,1,-0.58
+gartz,2,1,-0.58
+castalian springs,2,1,-0.58
+castel san pietro terme,2,1,-0.58
+garrett,2,1,-0.58
+castello del valentino,2,1,-0.58
+gardelegen,2,1,-0.58
+"shinagawa, tokyo",2,1,-0.58
+cervia,2,1,-0.58
+white house station,2,1,-0.58
+forsyth,2,1,-0.58
+waimea,2,1,-0.58
+euclid,2,1,-0.58
+walpole,7,5,-0.58
+walterboro,2,1,-0.58
+schwabmünchen,2,1,-0.58
+spencer county,2,1,-0.58
+whalley range,2,1,-0.58
+shepparton,2,1,-0.58
+erndtebrück,2,1,-0.58
+erbach im odenwald,2,1,-0.58
+envigado,2,1,-0.58
+enniscorthy,2,1,-0.58
+ennigerloh,2,1,-0.58
+wangen im allgäu,2,1,-0.58
+emlenton,2,1,-0.58
+schwyz,2,1,-0.58
+ellensburg,2,1,-0.58
+elkton,7,5,-0.58
+elkridge,2,1,-0.58
+cheney,2,1,-0.58
+elbeuf,2,1,-0.58
+ekenäs,2,1,-0.58
+eitorf,2,1,-0.58
+cherry valley,2,1,-0.58
+shepton mallet,2,1,-0.58
+eupen,2,1,-0.58
+everly,2,1,-0.58
+feltre,2,1,-0.58
+chaddesden,2,1,-0.58
+forcalquier,2,1,-0.58
+footscray,2,1,-0.58
+champigny-sur-marne,2,1,-0.58
+foix,2,1,-0.58
+spilsby,2,1,-0.58
+floyd,2,1,-0.58
+firozpur,2,1,-0.58
+finale ligure,2,1,-0.58
+ferryhill,2,1,-0.58
+feilding,2,1,-0.58
+schriesheim,2,1,-0.58
+waldo,2,1,-0.58
+farsund,2,1,-0.58
+chardon,2,1,-0.58
+far west,2,1,-0.58
+schopfheim,2,1,-0.58
+factoryville,2,1,-0.58
+ełk,2,1,-0.58
+export,2,1,-0.58
+exning,2,1,-0.58
+excelsior springs,2,1,-0.58
+turda,2,1,-0.58
+"ridgetown, ontario",2,1,-0.58
+kranichfeld,2,1,-0.58
+mattapoisett,2,1,-0.58
+mathews,2,1,-0.58
+sacramento county,2,1,-0.58
+bexleyheath,2,1,-0.58
+licking county,2,1,-0.58
+licata,2,1,-0.58
+leyland,2,1,-0.58
+young,2,1,-0.58
+liminka,2,1,-0.58
+worsley,2,1,-0.58
+leutkirch im allgäu,2,1,-0.58
+leshan,2,1,-0.58
+bad königshofen,2,1,-0.58
+batesville,7,5,-0.58
+bikaner,2,1,-0.58
+mataró,2,1,-0.58
+limpsfield,2,1,-0.58
+trenčín,2,1,-0.58
+lloydminster,2,1,-0.58
+torrelaguna,2,1,-0.58
+battle ground,2,1,-0.58
+loches,2,1,-0.58
+thornton heath,2,1,-0.58
+marton,2,1,-0.58
+battambang,2,1,-0.58
+torremaggiore,2,1,-0.58
+bethpage,2,1,-0.58
+masontown,2,1,-0.58
+bernstorff palace,2,1,-0.58
+rouyn-noranda,2,1,-0.58
+listowel,2,1,-0.58
+safed,7,5,-0.58
+saint-jean-d'angély,2,1,-0.58
+leon county,2,1,-0.58
+lenham,2,1,-0.58
+thun,2,1,-0.58
+melksham,2,1,-0.58
+leechburg,2,1,-0.58
+barrhead,2,1,-0.58
+barre city,2,1,-0.58
+todd county,2,1,-0.58
+melk,2,1,-0.58
+bad rodach,2,1,-0.58
+bad staffelstein,2,1,-0.58
+medfield,2,1,-0.58
+melo,2,1,-0.58
+barnwell,2,1,-0.58
+menasha,2,1,-0.58
+yantai,2,1,-0.58
+le quesnoy,2,1,-0.58
+le perreux-sur-marne,2,1,-0.58
+bad radkersburg,2,1,-0.58
+tarazona,2,1,-0.58
+"mauer, vienna",2,1,-0.58
+sabine pass,2,1,-0.58
+saint-maixent-l'école,2,1,-0.58
+maumee,2,1,-0.58
+mauricetown,2,1,-0.58
+lemgo,2,1,-0.58
+bassett,2,1,-0.58
+maynard,2,1,-0.58
+trincomalee,2,1,-0.58
+leeton,2,1,-0.58
+leiblfing,2,1,-0.58
+basking ridge,2,1,-0.58
+lehi,2,1,-0.58
+saint-marc,2,1,-0.58
+saint-martin-de-ré,2,1,-0.58
+meaford,2,1,-0.58
+marshall county,2,1,-0.58
+yamhill county,2,1,-0.58
+menzendorf,2,1,-0.58
+würselen,2,1,-0.58
+tomahawk,2,1,-0.58
+madera,2,1,-0.58
+lower franconia,2,1,-0.58
+madikeri,2,1,-0.58
+beltsville,2,1,-0.58
+beledweyne,2,1,-0.58
+mutzig,2,1,-0.58
+lowville,2,1,-0.58
+mutriku,2,1,-0.58
+siófok,2,1,-0.58
+makawao,2,1,-0.58
+lovelock,2,1,-0.58
+saint martin (island),2,1,-0.58
+sirkazhi,2,1,-0.58
+tallulah,2,1,-0.58
+mymensingh,2,1,-0.58
+loughton,2,1,-0.58
+belmar,2,1,-0.58
+bellingham,7,5,-0.58
+tochigi,2,1,-0.58
+lumberton,2,1,-0.58
+luling,2,1,-0.58
+saint-barthélemy,2,1,-0.58
+saint-amand-montrond,2,1,-0.58
+mühldorf,2,1,-0.58
+nabadwip,2,1,-0.58
+ludington,2,1,-0.58
+tomah,2,1,-0.58
+roxburgh,2,1,-0.58
+bell,2,1,-0.58
+müncheberg,2,1,-0.58
+tishomingo,2,1,-0.58
+murmansk,2,1,-0.58
+malang,2,1,-0.58
+lokhvytsia,2,1,-0.58
+wyk auf föhr,2,1,-0.58
+mullica hill,2,1,-0.58
+london borough of southwark,2,1,-0.58
+maribo,2,1,-0.58
+torhout,2,1,-0.58
+mariehamn,2,1,-0.58
+tibshelf,2,1,-0.58
+tiberias,2,1,-0.58
+saint-eustache,2,1,-0.58
+market drayton,2,1,-0.58
+tantallon castle,2,1,-0.58
+marlin,2,1,-0.58
+muinebeag,2,1,-0.58
+lomita,2,1,-0.58
+lombardy,2,1,-0.58
+marche,2,1,-0.58
+krasiczyn,2,1,-0.58
+rovaniemi,2,1,-0.58
+bendorf,2,1,-0.58
+malmedy,2,1,-0.58
+beclean,2,1,-0.58
+malvern east,2,1,-0.58
+manaus,2,1,-0.58
+mandeville,2,1,-0.58
+benalla,2,1,-0.58
+toowong,2,1,-0.58
+marcellus,2,1,-0.58
+lons-le-saunier,2,1,-0.58
+beaufort county,2,1,-0.58
+bad bramstedt,2,1,-0.58
+bengeo,2,1,-0.58
+saint-dié-des-vosges,2,1,-0.58
+namsos,2,1,-0.58
+menomonee falls,2,1,-0.58
+rüdesheim,2,1,-0.58
+la orotava,2,1,-0.58
+bago,2,1,-0.58
+miyakonojo,2,1,-0.58
+mirfield,2,1,-0.58
+woodbine,2,1,-0.58
+tuileries palace,2,1,-0.58
+kőszeg,2,1,-0.58
+cokesbury,2,1,-0.58
+minerva,2,1,-0.58
+baia mare,2,1,-0.58
+tui,2,1,-0.58
+la côte-saint-andré,2,1,-0.58
+mindelheim,2,1,-0.58
+tuckahoe,2,1,-0.58
+milverton,2,1,-0.58
+millstadt,2,1,-0.58
+boalsburg,2,1,-0.58
+mobberley,2,1,-0.58
+rutherfordton,2,1,-0.58
+moore county,2,1,-0.58
+sakai,2,1,-0.58
+la rue,2,1,-0.58
+tuam,2,1,-0.58
+lac-brome,2,1,-0.58
+soponya,2,1,-0.58
+mileto,2,1,-0.58
+bagnols-sur-cèze,2,1,-0.58
+miles city,2,1,-0.58
+mildenhall,2,1,-0.58
+lachute,2,1,-0.58
+milbank,2,1,-0.58
+banská štiavnica,2,1,-0.58
+montreuil,2,1,-0.58
+kyūshū,2,1,-0.58
+mie prefecture,2,1,-0.58
+bois-colombes,2,1,-0.58
+neubrandenburg,7,5,-0.58
+nerviano,2,1,-0.58
+krautheim,2,1,-0.58
+bolkhov,2,1,-0.58
+salgótarján,2,1,-0.58
+bakhchisaray,2,1,-0.58
+kreuzlingen,2,1,-0.58
+montbard,2,1,-0.58
+balcombe,2,1,-0.58
+krosno,2,1,-0.58
+kruishoutem,2,1,-0.58
+tazewell,2,1,-0.58
+krásná lípa,2,1,-0.58
+krško,2,1,-0.58
+kuala terengganu,2,1,-0.58
+"bailleul, nord",2,1,-0.58
+bois de vincennes,2,1,-0.58
+kufstein,2,1,-0.58
+kumul,2,1,-0.58
+kupferzell,2,1,-0.58
+molsheim,2,1,-0.58
+yokkaichi,2,1,-0.58
+kutztown,2,1,-0.58
+moira,2,1,-0.58
+montmagny,2,1,-0.58
+ystrad rhondda,2,1,-0.58
+kuwait city,2,1,-0.58
+kwidzyn,7,5,-0.58
+kyaukse district,2,1,-0.58
+ruislip,2,1,-0.58
+lacombe,2,1,-0.58
+montgomery city,2,1,-0.58
+woodford green,2,1,-0.58
+nellore,2,1,-0.58
+ystad,2,1,-0.58
+trujillo alto,2,1,-0.58
+nebraska city,2,1,-0.58
+barapind,2,1,-0.58
+meulebeke,2,1,-0.58
+morehead city,2,1,-0.58
+larissa,2,1,-0.58
+navarro county,2,1,-0.58
+bishkek,2,1,-0.58
+larue county,2,1,-0.58
+bareilly,2,1,-0.58
+bisceglie,2,1,-0.58
+terry,2,1,-0.58
+lasham,2,1,-0.58
+merton,2,1,-0.58
+barlt,2,1,-0.58
+lauffen,2,1,-0.58
+røros,2,1,-0.58
+barnard,2,1,-0.58
+mercedes,2,1,-0.58
+barnard castle,2,1,-0.58
+layton,2,1,-0.58
+morgan,2,1,-0.58
+lansdowne house,2,1,-0.58
+barceloneta,2,1,-0.58
+michelstadt,2,1,-0.58
+lakeview,2,1,-0.58
+middleport,2,1,-0.58
+blois,15,12,-0.58
+ruddington,2,1,-0.58
+lake providence,2,1,-0.58
+bagamoyo,2,1,-0.58
+bluff,2,1,-0.58
+tepic,2,1,-0.58
+bladen county,2,1,-0.58
+aix-en-provence,25,21,-0.59
+dunedin,37,32,-0.6
+huế,14,11,-0.6
+medellín,14,11,-0.6
+dunbar,6,4,-0.63
+nishapur,6,4,-0.63
+cahors,6,4,-0.63
+matsuyama,6,4,-0.63
+highland park,13,10,-0.63
+midway,6,4,-0.63
+kittanning,6,4,-0.63
+wausau,6,4,-0.63
+bari,13,10,-0.63
+far rockaway,6,4,-0.63
+nuneaton,6,4,-0.63
+phillipsburg,6,4,-0.63
+pimlico,6,4,-0.63
+yogyakarta,6,4,-0.63
+kandahar,6,4,-0.63
+kristianstad,6,4,-0.63
+bonham,6,4,-0.63
+oshawa,6,4,-0.63
+kirksville,6,4,-0.63
+kankakee,6,4,-0.63
+st. thomas,6,4,-0.63
+vigo,6,4,-0.63
+bad urach,6,4,-0.63
+pietermaritzburg,6,4,-0.63
+amersfoort,13,10,-0.63
+watervliet,6,4,-0.63
+cottbus,6,4,-0.63
+tiverton,6,4,-0.63
+nottingham,65,58,-0.63
+olathe,6,4,-0.63
+barrie,6,4,-0.63
+würzburg,66,59,-0.63
+périgueux,6,4,-0.63
+chicago heights,6,4,-0.63
+salvador,13,10,-0.63
+cornish,6,4,-0.63
+hope,6,4,-0.63
+frederiksberg,22,18,-0.63
+waynesboro,6,4,-0.63
+rastatt,6,4,-0.63
+wasserburg am inn,6,4,-0.63
+cayenne,6,4,-0.63
+nelson,22,18,-0.63
+terni,6,4,-0.63
+antioch,6,4,-0.63
+jonesboro,6,4,-0.63
+arnold,6,4,-0.63
+saint helier,6,4,-0.63
+schiedam,6,4,-0.63
+sana'a,6,4,-0.63
+dewsbury,13,10,-0.63
+samarkand,6,4,-0.63
+falun,6,4,-0.63
+elkins,6,4,-0.63
+clay county,6,4,-0.63
+augustenborg,6,4,-0.63
+passaic,13,10,-0.63
+esztergom,6,4,-0.63
+king's lynn,6,4,-0.63
+buxton,6,4,-0.63
+aalborg,6,4,-0.63
+meaux,6,4,-0.63
+holborn,6,4,-0.63
+corinth,6,4,-0.63
+salem,103,94,-0.64
+tibet,12,9,-0.65
+montevideo,80,72,-0.65
+petersburg,21,17,-0.65
+helmstedt,12,9,-0.65
+bologna,144,133,-0.66
+fairfield,30,25,-0.67
+aleppo,20,16,-0.67
+bremen,113,103,-0.68
+wolverhampton,41,35,-0.69
+stockport,19,15,-0.69
+kobe,11,8,-0.69
+mandalay,11,8,-0.69
+hannibal,11,8,-0.69
+scituate,11,8,-0.69
+southsea,19,15,-0.69
+sandringham,5,3,-0.71
+peabody,5,3,-0.71
+webster groves,5,3,-0.71
+les andelys,5,3,-0.71
+aranjuez,5,3,-0.71
+slovakia,5,3,-0.71
+dodge city,5,3,-0.71
+gaeta,5,3,-0.71
+sturgis,5,3,-0.71
+tralee,5,3,-0.71
+masterton,5,3,-0.71
+pärnu,5,3,-0.71
+benton county,5,3,-0.71
+courbevoie,5,3,-0.71
+kearny,5,3,-0.71
+berks county,5,3,-0.71
+thirsk,5,3,-0.71
+ponce,18,14,-0.71
+velletri,5,3,-0.71
+voghera,5,3,-0.71
+putney,18,14,-0.71
+einbeck,5,3,-0.71
+hereford,18,14,-0.71
+eibar,5,3,-0.71
+bermondsey,5,3,-0.71
+ringwood,5,3,-0.71
+hounslow,5,3,-0.71
+idaho falls,5,3,-0.71
+wallsend,5,3,-0.71
+falls city,5,3,-0.71
+žamberk,5,3,-0.71
+lauenburg/elbe,5,3,-0.71
+lauterbach,5,3,-0.71
+jeddah,5,3,-0.71
+alajuela,5,3,-0.71
+sudan,5,3,-0.71
+changsha,5,3,-0.71
+flint,18,14,-0.71
+ashtabula,5,3,-0.71
+leadville,5,3,-0.71
+laken,5,3,-0.71
+lahr,5,3,-0.71
+mission,5,3,-0.71
+lee's summit,5,3,-0.71
+brockville,5,3,-0.71
+kamenz,5,3,-0.71
+rotherhithe,5,3,-0.71
+bad oldesloe,5,3,-0.71
+revere,5,3,-0.71
+port talbot,5,3,-0.71
+pskov,5,3,-0.71
+wooster,18,14,-0.71
+mcconnelsville,5,3,-0.71
+leigh,5,3,-0.71
+moose jaw,5,3,-0.71
+hoxton,5,3,-0.71
+hazleton,5,3,-0.71
+thames,5,3,-0.71
+pittsford,5,3,-0.71
+colombes,5,3,-0.71
+alma,5,3,-0.71
+harlingen,5,3,-0.71
+east greenwich,5,3,-0.71
+borås,5,3,-0.71
+sulzbach-rosenberg,5,3,-0.71
+rock springs,5,3,-0.71
+veszprém,5,3,-0.71
+argyll,5,3,-0.71
+grosvenor square,5,3,-0.71
+chicopee,5,3,-0.71
+westbrook,5,3,-0.71
+nacogdoches,5,3,-0.71
+picton,5,3,-0.71
+caledon,5,3,-0.71
+novo mesto,5,3,-0.71
+ayrshire,5,3,-0.71
+allahabad,18,14,-0.71
+calw,5,3,-0.71
+hartley wintney,5,3,-0.71
+north bay,5,3,-0.71
+royal castle of laeken,5,3,-0.71
+bound brook,5,3,-0.71
+neustrelitz,17,13,-0.73
+charlottetown,10,7,-0.73
+tamworth,10,7,-0.73
+wells,10,7,-0.73
+jeffersonville,10,7,-0.73
+milledgeville,10,7,-0.73
+appleton,10,7,-0.73
+carbondale,10,7,-0.73
+paducah,10,7,-0.73
+new hampshire,17,13,-0.73
+urbino,10,7,-0.73
+santiago de cuba,17,13,-0.73
+donostia / san sebastián,17,13,-0.73
+lancaster,93,83,-0.75
+lexington,35,29,-0.75
+swansea,60,52,-0.76
+panama city,16,12,-0.76
+waltham,16,12,-0.76
+cuba,16,12,-0.76
+brandenburg,24,19,-0.76
+southwark,16,12,-0.76
+subotica,9,6,-0.77
+owensboro,9,6,-0.77
+pottsville,9,6,-0.77
+greeneville,9,6,-0.77
+zhovkva,9,6,-0.77
+ottumwa,9,6,-0.77
+baltimore,379,358,-0.77
+edgbaston,9,6,-0.77
+sondershausen,9,6,-0.77
+east liverpool,9,6,-0.77
+büdingen,9,6,-0.77
+grahamstown,9,6,-0.77
+mount pleasant,15,11,-0.78
+le mans,15,11,-0.78
+lebanon,55,47,-0.79
+parkersburg,22,17,-0.8
+binghamton,22,17,-0.8
+saint-germain-en-laye,22,17,-0.8
+saarbrücken,22,17,-0.8
+greensboro,31,25,-0.8
+frederick,22,17,-0.8
+ealing,22,17,-0.8
+woerden,4,2,-0.82
+cockermouth,4,2,-0.82
+châteauroux,4,2,-0.82
+waterloo,14,10,-0.82
+kovel,4,2,-0.82
+jefferson,14,10,-0.82
+conegliano,4,2,-0.82
+san fernando city,4,2,-0.82
+nemours,4,2,-0.82
+mirow,4,2,-0.82
+metropolitan borough of hackney,4,2,-0.82
+korneuburg,4,2,-0.82
+evergreen,4,2,-0.82
+runcorn,4,2,-0.82
+edgecombe county,4,2,-0.82
+solna municipality,4,2,-0.82
+oundle,4,2,-0.82
+terrassa,4,2,-0.82
+bissau,4,2,-0.82
+uddevalla,4,2,-0.82
+bolivar,4,2,-0.82
+nicholasville,4,2,-0.82
+san gimignano,4,2,-0.82
+newberry,4,2,-0.82
+eastman,4,2,-0.82
+kirtland,4,2,-0.82
+wolfratshausen,4,2,-0.82
+sukhumi,4,2,-0.82
+banja luka,4,2,-0.82
+east haddam,4,2,-0.82
+kaskaskia,4,2,-0.82
+kelheim,4,2,-0.82
+elk city,4,2,-0.82
+killingly,4,2,-0.82
+rusk,4,2,-0.82
+suhl,4,2,-0.82
+punxsutawney,4,2,-0.82
+omdurman,4,2,-0.82
+rathmines,4,2,-0.82
+chieri,4,2,-0.82
+elberon,4,2,-0.82
+purmerend,4,2,-0.82
+el puerto de santa maría,4,2,-0.82
+boucherville,4,2,-0.82
+karlstadt am main,4,2,-0.82
+staines,4,2,-0.82
+dharwad,4,2,-0.82
+chehalis,4,2,-0.82
+brampton,4,2,-0.82
+kangasala,4,2,-0.82
+kirchheimbolanden,4,2,-0.82
+chatou,4,2,-0.82
+andernach,4,2,-0.82
+weesp,4,2,-0.82
+aalen,4,2,-0.82
+rushden,4,2,-0.82
+schwechat,4,2,-0.82
+tenby,4,2,-0.82
+down house,4,2,-0.82
+tahlequah,4,2,-0.82
+příbram,4,2,-0.82
+brainerd,4,2,-0.82
+uniontown,14,10,-0.82
+kent town,4,2,-0.82
+anjou,4,2,-0.82
+banská bystrica,4,2,-0.82
+gympie,4,2,-0.82
+urmia,4,2,-0.82
+spring city,4,2,-0.82
+clare,4,2,-0.82
+st. albans,14,10,-0.82
+gniezno,4,2,-0.82
+accrington,4,2,-0.82
+"wynberg, cape town",4,2,-0.82
+alor star,4,2,-0.82
+glenside,4,2,-0.82
+carluke,4,2,-0.82
+maramon,4,2,-0.82
+yugoslavia,4,2,-0.82
+"pokój, opole voivodeship",4,2,-0.82
+sagaing division,4,2,-0.82
+clarendon,4,2,-0.82
+shanxi,4,2,-0.82
+svendborg,4,2,-0.82
+pershore,4,2,-0.82
+venezuela,4,2,-0.82
+cúcuta,4,2,-0.82
+hermosillo,4,2,-0.82
+claiborne county,4,2,-0.82
+pomeroy,4,2,-0.82
+perris,4,2,-0.82
+west springfield,4,2,-0.82
+civitavecchia,4,2,-0.82
+goochland county,4,2,-0.82
+cuxhaven,4,2,-0.82
+velikiye luki,4,2,-0.82
+piteşti,4,2,-0.82
+gweedore,4,2,-0.82
+vigevano,4,2,-0.82
+"vienne, isère",4,2,-0.82
+toccoa,4,2,-0.82
+hackney,4,2,-0.82
+santiago de querétaro,4,2,-0.82
+mülheim,21,16,-0.82
+halden,4,2,-0.82
+belgravia,4,2,-0.82
+tiruchirapalli,4,2,-0.82
+caerleon,4,2,-0.82
+babruysk,4,2,-0.82
+mandal,4,2,-0.82
+roxburghshire,4,2,-0.82
+hanford,4,2,-0.82
+ross county,4,2,-0.82
+tompkinsville,4,2,-0.82
+selkirk,4,2,-0.82
+renfrew,4,2,-0.82
+nairn,4,2,-0.82
+ross-on-wye,4,2,-0.82
+santa clara county,4,2,-0.82
+saint-denis,14,10,-0.82
+loudun,4,2,-0.82
+đakovica,4,2,-0.82
+"germiston, gauteng",4,2,-0.82
+geisenheim,4,2,-0.82
+morton,4,2,-0.82
+hyde,4,2,-0.82
+augsburg,79,69,-0.82
+alba,4,2,-0.82
+leek,4,2,-0.82
+rockdale,4,2,-0.82
+schleiz,4,2,-0.82
+de soto,4,2,-0.82
+nitra,4,2,-0.82
+chadderton,4,2,-0.82
+sint-andries,4,2,-0.82
+ilchester,4,2,-0.82
+correggio,4,2,-0.82
+aversa,4,2,-0.82
+winnenden,4,2,-0.82
+american fork,4,2,-0.82
+cornwall on hudson,4,2,-0.82
+tarquinia,4,2,-0.82
+"clontarf, dublin",4,2,-0.82
+fermo,4,2,-0.82
+paragould,4,2,-0.82
+bridgton,4,2,-0.82
+wirksworth,4,2,-0.82
+riedlingen,4,2,-0.82
+prescot,4,2,-0.82
+ardrossan,4,2,-0.82
+"basford, nottingham",4,2,-0.82
+portage la prairie,4,2,-0.82
+nashik,4,2,-0.82
+thouars,4,2,-0.82
+heywood,4,2,-0.82
+mountain ash,4,2,-0.82
+nanterre,4,2,-0.82
+holloway,4,2,-0.82
+fălticeni,4,2,-0.82
+mount sterling,4,2,-0.82
+växjö,4,2,-0.82
+caswell county,4,2,-0.82
+funen,4,2,-0.82
+rossville,4,2,-0.82
+bad muskau,4,2,-0.82
+bilbao,14,10,-0.82
+st. james's square,4,2,-0.82
+cavtat,4,2,-0.82
+leigh-on-sea,4,2,-0.82
+costa rica,4,2,-0.82
+mazatlán,4,2,-0.82
+bassano del grappa,4,2,-0.82
+wadowice,4,2,-0.82
+valley city,4,2,-0.82
+ohrdruf,4,2,-0.82
+góra kalwaria,4,2,-0.82
+rendsburg,8,5,-0.83
+aurora,29,23,-0.83
+auxerre,8,5,-0.83
+glastonbury,8,5,-0.83
+south korea,8,5,-0.83
+"santurce, san juan, puerto rico",8,5,-0.83
+jasper,8,5,-0.83
+braintree,8,5,-0.83
+grantham,8,5,-0.83
+vladimir,8,5,-0.83
+straubing,8,5,-0.83
+luang prabang,8,5,-0.83
+woonsocket,8,5,-0.83
+santos,8,5,-0.83
+romsey,8,5,-0.83
+kleve,8,5,-0.83
+prince george's county,8,5,-0.83
+nördlingen,8,5,-0.83
+fond du lac,8,5,-0.83
+everett,20,15,-0.85
+erie,28,22,-0.85
+brest,20,15,-0.85
+calais,13,9,-0.85
+great falls,13,9,-0.85
+swindon,13,9,-0.85
+perpignan,13,9,-0.85
+stockholm palace,13,9,-0.85
+newcastle-under-lyme,13,9,-0.85
+utah,13,9,-0.85
+syracuse,86,75,-0.87
+dorchester,19,14,-0.87
+split,27,21,-0.87
+new orleans,286,265,-0.89
+champaign,12,8,-0.89
+framingham,12,8,-0.89
+carrollton,12,8,-0.89
+tianjin,12,8,-0.89
+natick,12,8,-0.89
+nanjing,12,8,-0.89
+pottstown,12,8,-0.89
+whanganui,12,8,-0.89
+beloit,12,8,-0.89
+mysore,12,8,-0.89
+isfahan,12,8,-0.89
+quedlinburg,12,8,-0.89
+puebla,12,8,-0.89
+chelmsford,12,8,-0.89
+maryville,7,4,-0.9
+saint thomas,7,4,-0.9
+santiago de los caballeros,7,4,-0.9
+wyoming,7,4,-0.9
+maputo,7,4,-0.9
+london borough of bromley,7,4,-0.9
+nyköping,7,4,-0.9
+grand island,7,4,-0.9
+stoke newington,7,4,-0.9
+hannoversch münden,7,4,-0.9
+talbot county,7,4,-0.9
+london borough of lambeth,7,4,-0.9
+croydon,34,27,-0.9
+cirencester,7,4,-0.9
+eton,7,4,-0.9
+bolsover,7,4,-0.9
+eau claire,7,4,-0.9
+la spezia,7,4,-0.9
+el monte,7,4,-0.9
+shelton,7,4,-0.9
+sète,7,4,-0.9
+painesville,7,4,-0.9
+randolph,7,4,-0.9
+diyarbakır,7,4,-0.9
+aberdare,7,4,-0.9
+i̇zmir,18,13,-0.9
+etterbeek,7,4,-0.9
+nauru,7,4,-0.9
+charles city county,7,4,-0.9
+ioannina,7,4,-0.9
+brive-la-gaillarde,7,4,-0.9
+roermond,7,4,-0.9
+lippstadt,7,4,-0.9
+staten island,43,35,-0.91
+montgomery,43,35,-0.91
+elgin,17,12,-0.93
+valencia,51,42,-0.93
+piraeus,17,12,-0.93
+tonbridge,11,7,-0.94
+vercelli,11,7,-0.94
+oviedo,11,7,-0.94
+woburn,11,7,-0.94
+neuburg an der donau,11,7,-0.94
+charleroi,11,7,-0.94
+maidstone,11,7,-0.94
+new brunswick,31,24,-0.94
+mainz,61,51,-0.94
+fairmont,11,7,-0.94
+chihuahua,11,7,-0.94
+richmond,49,40,-0.95
+bowling green,16,11,-0.96
+chişinău,16,11,-0.96
+geelong,16,11,-0.96
+schwerin,37,29,-0.98
+siemianowice śląskie,3,1,-1.0
+shenyang,3,1,-1.0
+ruabon,3,1,-1.0
+san juan de ambato,3,1,-1.0
+slagelse,3,1,-1.0
+sorocaba,3,1,-1.0
+sebeş,3,1,-1.0
+rybnik,3,1,-1.0
+st george hanover square,3,1,-1.0
+sardinia,3,1,-1.0
+rothwell,3,1,-1.0
+southwick,3,1,-1.0
+rieti,6,3,-1.0
+russell,3,1,-1.0
+salamis island,3,1,-1.0
+south orange,6,3,-1.0
+st. fagans,3,1,-1.0
+simferopol,6,3,-1.0
+st columb major,3,1,-1.0
+salineville,3,1,-1.0
+schönebeck,3,1,-1.0
+schmallenberg,3,1,-1.0
+schoharie county,3,1,-1.0
+royston,3,1,-1.0
+st. james parish,3,1,-1.0
+scottsboro,3,1,-1.0
+santarcangelo di romagna,3,1,-1.0
+soignies,3,1,-1.0
+satara,3,1,-1.0
+saugerties,3,1,-1.0
+selby,6,3,-1.0
+rosscarbery,3,1,-1.0
+rochelle,3,1,-1.0
+stadtroda,3,1,-1.0
+solapur,3,1,-1.0
+savigliano,3,1,-1.0
+sketty,3,1,-1.0
+sangli,3,1,-1.0
+shillong,3,1,-1.0
+sandy,3,1,-1.0
+saint-hugues,3,1,-1.0
+st. bernard parish,3,1,-1.0
+rügen,3,1,-1.0
+saint-just-en-chaussée,3,1,-1.0
+sheridan,10,6,-1.0
+south bank,3,1,-1.0
+south amboy,3,1,-1.0
+san saba,3,1,-1.0
+santiago de compostela,3,1,-1.0
+sarlat-la-canéda,3,1,-1.0
+uslar,3,1,-1.0
+ivrea,3,1,-1.0
+verrières-le-buisson,3,1,-1.0
+grodzisk mazowiecki,3,1,-1.0
+grodzisk wielkopolski,3,1,-1.0
+gräfenroda,3,1,-1.0
+gräfenthal,3,1,-1.0
+guadeloupe,6,3,-1.0
+guadix,3,1,-1.0
+guanajuato,6,3,-1.0
+gurdaspur,3,1,-1.0
+yarrawonga,3,1,-1.0
+victor,3,1,-1.0
+hamtramck,6,3,-1.0
+hanko,3,1,-1.0
+barberton,6,3,-1.0
+hardinsburg,3,1,-1.0
+harrodsburg,10,6,-1.0
+villa rica,3,1,-1.0
+hart county,3,1,-1.0
+rhuddlan,3,1,-1.0
+hassfurt,3,1,-1.0
+hausjärvi,3,1,-1.0
+havelberg,3,1,-1.0
+baní,3,1,-1.0
+hayfield,3,1,-1.0
+heavitree,3,1,-1.0
+heinsberg,3,1,-1.0
+herceg novi,3,1,-1.0
+banda aceh,3,1,-1.0
+hexham,6,3,-1.0
+higham ferrers,3,1,-1.0
+highclere,3,1,-1.0
+gretna,3,1,-1.0
+greater napanee,3,1,-1.0
+hinton,3,1,-1.0
+gelnhausen,6,3,-1.0
+focşani,3,1,-1.0
+belle vernon,3,1,-1.0
+wairoa,3,1,-1.0
+forlì,15,10,-1.0
+waimate,3,1,-1.0
+wythe county,3,1,-1.0
+wagoner,3,1,-1.0
+friedrichsdorf,3,1,-1.0
+fukuyama,3,1,-1.0
+fulnek,3,1,-1.0
+vágur,3,1,-1.0
+vyazma,3,1,-1.0
+beeville,3,1,-1.0
+gawler,3,1,-1.0
+beaver dam,3,1,-1.0
+grayson,3,1,-1.0
+vladikavkaz,6,3,-1.0
+gilroy,3,1,-1.0
+vittorio veneto,3,1,-1.0
+glen innes,3,1,-1.0
+"glengarry county, ontario",3,1,-1.0
+golden,6,3,-1.0
+gorham,3,1,-1.0
+gorseinon,3,1,-1.0
+bearsden,3,1,-1.0
+viroqua,3,1,-1.0
+xàtiva,3,1,-1.0
+bayeux,3,1,-1.0
+granby,3,1,-1.0
+batley,6,3,-1.0
+vałožyn,3,1,-1.0
+hitchin,6,3,-1.0
+findlay,10,6,-1.0
+kristinehamn,3,1,-1.0
+"kells, county meath",3,1,-1.0
+kennebunk,3,1,-1.0
+uerdingen,3,1,-1.0
+kentwood,3,1,-1.0
+keuruu,3,1,-1.0
+killarney,3,1,-1.0
+kingsburg,3,1,-1.0
+kingsclere,3,1,-1.0
+kirkheaton,3,1,-1.0
+koldinghus,3,1,-1.0
+turlock,3,1,-1.0
+kotka,10,6,-1.0
+kranj,3,1,-1.0
+tunstall,3,1,-1.0
+kroonstad,3,1,-1.0
+kazimain,3,1,-1.0
+kuldīga,3,1,-1.0
+kumamoto prefecture,3,1,-1.0
+kyle,3,1,-1.0
+königstein,3,1,-1.0
+künzelsau,3,1,-1.0
+ashton-in-makerfield,3,1,-1.0
+la rioja,3,1,-1.0
+lajas,3,1,-1.0
+asbury park,6,3,-1.0
+trysil,3,1,-1.0
+arvika,3,1,-1.0
+trumbull county,3,1,-1.0
+lanuvio,3,1,-1.0
+lappeenranta,3,1,-1.0
+keighley,10,6,-1.0
+kautokeino,3,1,-1.0
+holbeck,3,1,-1.0
+jacmel,3,1,-1.0
+baldwin county,3,1,-1.0
+hoosick falls,6,3,-1.0
+varberg,3,1,-1.0
+huntly,3,1,-1.0
+hurstville,3,1,-1.0
+hämeenkyrö,3,1,-1.0
+hüfingen,3,1,-1.0
+ilesa,3,1,-1.0
+vaasa,6,3,-1.0
+badalona,3,1,-1.0
+ingelfingen,3,1,-1.0
+iredell county,6,3,-1.0
+urtijëi,3,1,-1.0
+bowdoinham,3,1,-1.0
+urmston,3,1,-1.0
+kasur,3,1,-1.0
+jaipur,6,3,-1.0
+jakobstad,6,3,-1.0
+bad dürkheim,3,1,-1.0
+jeyhounabad,3,1,-1.0
+juana díaz,3,1,-1.0
+junction,3,1,-1.0
+jérémie,3,1,-1.0
+upper clapton,3,1,-1.0
+kalocsa,3,1,-1.0
+kalutara,3,1,-1.0
+kannur,3,1,-1.0
+union county,6,3,-1.0
+kasauli,3,1,-1.0
+axams,3,1,-1.0
+floresville,3,1,-1.0
+feuchtwangen,3,1,-1.0
+laura,3,1,-1.0
+wetumpka,3,1,-1.0
+whittlesey,3,1,-1.0
+caton,3,1,-1.0
+cazenovia,3,1,-1.0
+celbridge,3,1,-1.0
+chalcis,3,1,-1.0
+chandigarh,3,1,-1.0
+chariton,3,1,-1.0
+charles city,3,1,-1.0
+blaina,3,1,-1.0
+charlottenlund,6,3,-1.0
+chatham-kent,6,3,-1.0
+woodville,6,3,-1.0
+chaumont,3,1,-1.0
+cheb,6,3,-1.0
+chestertown,10,6,-1.0
+cassano d'adda,3,1,-1.0
+chełmża,3,1,-1.0
+westford,3,1,-1.0
+chowan county,3,1,-1.0
+christ church parish,3,1,-1.0
+chur,10,6,-1.0
+chyhyryn,3,1,-1.0
+château de plessis-lez-tours,3,1,-1.0
+città di castello,3,1,-1.0
+clarinda,3,1,-1.0
+biržai,3,1,-1.0
+cleburne,6,3,-1.0
+cloquet,3,1,-1.0
+coahuila,3,1,-1.0
+coalville,6,3,-1.0
+wichita falls,10,6,-1.0
+caserta palace,6,3,-1.0
+west malling,3,1,-1.0
+bruneck,3,1,-1.0
+wiveliscombe,3,1,-1.0
+brakel,3,1,-1.0
+brannenburg,3,1,-1.0
+brazzaville,3,1,-1.0
+botetourt county,3,1,-1.0
+wiscasset,3,1,-1.0
+brienne-le-château,3,1,-1.0
+brindisi,3,1,-1.0
+british ceylon,3,1,-1.0
+wing,3,1,-1.0
+boskovice,3,1,-1.0
+brooklyn heights,3,1,-1.0
+"broughton, greater manchester",3,1,-1.0
+broxbourne,3,1,-1.0
+brühl,3,1,-1.0
+carúpano,3,1,-1.0
+buckfield,3,1,-1.0
+winchendon,3,1,-1.0
+bulwell,6,3,-1.0
+bundaberg,6,3,-1.0
+cadiz,6,3,-1.0
+bolton on dearne,3,1,-1.0
+calhoun,3,1,-1.0
+bolsward,3,1,-1.0
+williams,3,1,-1.0
+bogra,3,1,-1.0
+wood green,3,1,-1.0
+bocholt,3,1,-1.0
+bo'ness,3,1,-1.0
+carlow,3,1,-1.0
+west new york,3,1,-1.0
+west liberty,3,1,-1.0
+festung ehrenbreitstein,3,1,-1.0
+eksjö,3,1,-1.0
+drøbak,3,1,-1.0
+berlaar,3,1,-1.0
+watseka,3,1,-1.0
+earle,3,1,-1.0
+east boston,3,1,-1.0
+east cleveland,3,1,-1.0
+east los angeles,3,1,-1.0
+washington heights,3,1,-1.0
+ecclefechan,3,1,-1.0
+eden,3,1,-1.0
+edessa,3,1,-1.0
+edinburg,3,1,-1.0
+edmundston,3,1,-1.0
+ehingen,3,1,-1.0
+wyalusing,3,1,-1.0
+wałbrzych,3,1,-1.0
+elm city,3,1,-1.0
+elsecar,3,1,-1.0
+enghien-les-bains,3,1,-1.0
+enterprise,3,1,-1.0
+ephrata,3,1,-1.0
+bergen op zoom,3,1,-1.0
+essen-werden,3,1,-1.0
+esslingen am neckar,10,6,-1.0
+eston,3,1,-1.0
+eupatoria,3,1,-1.0
+walnut grove,3,1,-1.0
+fairbury,3,1,-1.0
+famagusta,3,1,-1.0
+belton,6,3,-1.0
+droitwich spa,3,1,-1.0
+weatherford,3,1,-1.0
+birkdale,3,1,-1.0
+crystal city,3,1,-1.0
+columbia city,3,1,-1.0
+bingham,3,1,-1.0
+west bromwich,36,28,-1.0
+conshohocken,3,1,-1.0
+coos bay,3,1,-1.0
+coraopolis,3,1,-1.0
+biella,6,3,-1.0
+cormeilles-en-parisis,3,1,-1.0
+coseley,3,1,-1.0
+coupar angus,3,1,-1.0
+bhavnagar,3,1,-1.0
+crawford county,3,1,-1.0
+creuzburg,3,1,-1.0
+crossville,3,1,-1.0
+cuttack,10,6,-1.0
+dominica,3,1,-1.0
+cynthiana,6,3,-1.0
+darwen,3,1,-1.0
+darłowo,3,1,-1.0
+dawlish,3,1,-1.0
+weissensee,3,1,-1.0
+wunstorf,3,1,-1.0
+delmenhorst,3,1,-1.0
+delta,3,1,-1.0
+denmark hill,3,1,-1.0
+desenzano del garda,3,1,-1.0
+diamantina,3,1,-1.0
+weehawken,3,1,-1.0
+webster parish,3,1,-1.0
+dokkum,3,1,-1.0
+larkhall,3,1,-1.0
+bracebridge,3,1,-1.0
+næstved,3,1,-1.0
+ostrov,3,1,-1.0
+the boldons,3,1,-1.0
+peterboro,3,1,-1.0
+naperville,3,1,-1.0
+łańcut,3,1,-1.0
+medina,15,10,-1.0
+medina del campo,6,3,-1.0
+thame,3,1,-1.0
+perryville,3,1,-1.0
+melitopol,3,1,-1.0
+perry county,3,1,-1.0
+najaf,6,3,-1.0
+merksem,3,1,-1.0
+merrimack,3,1,-1.0
+anderson county,3,1,-1.0
+oakham,3,1,-1.0
+ostroh,3,1,-1.0
+naas,3,1,-1.0
+naarden,6,3,-1.0
+messkirch,3,1,-1.0
+terrell,6,3,-1.0
+mělník,3,1,-1.0
+the dalles,6,3,-1.0
+mdina,3,1,-1.0
+petrolia,3,1,-1.0
+pidhaitsi,3,1,-1.0
+mosonmagyaróvár,3,1,-1.0
+nevele,3,1,-1.0
+strathaven,3,1,-1.0
+neustadt bei coburg,3,1,-1.0
+opatówek,3,1,-1.0
+thomastown,3,1,-1.0
+andria,3,1,-1.0
+tadcaster,3,1,-1.0
+matera,3,1,-1.0
+matlock bath,3,1,-1.0
+mcsherrystown,3,1,-1.0
+mattawa,3,1,-1.0
+oregon,3,1,-1.0
+phoenixville,6,3,-1.0
+phelps,3,1,-1.0
+pezinok,3,1,-1.0
+neuenkirchen,3,1,-1.0
+maynooth,3,1,-1.0
+algeciras,3,1,-1.0
+petworth house,3,1,-1.0
+metropolis,6,3,-1.0
+český těšín,3,1,-1.0
+new hampton,3,1,-1.0
+mürzzuschlag,3,1,-1.0
+pago pago,3,1,-1.0
+montemor-o-velho,3,1,-1.0
+montevallo,3,1,-1.0
+montluçon,3,1,-1.0
+otterbourne,3,1,-1.0
+montoursville,3,1,-1.0
+albi,6,3,-1.0
+mostar,10,6,-1.0
+moonta,3,1,-1.0
+mooresville,3,1,-1.0
+paarl,3,1,-1.0
+almonte,3,1,-1.0
+moray,3,1,-1.0
+mostaganem,3,1,-1.0
+owego,3,1,-1.0
+most,3,1,-1.0
+oullins,3,1,-1.0
+morden,3,1,-1.0
+morgan city,3,1,-1.0
+tarsus,3,1,-1.0
+morrilton,3,1,-1.0
+"montagu house, whitehall",3,1,-1.0
+palacio real de aranjuez,3,1,-1.0
+mudgee,3,1,-1.0
+zörbig,3,1,-1.0
+peacham,3,1,-1.0
+middleborough,3,1,-1.0
+muğla,3,1,-1.0
+middleton,6,3,-1.0
+le mars,3,1,-1.0
+millsboro,3,1,-1.0
+"ancaster, ontario",3,1,-1.0
+mineral point,3,1,-1.0
+styrum,3,1,-1.0
+ávila,6,3,-1.0
+mongolia,3,1,-1.0
+patiala,3,1,-1.0
+otterberg,3,1,-1.0
+albert park,3,1,-1.0
+pasłęk,3,1,-1.0
+ambert,3,1,-1.0
+murcia,6,3,-1.0
+palai,3,1,-1.0
+tecuci,3,1,-1.0
+monastir,3,1,-1.0
+pill,3,1,-1.0
+nevis,3,1,-1.0
+new lebanon,3,1,-1.0
+pulaski,6,3,-1.0
+staveley,3,1,-1.0
+north tonawanda,3,1,-1.0
+"north sydney, nova scotia",3,1,-1.0
+antigua,6,3,-1.0
+"annandale, new south wales",3,1,-1.0
+oconomowoc,3,1,-1.0
+steglitz,6,3,-1.0
+lolland,3,1,-1.0
+long ashton,3,1,-1.0
+oglesby,3,1,-1.0
+luckau,3,1,-1.0
+puerto de la cruz,3,1,-1.0
+probus,3,1,-1.0
+longmont,3,1,-1.0
+longsight,3,1,-1.0
+"lotbinière, quebec",3,1,-1.0
+princess anne,3,1,-1.0
+pine grove,3,1,-1.0
+nizhyn,3,1,-1.0
+louisburg,3,1,-1.0
+acworth,3,1,-1.0
+ratnagiri,3,1,-1.0
+swinton,3,1,-1.0
+lindsay,6,3,-1.0
+swanton,3,1,-1.0
+rhos-on-sea,3,1,-1.0
+legnano,3,1,-1.0
+rheine,6,3,-1.0
+rethel,3,1,-1.0
+oatlands,3,1,-1.0
+argostoli,3,1,-1.0
+lengenfeld,3,1,-1.0
+obrenovac,3,1,-1.0
+lerwick,3,1,-1.0
+zhongshan,3,1,-1.0
+stapenhill,3,1,-1.0
+leskovac,3,1,-1.0
+lesmahagow,3,1,-1.0
+tredegar,3,1,-1.0
+redruth,3,1,-1.0
+šiauliai,3,1,-1.0
+liaoyang,3,1,-1.0
+araraquara,3,1,-1.0
+tonawanda,3,1,-1.0
+sylhet,3,1,-1.0
+szamotuły,3,1,-1.0
+stoneham,3,1,-1.0
+susquehanna depot,3,1,-1.0
+maine,15,10,-1.0
+mainz-kastel,3,1,-1.0
+stonewall,3,1,-1.0
+mangalore,6,3,-1.0
+"manor park, london",3,1,-1.0
+newton abbot,6,3,-1.0
+oldbury,3,1,-1.0
+pointe-noire,3,1,-1.0
+stony point,3,1,-1.0
+podgorica,3,1,-1.0
+mansfield woodhouse,3,1,-1.0
+mardin,6,3,-1.0
+"newport, isle of wight",6,3,-1.0
+mariana,3,1,-1.0
+marianna,10,6,-1.0
+stornoway,3,1,-1.0
+plaquemine,3,1,-1.0
+piła,3,1,-1.0
+pinneberg,3,1,-1.0
+olite,3,1,-1.0
+stonehaven,3,1,-1.0
+maghera,3,1,-1.0
+ottweiler,3,1,-1.0
+lyndhurst,3,1,-1.0
+szczecinek,3,1,-1.0
+luleå,3,1,-1.0
+nicolet,3,1,-1.0
+szekszárd,3,1,-1.0
+luzerne county,3,1,-1.0
+östersund,3,1,-1.0
+port fairy,3,1,-1.0
+lydney,3,1,-1.0
+lyman,3,1,-1.0
+tokat,3,1,-1.0
+titusville,10,6,-1.0
+port antonio,3,1,-1.0
+porbandar,3,1,-1.0
+adel,3,1,-1.0
+pontiac,10,6,-1.0
+kiel,104,90,-1.01
+sioux city,20,14,-1.03
+paderborn,14,9,-1.04
+trois-rivières,14,9,-1.04
+stillwater,14,9,-1.04
+fort wayne,33,25,-1.05
+cluj-napoca,19,13,-1.06
+elsinore,9,5,-1.07
+mérida,9,5,-1.07
+schleswig,9,5,-1.07
+northern ireland,9,5,-1.07
+edirne,9,5,-1.07
+fort monroe,9,5,-1.07
+perm,9,5,-1.07
+batavia,9,5,-1.07
+high point,9,5,-1.07
+chittagong,9,5,-1.07
+hradec králové,9,5,-1.07
+hudson,25,18,-1.07
+valladolid,25,18,-1.07
+mitcham,9,5,-1.07
+centerville,9,5,-1.07
+kandy,9,5,-1.07
+kaposvár,9,5,-1.07
+cooperstown,9,5,-1.07
+ravensburg,9,5,-1.07
+brentford,9,5,-1.07
+hangzhou,9,5,-1.07
+saint john,24,17,-1.09
+penzance,13,8,-1.09
+huntingdon,13,8,-1.09
+porto alegre,13,8,-1.09
+huddersfield,31,23,-1.09
+ghana,13,8,-1.09
+clarksburg,13,8,-1.09
+barrow-in-furness,13,8,-1.09
+newtown,18,12,-1.1
+modena,46,36,-1.1
+newbury,18,12,-1.1
+england,337,309,-1.1
+marshall,18,12,-1.1
+muskogee,18,12,-1.1
+anderson,18,12,-1.1
+savannah,76,63,-1.1
+ravenna,18,12,-1.1
+toledo,98,83,-1.11
+covington,30,22,-1.11
+belleville,30,22,-1.11
+schenectady,30,22,-1.11
+alton,23,16,-1.12
+quincy,45,35,-1.12
+sighişoara,5,2,-1.13
+delft,29,21,-1.13
+shirebrook,5,2,-1.13
+williamson county,5,2,-1.13
+cameron,5,2,-1.13
+broughty ferry,5,2,-1.13
+reichenbach,5,2,-1.13
+"devonport, devon",5,2,-1.13
+devizes,5,2,-1.13
+potchefstroom,5,2,-1.13
+bukhara,5,2,-1.13
+derry,5,2,-1.13
+quetzaltenango,5,2,-1.13
+sint-niklaas,5,2,-1.13
+compton,5,2,-1.13
+dekalb county,5,2,-1.13
+rockingham,5,2,-1.13
+westcliff-on-sea,5,2,-1.13
+châtellerault,5,2,-1.13
+christian county,5,2,-1.13
+clearfield,5,2,-1.13
+st. mary's county,5,2,-1.13
+curaçao,5,2,-1.13
+clinton county,5,2,-1.13
+south norwalk,5,2,-1.13
+shepherdstown,5,2,-1.13
+poltava oblast,5,2,-1.13
+clyde,5,2,-1.13
+coshocton,5,2,-1.13
+coesfeld,5,2,-1.13
+blandford forum,5,2,-1.13
+davidson county,5,2,-1.13
+oleśnica,5,2,-1.13
+woodbury,17,11,-1.13
+catalonia,5,2,-1.13
+southington,5,2,-1.13
+hartland,5,2,-1.13
+donaldsonville,5,2,-1.13
+gross-umstadt,5,2,-1.13
+höxter,5,2,-1.13
+maribor,5,2,-1.13
+three rivers,5,2,-1.13
+bakewell,5,2,-1.13
+howard county,5,2,-1.13
+sandgate,5,2,-1.13
+maury county,5,2,-1.13
+thionville,5,2,-1.13
+veendam,5,2,-1.13
+mayfield,5,2,-1.13
+donauwörth,5,2,-1.13
+hersbruck,5,2,-1.13
+heide,5,2,-1.13
+thames ditton,5,2,-1.13
+headingley,5,2,-1.13
+havant,5,2,-1.13
+tewkesbury,5,2,-1.13
+mersin,5,2,-1.13
+hardin county,5,2,-1.13
+harbin,5,2,-1.13
+hamar,5,2,-1.13
+halmstad,5,2,-1.13
+st. clair,5,2,-1.13
+baden,5,2,-1.13
+san miguel,5,2,-1.13
+inverell,5,2,-1.13
+lufkin,5,2,-1.13
+zamboanga city,5,2,-1.13
+zamość,5,2,-1.13
+zaandam,5,2,-1.13
+attica,5,2,-1.13
+tönning,5,2,-1.13
+třebíč,5,2,-1.13
+salzwedel,5,2,-1.13
+ararat,5,2,-1.13
+loughborough,5,2,-1.13
+kauai,5,2,-1.13
+luray,5,2,-1.13
+iquique,5,2,-1.13
+kutná hora,5,2,-1.13
+kamloops,5,2,-1.13
+saint vincent,5,2,-1.13
+upper norwood,5,2,-1.13
+jindřichův hradec,5,2,-1.13
+jhansi,5,2,-1.13
+la grande,5,2,-1.13
+anglesey,5,2,-1.13
+san luis,5,2,-1.13
+lachine,5,2,-1.13
+guayama,5,2,-1.13
+harford county,5,2,-1.13
+gladstone,5,2,-1.13
+visby,5,2,-1.13
+neustadt am rübenberge,5,2,-1.13
+alloa,5,2,-1.13
+bellefontaine,5,2,-1.13
+fort sill,5,2,-1.13
+new kensington,5,2,-1.13
+taranto,5,2,-1.13
+enkhuizen,5,2,-1.13
+öhringen,5,2,-1.13
+sivas,5,2,-1.13
+rotorua,5,2,-1.13
+saverne,5,2,-1.13
+navan,5,2,-1.13
+eisenberg,5,2,-1.13
+gonzales,5,2,-1.13
+faizabad,5,2,-1.13
+rostov-on-don,17,11,-1.13
+szolnok,5,2,-1.13
+taylorsville,5,2,-1.13
+edgefield,5,2,-1.13
+gray,5,2,-1.13
+dyersburg,5,2,-1.13
+sassari,5,2,-1.13
+normal,5,2,-1.13
+bratislava,52,41,-1.14
+zeitz,8,4,-1.15
+shropshire,8,4,-1.15
+cölln,8,4,-1.15
+campinas,8,4,-1.15
+litchfield,22,15,-1.15
+brookville,8,4,-1.15
+armidale,8,4,-1.15
+darjeeling,8,4,-1.15
+longford,8,4,-1.15
+oneonta,8,4,-1.15
+carmarthen,8,4,-1.15
+north adams,8,4,-1.15
+denton,12,7,-1.15
+lévis,8,4,-1.15
+jyväskylä,8,4,-1.15
+schwäbisch hall,8,4,-1.15
+"barry, wales",8,4,-1.15
+saginaw,22,15,-1.15
+linköping,8,4,-1.15
+colmar,12,7,-1.15
+virginia city,8,4,-1.15
+middelburg,12,7,-1.15
+mercer county,8,4,-1.15
+lanarkshire,8,4,-1.15
+germersheim,8,4,-1.15
+st. cloud,12,7,-1.15
+corsicana,8,4,-1.15
+cherbourg-octeville,8,4,-1.15
+reutlingen,8,4,-1.15
+pamplona,12,7,-1.15
+aguascalientes,8,4,-1.15
+wagga wagga,8,4,-1.15
+pavlovsk,8,4,-1.15
+husum,8,4,-1.15
+stourbridge,12,7,-1.15
+saint-étienne,12,7,-1.15
+fenton,8,4,-1.15
+west newton,8,4,-1.15
+nuremberg,128,110,-1.17
+freeport,16,10,-1.18
+greensburg,16,10,-1.18
+windsor,57,45,-1.19
+lincoln,75,61,-1.2
+kendal,11,6,-1.21
+berwick,11,6,-1.21
+deventer,11,6,-1.21
+gloucester,47,36,-1.21
+kirkcaldy,11,6,-1.21
+catskill,11,6,-1.21
+idaho,11,6,-1.21
+offenbach,15,9,-1.22
+pembroke,15,9,-1.22
+guilford,15,9,-1.22
+hildburghausen,15,9,-1.22
+holland,15,9,-1.22
+toruń,15,9,-1.22
+valletta,20,13,-1.22
+lawrence,38,28,-1.23
+coburg,38,28,-1.23
+turin,200,176,-1.24
+providence,140,120,-1.24
+norway,37,27,-1.25
+boone county,7,3,-1.26
+augusta county,7,3,-1.26
+ada,7,3,-1.26
+angus,7,3,-1.26
+snow hill,7,3,-1.26
+bastrop,7,3,-1.26
+biberach an der riss,7,3,-1.26
+belfort,7,3,-1.26
+arkansas city,7,3,-1.26
+belvidere,7,3,-1.26
+bamberg,24,16,-1.26
+rice lake,7,3,-1.26
+hibbing,7,3,-1.26
+shepherd's bush,7,3,-1.26
+finchley,7,3,-1.26
+fes,7,3,-1.26
+kinderhook,7,3,-1.26
+eskilstuna,7,3,-1.26
+elyria,7,3,-1.26
+kinston,7,3,-1.26
+krasnoyarsk,7,3,-1.26
+la porte,7,3,-1.26
+wels,7,3,-1.26
+trnava,7,3,-1.26
+wertheim am main,7,3,-1.26
+lesbos island,7,3,-1.26
+little falls,7,3,-1.26
+colebrook,7,3,-1.26
+madisonville,7,3,-1.26
+newmarket,7,3,-1.26
+portage,7,3,-1.26
+cagliari,7,3,-1.26
+willesden,7,3,-1.26
+styria,7,3,-1.26
+wilkes county,7,3,-1.26
+nagoya,7,3,-1.26
+rugby,7,3,-1.26
+malacca,7,3,-1.26
+vinnytsia,7,3,-1.26
+coventry,36,26,-1.27
+gotha,59,46,-1.27
+peshawar,14,8,-1.28
+piedmont,14,8,-1.28
+agra,14,8,-1.28
+leytonstone,14,8,-1.28
+herford,14,8,-1.28
+breda,14,8,-1.28
+galesburg,10,5,-1.29
+hanover county,10,5,-1.29
+shuri,10,5,-1.29
+carcassonne,10,5,-1.29
+somerset,10,5,-1.29
+paddington,42,31,-1.29
+charles town,10,5,-1.29
+concepción,10,5,-1.29
+langenburg,10,5,-1.29
+evesham,10,5,-1.29
+iceland,10,5,-1.29
+brookfield,10,5,-1.29
+saint-mandé,10,5,-1.29
+aldershot,18,11,-1.3
+merseburg,18,11,-1.3
+holyoke,23,15,-1.3
+lake charles,18,11,-1.3
+minden,28,19,-1.31
+decatur,28,19,-1.31
+jamestown,28,19,-1.31
+bedford,41,30,-1.31
+georgetown,56,43,-1.31
+camden,55,42,-1.32
+hagen,22,14,-1.33
+st. gallen,22,14,-1.33
+temuco,4,1,-1.34
+telavi,4,1,-1.34
+thisted,4,1,-1.34
+tekirdağ,4,1,-1.34
+tecumseh,4,1,-1.34
+south melbourne,4,1,-1.34
+whitehaven,4,1,-1.34
+springe,4,1,-1.34
+surry county,4,1,-1.34
+sumner county,4,1,-1.34
+woodstock,33,23,-1.34
+xalapa,4,1,-1.34
+st. peter,4,1,-1.34
+węgorzewo,4,1,-1.34
+willenhall,4,1,-1.34
+wolstanton,4,1,-1.34
+"stoke, plymouth",4,1,-1.34
+vouziers,4,1,-1.34
+stassfurt,4,1,-1.34
+starkville,4,1,-1.34
+tidworth,4,1,-1.34
+zion,4,1,-1.34
+woodstown,4,1,-1.34
+ziębice,4,1,-1.34
+viggiù,4,1,-1.34
+vinita,4,1,-1.34
+vergennes,4,1,-1.34
+wakayama,4,1,-1.34
+vinkovci,4,1,-1.34
+valmiera,4,1,-1.34
+waitsfield,4,1,-1.34
+užice,4,1,-1.34
+union,13,7,-1.34
+uganda,4,1,-1.34
+virolahti,4,1,-1.34
+wareham,4,1,-1.34
+tuscumbia,4,1,-1.34
+soweto,4,1,-1.34
+waiblingen,4,1,-1.34
+wentworth,4,1,-1.34
+trinity,4,1,-1.34
+vukovar,4,1,-1.34
+trinidad and tobago,4,1,-1.34
+wessobrunn,4,1,-1.34
+xiamen,4,1,-1.34
+toxteth,4,1,-1.34
+tortosa,4,1,-1.34
+west union,4,1,-1.34
+viljandi,4,1,-1.34
+"somers town, london",4,1,-1.34
+židlochovice,4,1,-1.34
+somercotes,4,1,-1.34
+euskirchen,4,1,-1.34
+fürstenwalde,4,1,-1.34
+pontotoc,4,1,-1.34
+fredonia,4,1,-1.34
+fredericia,4,1,-1.34
+port hope,4,1,-1.34
+portage county,4,1,-1.34
+eu,4,1,-1.34
+pointe-à-pitre,4,1,-1.34
+prospect,4,1,-1.34
+mytilene,4,1,-1.34
+erzincan,4,1,-1.34
+ennis,4,1,-1.34
+prudnik,4,1,-1.34
+elimäki,4,1,-1.34
+gardiner,4,1,-1.34
+giles county,4,1,-1.34
+el centro,4,1,-1.34
+hampton falls,4,1,-1.34
+hlukhiv,4,1,-1.34
+hindmarsh,4,1,-1.34
+penryn,4,1,-1.34
+hesse,4,1,-1.34
+pergamino,4,1,-1.34
+haw river,4,1,-1.34
+hainan,4,1,-1.34
+girard,4,1,-1.34
+hackney central,4,1,-1.34
+groveland,4,1,-1.34
+greene,4,1,-1.34
+grant county,4,1,-1.34
+"plaistow, newham",4,1,-1.34
+goshen,13,7,-1.34
+elbert county,4,1,-1.34
+eisfeld,4,1,-1.34
+carpentras,4,1,-1.34
+roosevelt,4,1,-1.34
+consett,4,1,-1.34
+conneaut,4,1,-1.34
+commercy,4,1,-1.34
+cognac,4,1,-1.34
+codnor,4,1,-1.34
+roosendaal,4,1,-1.34
+cochabamba,13,7,-1.34
+cordele,4,1,-1.34
+clonakilty,4,1,-1.34
+cleethorpes,4,1,-1.34
+clay center,4,1,-1.34
+clarendon county,4,1,-1.34
+choszczno,4,1,-1.34
+cheraw,4,1,-1.34
+cooma,4,1,-1.34
+county carlow,4,1,-1.34
+quanah,4,1,-1.34
+dorsten,4,1,-1.34
+eastry,4,1,-1.34
+dunstable,4,1,-1.34
+duanesburg,4,1,-1.34
+drummondville,4,1,-1.34
+radomsko,4,1,-1.34
+rasht,4,1,-1.34
+dorchester county,4,1,-1.34
+riva del garda,4,1,-1.34
+ray,4,1,-1.34
+dillon,4,1,-1.34
+den helder,4,1,-1.34
+dauphin,4,1,-1.34
+cupar,4,1,-1.34
+crookston,4,1,-1.34
+howrah,4,1,-1.34
+hunslet,4,1,-1.34
+hurlford,4,1,-1.34
+marienberg,4,1,-1.34
+measham,4,1,-1.34
+newton-le-willows,4,1,-1.34
+nicholas county,4,1,-1.34
+marlborough house,4,1,-1.34
+markham,4,1,-1.34
+marinette,4,1,-1.34
+mahabad,4,1,-1.34
+menominee,4,1,-1.34
+maastricht,13,7,-1.34
+lunenburg county,4,1,-1.34
+lubliniec,4,1,-1.34
+lower austria,4,1,-1.34
+northwich,4,1,-1.34
+lossiemouth,4,1,-1.34
+medan,4,1,-1.34
+meppen,4,1,-1.34
+paraguarí,4,1,-1.34
+neukölln,4,1,-1.34
+moyamba,4,1,-1.34
+moscopole,4,1,-1.34
+montepulciano,4,1,-1.34
+neosho,4,1,-1.34
+monessen,4,1,-1.34
+molfetta,4,1,-1.34
+miyagi prefecture,4,1,-1.34
+mettmann,4,1,-1.34
+mito,4,1,-1.34
+neunkirchen,4,1,-1.34
+minersville,4,1,-1.34
+mikkeli,4,1,-1.34
+mexborough,4,1,-1.34
+meuselwitz,4,1,-1.34
+london borough of lewisham,4,1,-1.34
+lochgelly,4,1,-1.34
+novozybkov,4,1,-1.34
+oudtshoorn,4,1,-1.34
+kiev oblast,4,1,-1.34
+kielce,4,1,-1.34
+orwell,4,1,-1.34
+kenora,4,1,-1.34
+kecskemét,4,1,-1.34
+kavala,4,1,-1.34
+kaiapoi,4,1,-1.34
+nykøbing falster,4,1,-1.34
+johnstone,4,1,-1.34
+palakkad,4,1,-1.34
+jamesville,4,1,-1.34
+palestrina,4,1,-1.34
+ingersoll,4,1,-1.34
+imperia,4,1,-1.34
+killeen,4,1,-1.34
+kingdom of prussia,4,1,-1.34
+kos,4,1,-1.34
+kota bharu,4,1,-1.34
+kufa,4,1,-1.34
+kyneton,4,1,-1.34
+la fayette,4,1,-1.34
+lanark,4,1,-1.34
+oil city,4,1,-1.34
+larvik,4,1,-1.34
+le roy,4,1,-1.34
+lewis county,4,1,-1.34
+libourne,4,1,-1.34
+lichtenfels,4,1,-1.34
+oakengates,4,1,-1.34
+oak hill,4,1,-1.34
+linton,4,1,-1.34
+chaville,4,1,-1.34
+etawah,4,1,-1.34
+muro lucano,4,1,-1.34
+saluzzo,4,1,-1.34
+avranches,4,1,-1.34
+boppard,4,1,-1.34
+sankt wendel,4,1,-1.34
+bossier parish,4,1,-1.34
+avoca,4,1,-1.34
+auckland,4,1,-1.34
+san cristóbal,4,1,-1.34
+schwarzenberg,4,1,-1.34
+atherstone,4,1,-1.34
+ashington,4,1,-1.34
+shaki,4,1,-1.34
+ashbourne,4,1,-1.34
+salta,4,1,-1.34
+ascoli piceno,4,1,-1.34
+armley,4,1,-1.34
+armenia,4,1,-1.34
+brewster,4,1,-1.34
+annan,4,1,-1.34
+annaberg-buchholz,4,1,-1.34
+anna,4,1,-1.34
+"balham, london",4,1,-1.34
+shaftesbury,4,1,-1.34
+anagni,4,1,-1.34
+blandford,4,1,-1.34
+berhampur,4,1,-1.34
+schwabach,4,1,-1.34
+schweinfurt,13,7,-1.34
+bellville,4,1,-1.34
+bicester,4,1,-1.34
+biggleswade,4,1,-1.34
+scottsville,4,1,-1.34
+bel air,4,1,-1.34
+sealy,4,1,-1.34
+blenheim,4,1,-1.34
+balingen,4,1,-1.34
+seesen,4,1,-1.34
+satu mare,4,1,-1.34
+sendai,4,1,-1.34
+sarzana,4,1,-1.34
+bodenwerder,4,1,-1.34
+bolesławiec,4,1,-1.34
+bangladesh,4,1,-1.34
+ballston spa,4,1,-1.34
+sapporo,4,1,-1.34
+ancona,13,7,-1.34
+bracknell,4,1,-1.34
+anaconda,4,1,-1.34
+siena,46,34,-1.34
+saint michael parish,4,1,-1.34
+amenia,4,1,-1.34
+simsbury,4,1,-1.34
+aliquippa,4,1,-1.34
+burtscheid,4,1,-1.34
+calamba city,4,1,-1.34
+alamance county,4,1,-1.34
+aiud,4,1,-1.34
+cambridge city,4,1,-1.34
+campbelltown,4,1,-1.34
+campeche,4,1,-1.34
+cappadocia,4,1,-1.34
+afton,4,1,-1.34
+carmarthenshire,4,1,-1.34
+snohomish,4,1,-1.34
+bruck an der mur,4,1,-1.34
+cajamarca,4,1,-1.34
+saint-jérôme,4,1,-1.34
+saint-affrique,4,1,-1.34
+brockton,17,10,-1.35
+fitchburg,17,10,-1.35
+parma,38,27,-1.36
+bergamo,32,22,-1.36
+tours,21,13,-1.37
+gelsenkirchen,26,17,-1.37
+graz,95,77,-1.37
+montpellier,51,38,-1.38
+neuss,9,4,-1.39
+port elizabeth,9,4,-1.39
+saugus,9,4,-1.39
+marrickville,9,4,-1.39
+sidney,9,4,-1.39
+monroe,37,26,-1.39
+jaffa,9,4,-1.39
+sucre,9,4,-1.39
+bellaire,9,4,-1.39
+reggio calabria,9,4,-1.39
+berkhamsted,9,4,-1.39
+hebron,9,4,-1.39
+saarlouis,9,4,-1.39
+hawick,9,4,-1.39
+quetta,9,4,-1.39
+rockland,9,4,-1.39
+bourbon county,9,4,-1.39
+marysville,9,4,-1.39
+wolgast,9,4,-1.39
+amesbury,9,4,-1.39
+estonia,9,4,-1.39
+oberlin,9,4,-1.39
+barbados,16,9,-1.4
+pueblo,16,9,-1.4
+clayton,16,9,-1.4
+abbeville,16,9,-1.4
+madurai,6,2,-1.41
+belchertown,6,2,-1.41
+narbonne,6,2,-1.41
+avellaneda,6,2,-1.41
+włocławek,6,2,-1.41
+magnolia,6,2,-1.41
+old town,6,2,-1.41
+"norden, lower saxony",6,2,-1.41
+parral,6,2,-1.41
+simmern,6,2,-1.41
+hucknall,6,2,-1.41
+hofburg imperial palace,6,2,-1.41
+zamora,12,6,-1.41
+cavendish,6,2,-1.41
+vendôme,6,2,-1.41
+tottenham,12,6,-1.41
+venlo,6,2,-1.41
+maida vale,6,2,-1.41
+mccomb,6,2,-1.41
+swaythling,6,2,-1.41
+beaver falls,6,2,-1.41
+trowbridge,6,2,-1.41
+kiama,6,2,-1.41
+miami,6,2,-1.41
+kristiansand,6,2,-1.41
+krems,6,2,-1.41
+teplice,12,6,-1.41
+mexia,6,2,-1.41
+amiens,20,12,-1.41
+marquette,6,2,-1.41
+martins ferry,6,2,-1.41
+lapeer,6,2,-1.41
+sirmium,6,2,-1.41
+yeadon,6,2,-1.41
+arkhangelsk,6,2,-1.41
+lock haven,6,2,-1.41
+sisak,6,2,-1.41
+nymphenburg palace,6,2,-1.41
+kennington,6,2,-1.41
+alfreton,6,2,-1.41
+ossett,6,2,-1.41
+kashmir,6,2,-1.41
+sullivan county,6,2,-1.41
+owen sound,6,2,-1.41
+martinique,6,2,-1.41
+java,6,2,-1.41
+la rochelle,12,6,-1.41
+barre,6,2,-1.41
+castres,6,2,-1.41
+havlíčkův brod,6,2,-1.41
+blyth,6,2,-1.41
+dubois,6,2,-1.41
+děčín,6,2,-1.41
+elkhart,6,2,-1.41
+elmshorn,6,2,-1.41
+wanstead,6,2,-1.41
+springville,6,2,-1.41
+boonville,6,2,-1.41
+fairfax county,12,6,-1.41
+fano,6,2,-1.41
+farnworth,6,2,-1.41
+powhatan county,6,2,-1.41
+flemingsburg,6,2,-1.41
+"forest hill, london",6,2,-1.41
+forres,6,2,-1.41
+stockwell,6,2,-1.41
+fort scott,6,2,-1.41
+friedberg,6,2,-1.41
+dreux,6,2,-1.41
+rain,6,2,-1.41
+brierley hill,6,2,-1.41
+commerce,6,2,-1.41
+cegléd,6,2,-1.41
+charleville-mézières,6,2,-1.41
+charlton,6,2,-1.41
+chengdu,6,2,-1.41
+château de fontainebleau,6,2,-1.41
+st. johns,6,2,-1.41
+clay cross,6,2,-1.41
+burke county,6,2,-1.41
+st helens,12,6,-1.41
+cornwall,12,6,-1.41
+crema,6,2,-1.41
+crosby,6,2,-1.41
+cuero,6,2,-1.41
+brixen,6,2,-1.41
+weferlingen,6,2,-1.41
+recife,12,6,-1.41
+frosinone,6,2,-1.41
+brandon,20,12,-1.41
+västergötland,6,2,-1.41
+vologda,6,2,-1.41
+güstrow,12,6,-1.41
+pine bluff,12,6,-1.41
+piqua,6,2,-1.41
+poitiers,12,6,-1.41
+polk county,6,2,-1.41
+goulburn,6,2,-1.41
+milford,35,24,-1.43
+bergen,48,35,-1.43
+giessen,41,29,-1.43
+wesel,15,8,-1.46
+bromley,19,11,-1.46
+sibiu,15,8,-1.46
+lynchburg,34,23,-1.46
+oswego,15,8,-1.46
+douglas,19,11,-1.46
+örebro,15,8,-1.46
+alessandria,15,8,-1.46
+yonkers,34,23,-1.46
+amherst,34,23,-1.46
+toulouse,45,32,-1.48
+niagara falls,23,14,-1.48
+gothenburg,66,50,-1.49
+košice,11,5,-1.5
+angoulême,11,5,-1.5
+saalfeld,11,5,-1.5
+cobourg,11,5,-1.5
+namur,11,5,-1.5
+hammond,11,5,-1.5
+rochefort,11,5,-1.5
+new castle county,11,5,-1.5
+moulins,11,5,-1.5
+sparta,11,5,-1.5
+oshkosh,11,5,-1.5
+belém,11,5,-1.5
+hutchinson,11,5,-1.5
+sedan,11,5,-1.5
+montauban,11,5,-1.5
+hilo,11,5,-1.5
+north berwick,8,3,-1.51
+lucca,27,17,-1.51
+tomsk,8,3,-1.51
+tiffin,8,3,-1.51
+coffeyville,8,3,-1.51
+union city,8,3,-1.51
+st ives,8,3,-1.51
+deerfield,8,3,-1.51
+curitiba,8,3,-1.51
+unna,8,3,-1.51
+rockford,27,17,-1.51
+verviers,8,3,-1.51
+brescia,32,21,-1.51
+shamokin,8,3,-1.51
+bourg-en-bresse,8,3,-1.51
+bray,8,3,-1.51
+freiberg,8,3,-1.51
+bethany,8,3,-1.51
+jarrow,8,3,-1.51
+york county,8,3,-1.51
+st. joseph,8,3,-1.51
+elizabeth city,8,3,-1.51
+london borough of hackney,18,10,-1.51
+morlaix,8,3,-1.51
+nevers,8,3,-1.51
+salina,8,3,-1.51
+wismar,8,3,-1.51
+düren,8,3,-1.51
+ploieşti,8,3,-1.51
+sonora,8,3,-1.51
+blackburn,27,17,-1.51
+arnsberg,8,3,-1.51
+burton upon trent,22,13,-1.52
+harrisburg,43,30,-1.52
+haarlem,79,61,-1.52
+kenosha,14,7,-1.53
+massillon,14,7,-1.53
+"st pancras, london",14,7,-1.53
+st. james's palace,14,7,-1.53
+ludwigshafen am rhein,14,7,-1.53
+león,14,7,-1.53
+hoboken,31,20,-1.54
+oldenburg,48,34,-1.55
+springfield,166,139,-1.55
+middletown,48,34,-1.55
+messina,21,12,-1.57
+camberwell,21,12,-1.57
+fort smith,17,9,-1.57
+council bluffs,17,9,-1.57
+auburn,47,33,-1.57
+gateshead,17,9,-1.57
+vitebsk,17,9,-1.57
+remscheid,17,9,-1.57
+stirling,17,9,-1.57
+joliet,17,9,-1.57
+bavaria,25,15,-1.58
+kent,59,43,-1.58
+worcester,107,85,-1.59
+tucumán,10,4,-1.6
+gliwice,10,4,-1.6
+gävle,10,4,-1.6
+köthen,10,4,-1.6
+skien,10,4,-1.6
+kaiserslautern,10,4,-1.6
+kongsberg,10,4,-1.6
+beauvais,10,4,-1.6
+prato,10,4,-1.6
+leszno,10,4,-1.6
+braşov,10,4,-1.6
+gosport,10,4,-1.6
+nevada,10,4,-1.6
+shusha,10,4,-1.6
+kanpur,10,4,-1.6
+rocky mount,10,4,-1.6
+greencastle,10,4,-1.6
+bucks county,10,4,-1.6
+bethel,10,4,-1.6
+brimington,10,4,-1.6
+leicestershire,13,6,-1.61
+warrenton,13,6,-1.61
+ashford,13,6,-1.61
+great yarmouth,13,6,-1.61
+detroit,312,273,-1.61
+muncie,13,6,-1.61
+'s-hertogenbosch,13,6,-1.61
+ostrava,13,6,-1.61
+rousse,13,6,-1.61
+inverness,20,11,-1.62
+pforzheim,20,11,-1.62
+wigan,24,14,-1.62
+oak park,24,14,-1.62
+ludwigsburg,24,14,-1.62
+yokohama,24,14,-1.62
+altoona,24,14,-1.62
+geldern,5,1,-1.63
+pazardzhik,5,1,-1.63
+zielona góra,5,1,-1.63
+dumfriesshire,5,1,-1.63
+quimper,5,1,-1.63
+celina,5,1,-1.63
+rudkøbing,5,1,-1.63
+east chicago,5,1,-1.63
+shoreham-by-sea,5,1,-1.63
+shwebo,5,1,-1.63
+east lothian,5,1,-1.63
+anatolia,5,1,-1.63
+horten,5,1,-1.63
+quitman,5,1,-1.63
+shaoxing,5,1,-1.63
+white haven,5,1,-1.63
+dudley,16,8,-1.63
+ghazni,5,1,-1.63
+memmingen,5,1,-1.63
+sopot,5,1,-1.63
+meerane,5,1,-1.63
+bila tserkva,5,1,-1.63
+thanjavur,5,1,-1.63
+mecklenburg county,5,1,-1.63
+donegal,5,1,-1.63
+rawicz,5,1,-1.63
+hubei,5,1,-1.63
+gloversville,5,1,-1.63
+berchem,5,1,-1.63
+girona,5,1,-1.63
+chania,5,1,-1.63
+dracut,5,1,-1.63
+chambly,5,1,-1.63
+trenton,63,46,-1.63
+samos island,5,1,-1.63
+sampson county,5,1,-1.63
+maldon,5,1,-1.63
+castleford,5,1,-1.63
+noblesville,5,1,-1.63
+kirkintilloch,5,1,-1.63
+preston,5,1,-1.63
+schlüchtern,5,1,-1.63
+swoyersville,5,1,-1.63
+faribault,5,1,-1.63
+ludwigslust,16,8,-1.63
+cardston,5,1,-1.63
+sherman,16,8,-1.63
+luckenwalde,5,1,-1.63
+kingsville,5,1,-1.63
+stryi,5,1,-1.63
+willington,5,1,-1.63
+cap-haïtien,5,1,-1.63
+velsen,5,1,-1.63
+louny,5,1,-1.63
+orillia,5,1,-1.63
+vejle,5,1,-1.63
+pontevedra,5,1,-1.63
+ponta delgada,5,1,-1.63
+litomyšl,5,1,-1.63
+homberg,5,1,-1.63
+gorakhpur,5,1,-1.63
+zeulenroda-triebes,5,1,-1.63
+qingdao,5,1,-1.63
+atlantic,5,1,-1.63
+garfield,5,1,-1.63
+el reno,5,1,-1.63
+nogales,5,1,-1.63
+hollidaysburg,5,1,-1.63
+zabrze,5,1,-1.63
+pudsey,5,1,-1.63
+holden,5,1,-1.63
+berea,5,1,-1.63
+shizuoka prefecture,5,1,-1.63
+helensburgh,5,1,-1.63
+kitchener,16,8,-1.63
+lębork,5,1,-1.63
+umeå,5,1,-1.63
+halifax,33,21,-1.63
+gorton,5,1,-1.63
+nanticoke,5,1,-1.63
+connellsville,5,1,-1.63
+morioka,5,1,-1.63
+chorley,5,1,-1.63
+saint-mihiel,5,1,-1.63
+stadthagen,5,1,-1.63
+woodburn,5,1,-1.63
+chirk,5,1,-1.63
+jesi,5,1,-1.63
+bistriţa,5,1,-1.63
+palmyra,5,1,-1.63
+cosenza,5,1,-1.63
+sarpsborg,5,1,-1.63
+ta’if,5,1,-1.63
+cranbrook,5,1,-1.63
+pančevo,5,1,-1.63
+trutnov,5,1,-1.63
+châtillon-sur-seine,5,1,-1.63
+gusev,5,1,-1.63
+mitchell,5,1,-1.63
+winterset,5,1,-1.63
+muswell hill,5,1,-1.63
+tampico,5,1,-1.63
+seaham,5,1,-1.63
+pictou,5,1,-1.63
+cobh,5,1,-1.63
+kotor,5,1,-1.63
+nafplion,5,1,-1.63
+yamaguchi prefecture,5,1,-1.63
+morrison,5,1,-1.63
+cohoes,5,1,-1.63
+jarosław,5,1,-1.63
+moundsville,5,1,-1.63
+kłodzko,5,1,-1.63
+motueka,5,1,-1.63
+bathgate,5,1,-1.63
+colton,5,1,-1.63
+chesterfield county,5,1,-1.63
+bogalusa,5,1,-1.63
+kanagawa prefecture,5,1,-1.63
+södertälje,5,1,-1.63
+almelo,5,1,-1.63
+midnapore,5,1,-1.63
+jülich,5,1,-1.63
+otley,5,1,-1.63
+almería,5,1,-1.63
+weissenfels,16,8,-1.63
+brechin,5,1,-1.63
+new lexington,5,1,-1.63
+sandhurst,5,1,-1.63
+korçë,5,1,-1.63
+rovereto,5,1,-1.63
+rowan county,5,1,-1.63
+new richmond,5,1,-1.63
+grabow,5,1,-1.63
+komárom,5,1,-1.63
+diekirch,5,1,-1.63
+lee,5,1,-1.63
+kashan,5,1,-1.63
+mikulov,5,1,-1.63
+campbell,5,1,-1.63
+millersburg,5,1,-1.63
+sinop,5,1,-1.63
+algona,5,1,-1.63
+trujillo,5,1,-1.63
+minneapolis-st. paul,5,1,-1.63
+wellsville,5,1,-1.63
+miraj,5,1,-1.63
+yass,5,1,-1.63
+breckenridge,5,1,-1.63
+boone,5,1,-1.63
+lansingburgh,5,1,-1.63
+rheinfelden,5,1,-1.63
+autun,7,2,-1.67
+herzberg am harz,7,2,-1.67
+sweetwater,7,2,-1.67
+busto arsizio,7,2,-1.67
+kronach,7,2,-1.67
+briton ferry,7,2,-1.67
+kings norton,7,2,-1.67
+saumur,7,2,-1.67
+beatrice,7,2,-1.67
+bardstown,7,2,-1.67
+vitoria-gasteiz,7,2,-1.67
+asturias,7,2,-1.67
+saint-maur-des-fossés,7,2,-1.67
+sackets harbor,7,2,-1.67
+kolhapur,7,2,-1.67
+lleida,7,2,-1.67
+towanda,7,2,-1.67
+la flèche,7,2,-1.67
+schönbrunn palace,7,2,-1.67
+burgdorf,7,2,-1.67
+lismore,7,2,-1.67
+granite city,7,2,-1.67
+perleberg,7,2,-1.67
+cartago,7,2,-1.67
+sosnowiec,7,2,-1.67
+sittingbourne,7,2,-1.67
+irvington,7,2,-1.67
+saskatchewan,7,2,-1.67
+warrensburg,7,2,-1.67
+castlemaine,7,2,-1.67
+anne arundel county,7,2,-1.67
+staffordshire,19,10,-1.67
+ningbo,7,2,-1.67
+dutchess county,7,2,-1.67
+keswick,7,2,-1.67
+bisbee,7,2,-1.67
+biel/bienne,7,2,-1.67
+ulverston,7,2,-1.67
+cuneo,7,2,-1.67
+pori,7,2,-1.67
+st. johnsbury,7,2,-1.67
+étampes,7,2,-1.67
+tarboro,7,2,-1.67
+malbork,7,2,-1.67
+palestine,7,2,-1.67
+romford,7,2,-1.67
+schorndorf,7,2,-1.67
+westborough,7,2,-1.67
+lowestoft,7,2,-1.67
+faversham,7,2,-1.67
+roskilde,7,2,-1.67
+weilburg,7,2,-1.67
+katowice,27,16,-1.68
+colorado,27,16,-1.68
+béziers,12,5,-1.7
+dieppe,12,5,-1.7
+pocatello,12,5,-1.7
+groningen,31,19,-1.7
+lorain,12,5,-1.7
+udine,15,7,-1.71
+louisville,179,148,-1.71
+steubenville,22,12,-1.71
+ripley,15,7,-1.71
+mönchengladbach,15,7,-1.71
+tournai,15,7,-1.71
+pendleton,15,7,-1.71
+granada,26,15,-1.72
+andover,26,15,-1.72
+mount vernon,40,26,-1.72
+wakefield,40,26,-1.72
+birmingham,259,221,-1.73
+winnsboro,9,3,-1.73
+karlstad,9,3,-1.73
+talladega,9,3,-1.73
+troyes,18,9,-1.73
+la grange,9,3,-1.73
+yazoo city,9,3,-1.73
+opava,9,3,-1.73
+piacenza,18,9,-1.73
+basra,9,3,-1.73
+winona,9,3,-1.73
+montrose,18,9,-1.73
+griffin,9,3,-1.73
+perthshire,9,3,-1.73
+aligarh,9,3,-1.73
+loudoun county,9,3,-1.73
+palmer,9,3,-1.73
+bursa,9,3,-1.73
+essex county,9,3,-1.73
+penang,9,3,-1.73
+prince edward island,9,3,-1.73
+shkodër,9,3,-1.73
+halesowen,9,3,-1.73
+hopkinsville,9,3,-1.73
+wednesbury,9,3,-1.73
+verdun,9,3,-1.73
+pontoise,9,3,-1.73
+atchison,9,3,-1.73
+suzhou,9,3,-1.73
+north shields,9,3,-1.73
+wilkes-barre,30,18,-1.73
+stonington,9,3,-1.73
+finland,18,9,-1.73
+mckeesport,9,3,-1.73
+mckinney,9,3,-1.73
+legnica,18,9,-1.73
+saint joseph,29,17,-1.77
+hampton,21,11,-1.77
+evansville,29,17,-1.77
+potsdam,88,66,-1.77
+reims,29,17,-1.77
+dortmund,49,33,-1.77
+saint paul,95,72,-1.78
+hempstead,14,6,-1.79
+islington,33,20,-1.79
+dillenburg,14,6,-1.79
+norrköping,14,6,-1.79
+odense,14,6,-1.79
+pirmasens,14,6,-1.79
+norristown,17,8,-1.8
+rudolstadt,17,8,-1.8
+sharon,17,8,-1.8
+perth amboy,17,8,-1.8
+trento,17,8,-1.8
+gary,17,8,-1.8
+janesville,11,4,-1.81
+jönköping,11,4,-1.81
+sullivan,11,4,-1.81
+wolfenbüttel,28,16,-1.81
+ashfield,11,4,-1.81
+fulham,28,16,-1.81
+pontypool,11,4,-1.81
+gallatin,11,4,-1.81
+mansfield,37,23,-1.81
+maitland,11,4,-1.81
+fredericksburg,24,13,-1.81
+terre haute,28,16,-1.81
+torgau,11,4,-1.81
+crete,11,4,-1.81
+trinidad,11,4,-1.81
+waterbury,37,23,-1.81
+plainfield,28,16,-1.81
+senigallia,11,4,-1.81
+coimbra,24,13,-1.81
+rotherham,28,16,-1.81
+haiti,11,4,-1.81
+enniskillen,11,4,-1.81
+mons,11,4,-1.81
+milton,32,19,-1.82
+patras,32,19,-1.82
+angers,20,10,-1.83
+wiener neustadt,20,10,-1.83
+harrison,20,10,-1.83
+roanoke,20,10,-1.83
+cádiz,27,15,-1.85
+bochum,27,15,-1.85
+vicenza,27,15,-1.85
+koblenz,45,29,-1.86
+chester,61,42,-1.87
+wilmington,101,76,-1.88
+burgos,16,7,-1.88
+williamstown,16,7,-1.88
+olomouc,16,7,-1.88
+amarillo,16,7,-1.88
+dekalb,6,1,-1.89
+härnösand,6,1,-1.89
+dayton,79,57,-1.89
+bottrop,6,1,-1.89
+dawson,6,1,-1.89
+redfern,6,1,-1.89
+hyogo prefecture,6,1,-1.89
+salaberry-de-valleyfield,6,1,-1.89
+chingford,6,1,-1.89
+hódmezővásárhely,6,1,-1.89
+chojnice,6,1,-1.89
+coatesville,6,1,-1.89
+bluffton,6,1,-1.89
+collinsville,6,1,-1.89
+colón,6,1,-1.89
+comber,6,1,-1.89
+rogers,6,1,-1.89
+rivière-du-loup,6,1,-1.89
+santander,13,5,-1.89
+stafford county,6,1,-1.89
+crawford,6,1,-1.89
+dinan,6,1,-1.89
+cherokee county,6,1,-1.89
+reus,6,1,-1.89
+booneville,6,1,-1.89
+stargard szczeciński,6,1,-1.89
+hopewell,6,1,-1.89
+dinant,6,1,-1.89
+fraserburgh,6,1,-1.89
+saltcoats,6,1,-1.89
+peoria,44,28,-1.89
+gainsborough,6,1,-1.89
+värmland,6,1,-1.89
+hefei,6,1,-1.89
+saga prefecture,6,1,-1.89
+gedern,6,1,-1.89
+gladbeck,6,1,-1.89
+plovdiv,13,5,-1.89
+grand forks,6,1,-1.89
+harrison county,6,1,-1.89
+grave,6,1,-1.89
+gyula,6,1,-1.89
+haapsalu,6,1,-1.89
+hakodate,6,1,-1.89
+st. charles,6,1,-1.89
+hetton-le-hole,6,1,-1.89
+ratzeburg,6,1,-1.89
+forest city,6,1,-1.89
+rahway,6,1,-1.89
+ceuta,6,1,-1.89
+döbeln,6,1,-1.89
+hornsey,6,1,-1.89
+warwickshire,13,5,-1.89
+hallowell,6,1,-1.89
+varennes,6,1,-1.89
+eldorado,6,1,-1.89
+sterling,13,5,-1.89
+etna,6,1,-1.89
+fairfield county,6,1,-1.89
+"wallington, london",6,1,-1.89
+hillsdale,6,1,-1.89
+hillsborough,13,5,-1.89
+fontenay-le-comte,6,1,-1.89
+pontypridd,13,5,-1.89
+ross,6,1,-1.89
+zrenjanin,6,1,-1.89
+northumberland county,6,1,-1.89
+kremenets,6,1,-1.89
+worcester county,6,1,-1.89
+les cayes,6,1,-1.89
+belluno,6,1,-1.89
+kulmbach,6,1,-1.89
+southern rhodesia,6,1,-1.89
+la serena,6,1,-1.89
+khmelnytskyi,6,1,-1.89
+orenburg,6,1,-1.89
+barking,6,1,-1.89
+ardwick,6,1,-1.89
+southbridge,6,1,-1.89
+argentan,6,1,-1.89
+laramie,6,1,-1.89
+ohrid,6,1,-1.89
+kochi prefecture,6,1,-1.89
+shippensburg,6,1,-1.89
+logansport,13,5,-1.89
+kayseri,6,1,-1.89
+barakaldo,6,1,-1.89
+north melbourne,6,1,-1.89
+maui,13,5,-1.89
+mayagüez,6,1,-1.89
+kamianets-podilskyi,6,1,-1.89
+auch,6,1,-1.89
+blankenburg am harz,6,1,-1.89
+tanta,6,1,-1.89
+mount carmel,13,5,-1.89
+ahmednagar,6,1,-1.89
+benton,13,5,-1.89
+jelenia góra,6,1,-1.89
+airdrie,6,1,-1.89
+trapani,6,1,-1.89
+bishopwearmouth,6,1,-1.89
+monmouth,13,5,-1.89
+joinville,6,1,-1.89
+klatovy,6,1,-1.89
+kladno,6,1,-1.89
+michigan city,6,1,-1.89
+new market,6,1,-1.89
+mercersburg,6,1,-1.89
+mercer,6,1,-1.89
+owosso,6,1,-1.89
+lecce,6,1,-1.89
+american samoa,6,1,-1.89
+kaluga,6,1,-1.89
+ashley,6,1,-1.89
+bar-le-duc,8,2,-1.9
+jalisco,8,2,-1.9
+winnfield,8,2,-1.9
+vincennes,26,14,-1.9
+grenada,8,2,-1.9
+bremerhaven,8,2,-1.9
+viborg,8,2,-1.9
+bregenz,8,2,-1.9
+bainbridge,8,2,-1.9
+eschweiler,8,2,-1.9
+vladivostok,8,2,-1.9
+geraldton,8,2,-1.9
+chorlton-cum-hardy,8,2,-1.9
+corning,8,2,-1.9
+neumarkt in der oberpfalz,8,2,-1.9
+daugavpils,8,2,-1.9
+dillingen,8,2,-1.9
+whitby,8,2,-1.9
+thompson,8,2,-1.9
+niles,8,2,-1.9
+eccles,8,2,-1.9
+eilenburg,8,2,-1.9
+eisleben,8,2,-1.9
+castlebar,8,2,-1.9
+písek,8,2,-1.9
+nordhausen,8,2,-1.9
+putnam county,8,2,-1.9
+stendal,8,2,-1.9
+shoreham,8,2,-1.9
+tobolsk,8,2,-1.9
+lurgan,8,2,-1.9
+lunenburg,8,2,-1.9
+canonsburg,8,2,-1.9
+vršac,8,2,-1.9
+saco,8,2,-1.9
+haslingden,8,2,-1.9
+ryazan,8,2,-1.9
+oswestry,8,2,-1.9
+valparaiso,8,2,-1.9
+woodford county,8,2,-1.9
+kaufbeuren,8,2,-1.9
+bilston,8,2,-1.9
+uzhhorod,8,2,-1.9
+alkmaar,22,11,-1.91
+shanghai,77,55,-1.91
+clapham,22,11,-1.91
+lübeck,64,44,-1.92
+new castle,38,23,-1.92
+walla walla,10,3,-1.94
+schaerbeek,10,3,-1.94
+ware,10,3,-1.94
+argentina,29,16,-1.94
+perry,10,3,-1.94
+patna,10,3,-1.94
+osceola,10,3,-1.94
+rzeszów,10,3,-1.94
+nysa,10,3,-1.94
+shelby,10,3,-1.94
+seymour,10,3,-1.94
+glebe,10,3,-1.94
+plauen,10,3,-1.94
+san luis potosí,10,3,-1.94
+marblehead,10,3,-1.94
+tarnów,10,3,-1.94
+chalon-sur-saône,10,3,-1.94
+radom,10,3,-1.94
+waxahachie,10,3,-1.94
+amelia county,10,3,-1.94
+muskegon,10,3,-1.94
+clonmel,10,3,-1.94
+chios,10,3,-1.94
+smithfield,10,3,-1.94
+grenoble,25,13,-1.95
+rostock,37,22,-1.95
+krefeld,25,13,-1.95
+harlem,25,13,-1.95
+arad,18,8,-1.96
+west virginia,15,6,-1.96
+meriden,18,8,-1.96
+logan,18,8,-1.96
+carlton,15,6,-1.96
+zwolle,18,8,-1.96
+dumfries,18,8,-1.96
+stralsund,15,6,-1.96
+stockton-on-tees,15,6,-1.96
+siegen,21,10,-1.98
+rock island,21,10,-1.98
+westfield,21,10,-1.98
+mosul,21,10,-1.98
+jersey city,85,61,-1.99
+worthington,12,4,-2.0
+chile,12,4,-2.0
+minneapolis,144,112,-2.0
+kortrijk,12,4,-2.0
+centralia,12,4,-2.0
+petersham,12,4,-2.0
+bulgaria,12,4,-2.0
+savona,12,4,-2.0
+essen,60,40,-2.0
+warrington,12,4,-2.0
+zaragoza,27,14,-2.03
+antwerp,185,148,-2.03
+sicily,20,9,-2.04
+valparaíso,20,9,-2.04
+reggio emilia,14,5,-2.06
+bury,14,5,-2.06
+groton,14,5,-2.06
+bloomfield,14,5,-2.06
+neuwied,14,5,-2.06
+brzeg,14,5,-2.06
+samara,14,5,-2.06
+new bedford,23,11,-2.06
+schaffhausen,14,5,-2.06
+hanover,207,167,-2.07
+leeds,92,66,-2.07
+maryland,42,25,-2.08
+kazan,26,13,-2.08
+utica,51,32,-2.09
+carlisle,33,18,-2.1
+norwich,90,64,-2.1
+badajoz,9,2,-2.11
+fillmore,9,2,-2.11
+hancock county,9,2,-2.11
+geneseo,9,2,-2.11
+sundsvall,9,2,-2.11
+avon,9,2,-2.11
+cherokee,9,2,-2.11
+louisa county,9,2,-2.11
+danville,41,24,-2.11
+darlington,29,15,-2.11
+matanzas,9,2,-2.11
+jonesborough,9,2,-2.11
+wiesbaden-biebrich,9,2,-2.11
+norton,9,2,-2.11
+northamptonshire,9,2,-2.11
+gorinchem,9,2,-2.11
+colfax,9,2,-2.11
+iserlohn,9,2,-2.11
+adams county,9,2,-2.11
+bessemer,9,2,-2.11
+bideford,9,2,-2.11
+anklam,9,2,-2.11
+prenzlau,9,2,-2.11
+christiansborg palace,9,2,-2.11
+brookhaven,9,2,-2.11
+wales,29,15,-2.11
+sedalia,9,2,-2.11
+charles county,7,1,-2.12
+carrara,7,1,-2.12
+hell hole,7,1,-2.12
+provins,7,1,-2.12
+carter county,7,1,-2.12
+hubbard,7,1,-2.12
+mechelen,19,8,-2.12
+forst,7,1,-2.12
+port glasgow,7,1,-2.12
+tikrit,7,1,-2.12
+hunterdon county,7,1,-2.12
+wisbech,7,1,-2.12
+kampen,7,1,-2.12
+whitechapel,7,1,-2.12
+brenham,7,1,-2.12
+eatonton,7,1,-2.12
+prilep,7,1,-2.12
+catanzaro,7,1,-2.12
+faisalabad,7,1,-2.12
+catford,7,1,-2.12
+lower east side,7,1,-2.12
+bridgeville,7,1,-2.12
+royalton,7,1,-2.12
+"poplar, london",7,1,-2.12
+capua,7,1,-2.12
+barnesville,7,1,-2.12
+gori,7,1,-2.12
+rockhampton,7,1,-2.12
+deptford,7,1,-2.12
+morpeth,7,1,-2.12
+lee county,7,1,-2.12
+saxony,7,1,-2.12
+circleville,7,1,-2.12
+aguadilla,7,1,-2.12
+saint-malo,19,8,-2.12
+sumter county,7,1,-2.12
+west hartlepool,7,1,-2.12
+hednesford,7,1,-2.12
+highbury,7,1,-2.12
+coleman,7,1,-2.12
+laupheim,7,1,-2.12
+clark county,7,1,-2.12
+velikiy novgorod,7,1,-2.12
+witten,7,1,-2.12
+langres,7,1,-2.12
+muscatine,7,1,-2.12
+landskrona,7,1,-2.12
+verchères,7,1,-2.12
+greiz,7,1,-2.12
+como,19,8,-2.12
+galaţi,7,1,-2.12
+darmstadt,108,79,-2.12
+seneca falls,7,1,-2.12
+south norwood,7,1,-2.12
+zacatecas,7,1,-2.12
+fujian,7,1,-2.12
+wörlitz,7,1,-2.12
+liptovský mikuláš,7,1,-2.12
+athol,7,1,-2.12
+novocherkassk,7,1,-2.12
+fredrikstad,7,1,-2.12
+gadsden,7,1,-2.12
+aurillac,7,1,-2.12
+singleton,7,1,-2.12
+neu-ulm,7,1,-2.12
+lewisham,22,10,-2.12
+bishop's stortford,7,1,-2.12
+saint kitts,7,1,-2.12
+alappuzha,7,1,-2.12
+koszalin,7,1,-2.12
+hrodna,16,6,-2.13
+salerno,16,6,-2.13
+texarkana,16,6,-2.13
+"mayfair, london",16,6,-2.13
+naumburg,16,6,-2.13
+coldwater,11,3,-2.14
+surabaya,11,3,-2.14
+south dakota,11,3,-2.14
+chartres,11,3,-2.14
+heraklion,11,3,-2.14
+ilkeston,11,3,-2.14
+worcestershire,11,3,-2.14
+montbéliard,11,3,-2.14
+caroline county,11,3,-2.14
+brantford,11,3,-2.14
+osnabrück,40,23,-2.14
+long island city,11,3,-2.14
+logan county,11,3,-2.14
+kaliningrad,13,4,-2.18
+niš,13,4,-2.18
+maysville,13,4,-2.18
+leith,13,4,-2.18
+przemyśl,13,4,-2.18
+"altona, hamburg",13,4,-2.18
+cuenca,13,4,-2.18
+smethwick,13,4,-2.18
+veliko tarnovo,13,4,-2.18
+ontario,47,28,-2.19
+spokane,47,28,-2.19
+north carolina,31,16,-2.19
+carthage,18,7,-2.2
+bridgeport,56,35,-2.2
+nijmegen,18,7,-2.2
+timişoara,18,7,-2.2
+racine,18,7,-2.2
+hildesheim,27,13,-2.21
+bridgewater,15,5,-2.24
+kent county,15,5,-2.24
+smyrna,30,15,-2.24
+tver,15,5,-2.24
+bourges,15,5,-2.24
+trier,26,12,-2.27
+staunton city,20,8,-2.27
+kiev,122,89,-2.27
+pistoia,20,8,-2.27
+greenfield,20,8,-2.27
+butler,17,6,-2.29
+a coruña,17,6,-2.29
+pittsburg,17,6,-2.29
+duisburg,36,19,-2.29
+westmoreland county,17,6,-2.29
+flensburg,29,14,-2.29
+newcastle,29,14,-2.29
+waterville,17,6,-2.29
+methuen,10,2,-2.31
+asti,10,2,-2.31
+ambala,10,2,-2.31
+mendon,10,2,-2.31
+wexford,10,2,-2.31
+denison,10,2,-2.31
+linden,10,2,-2.31
+broken hill,10,2,-2.31
+kolín,10,2,-2.31
+clarksdale,10,2,-2.31
+grimma,10,2,-2.31
+laurens,10,2,-2.31
+sussex county,10,2,-2.31
+brody,10,2,-2.31
+morley,10,2,-2.31
+homestead,10,2,-2.31
+morelia,10,2,-2.31
+cortland,10,2,-2.31
+rutherford county,10,2,-2.31
+oława,10,2,-2.31
+alençon,10,2,-2.31
+miskolc,10,2,-2.31
+albion,10,2,-2.31
+tilburg,10,2,-2.31
+paramaribo,10,2,-2.31
+humboldt,10,2,-2.31
+pike county,10,2,-2.31
+ludlow,10,2,-2.31
+kragujevac,10,2,-2.31
+meerut,12,3,-2.32
+lorient,12,3,-2.32
+grand rapids,56,34,-2.32
+spencer,12,3,-2.32
+kołobrzeg,12,3,-2.32
+alsace,12,3,-2.32
+fall river,39,21,-2.32
+chambersburg,12,3,-2.32
+schwedt,12,3,-2.32
+maryborough,8,1,-2.33
+horsens,8,1,-2.33
+macerata,8,1,-2.33
+bridgwater,8,1,-2.33
+chippewa falls,8,1,-2.33
+cedarville,8,1,-2.33
+eastwood,8,1,-2.33
+niasviž,8,1,-2.33
+bengal,8,1,-2.33
+saint-gilles,8,1,-2.33
+lincolnton,8,1,-2.33
+stoughton,8,1,-2.33
+serbia,8,1,-2.33
+pekin,8,1,-2.33
+pella,8,1,-2.33
+bethnal green,8,1,-2.33
+thurles,8,1,-2.33
+poděbrady,8,1,-2.33
+čačak,8,1,-2.33
+fayette,8,1,-2.33
+mount olive,8,1,-2.33
+mahanoy city,8,1,-2.33
+forfar,8,1,-2.33
+kleinheubach,8,1,-2.33
+hämeenlinna,8,1,-2.33
+acton,8,1,-2.33
+randolph county,8,1,-2.33
+honesdale,8,1,-2.33
+romania,22,9,-2.33
+honfleur,8,1,-2.33
+adana,8,1,-2.33
+clarksville,22,9,-2.33
+rushville,8,1,-2.33
+roslyn,8,1,-2.33
+hamilton county,8,1,-2.33
+nowy sącz,8,1,-2.33
+webster,8,1,-2.33
+ferndale,8,1,-2.33
+galena,8,1,-2.33
+weiden in der oberpfalz,8,1,-2.33
+catania,28,13,-2.34
+new albany,19,7,-2.35
+vilnius,64,40,-2.35
+summit,19,7,-2.35
+akron,55,33,-2.35
+seville,90,61,-2.36
+ogden,31,15,-2.36
+lynn,38,20,-2.36
+russellville,14,4,-2.36
+sopron,14,4,-2.36
+bishop auckland,14,4,-2.36
+ashton-under-lyne,14,4,-2.36
+dartmouth,14,4,-2.36
+oskaloosa,14,4,-2.36
+streatham,14,4,-2.36
+independence,31,15,-2.36
+dunkirk,14,4,-2.36
+leicester,54,32,-2.37
+lowell,54,32,-2.37
+washington,63,39,-2.38
+bernburg,16,5,-2.4
+speyer,16,5,-2.4
+shimla,16,5,-2.4
+kingston,104,72,-2.41
+frankfurt,266,213,-2.42
+dordrecht,33,16,-2.43
+williamsburg,33,16,-2.43
+york,80,52,-2.44
+monticello,18,6,-2.45
+elizabeth,36,18,-2.45
+charlestown,36,18,-2.45
+east st. louis,18,6,-2.45
+veracruz,18,6,-2.45
+guadalajara,43,23,-2.46
+haverhill,23,9,-2.47
+warren,29,13,-2.47
+tennessee,26,11,-2.47
+saratov,23,9,-2.47
+liège,55,32,-2.47
+osaka,29,13,-2.47
+macon,50,28,-2.49
+nancy,50,28,-2.49
+winnipeg,98,66,-2.5
+chernyakhovsk,11,2,-2.5
+segovia,11,2,-2.5
+cecil county,13,3,-2.5
+barnsley,20,7,-2.5
+albemarle county,11,2,-2.5
+saint-quentin,11,2,-2.5
+jackson county,13,3,-2.5
+drammen,13,3,-2.5
+pirna,11,2,-2.5
+dumbarton,11,2,-2.5
+neuchâtel,11,2,-2.5
+irkutsk,11,2,-2.5
+omsk,11,2,-2.5
+laon,11,2,-2.5
+herne,11,2,-2.5
+rhode island,11,2,-2.5
+marshalltown,11,2,-2.5
+lewistown,13,3,-2.5
+moline,13,3,-2.5
+collingwood,11,2,-2.5
+mogilev,11,2,-2.5
+genoa,92,61,-2.51
+granville,15,4,-2.52
+tipton,15,4,-2.52
+long branch,15,4,-2.52
+gottorp,15,4,-2.52
+jalandhar,15,4,-2.52
+liepāja,15,4,-2.52
+mount morris,9,1,-2.53
+nainital,9,1,-2.53
+dubrovnik,28,12,-2.53
+stara zagora,9,1,-2.53
+dulwich,9,1,-2.53
+iași,31,14,-2.53
+kalmar,9,1,-2.53
+east ham,9,1,-2.53
+morris,9,1,-2.53
+farmington,31,14,-2.53
+sanok,9,1,-2.53
+penza,9,1,-2.53
+halifax county,9,1,-2.53
+pinsk,9,1,-2.53
+guben,9,1,-2.53
+pompey,9,1,-2.53
+delaware county,9,1,-2.53
+pomfret,9,1,-2.53
+somerset county,9,1,-2.53
+shoreditch,9,1,-2.53
+rockingham county,9,1,-2.53
+"acton, london",9,1,-2.53
+šabac,9,1,-2.53
+tipperary,9,1,-2.53
+ansbach,45,24,-2.53
+lancaster county,9,1,-2.53
+surry hills,9,1,-2.53
+canada,65,39,-2.55
+south bend,34,16,-2.55
+beckenham,17,5,-2.56
+cumberland,17,5,-2.56
+nottinghamshire,17,5,-2.56
+arezzo,22,8,-2.56
+portsmouth,121,84,-2.58
+strasbourg,115,79,-2.58
+marion,40,20,-2.58
+córdoba,47,25,-2.59
+edinburgh,268,211,-2.6
+braunschweig,108,73,-2.6
+elmira,27,11,-2.6
+woolwich,19,6,-2.6
+zweibrücken,19,6,-2.6
+arkansas,24,9,-2.61
+nîmes,24,9,-2.61
+ghent,62,36,-2.63
+austria,35,16,-2.66
+ivano-frankivsk,14,3,-2.67
+kherson,12,2,-2.67
+warren county,12,2,-2.67
+wallasey,12,2,-2.67
+fort dodge,12,2,-2.67
+connecticut,38,18,-2.67
+šibenik,14,3,-2.67
+kilkenny,14,3,-2.67
+bytom,12,2,-2.67
+zadar,12,2,-2.67
+mason county,12,2,-2.67
+częstochowa,12,2,-2.67
+bielsko-biała,12,2,-2.67
+clinton,45,23,-2.67
+oberhausen,12,2,-2.67
+casale monferrato,12,2,-2.67
+brixton,14,3,-2.67
+"edmonton, london",16,4,-2.68
+rouen,52,28,-2.68
+pula,16,4,-2.68
+elbląg,16,4,-2.68
+hartford,125,86,-2.68
+zittau,10,1,-2.71
+gorzów wielkopolski,10,1,-2.71
+belmont county,10,1,-2.71
+maesteg,10,1,-2.71
+prostějov,10,1,-2.71
+constantine,10,1,-2.71
+crawfordsville,18,5,-2.71
+drohobych,10,1,-2.71
+motherwell,10,1,-2.71
+adams,10,1,-2.71
+whitwell,10,1,-2.71
+cass county,10,1,-2.71
+eger,10,1,-2.71
+surat,10,1,-2.71
+kokomo,10,1,-2.71
+mykolaiv,10,1,-2.71
+wheeling,37,17,-2.72
+jelgava,20,6,-2.75
+nantes,43,21,-2.75
+west point,20,6,-2.75
+minsk,43,21,-2.75
+winterthur,20,6,-2.75
+scranton,50,26,-2.75
+varanasi,20,6,-2.75
+ayr,20,6,-2.75
+salford,30,12,-2.78
+constantinople,92,58,-2.78
+merthyr tydfil,22,7,-2.79
+verona,68,39,-2.8
+sheffield,105,68,-2.81
+pécs,15,3,-2.83
+cetinje,15,3,-2.83
+meridian,24,8,-2.83
+cheshire,24,8,-2.83
+palace of versailles,38,17,-2.83
+kilmarnock,15,3,-2.83
+kuopio,15,3,-2.83
+sandwich,15,3,-2.83
+tsarskoye selo,13,2,-2.84
+durango,17,4,-2.84
+scott county,13,2,-2.84
+württemberg,13,2,-2.84
+frederick county,13,2,-2.84
+charlottenburg,41,19,-2.84
+millville,13,2,-2.84
+shiraz,13,2,-2.84
+arbroath,13,2,-2.84
+zhytomyr,13,2,-2.84
+wessex,13,2,-2.84
+berkeley county,13,2,-2.84
+oran,13,2,-2.84
+douai,17,4,-2.84
+rockbridge county,13,2,-2.84
+stavanger,13,2,-2.84
+newry,13,2,-2.84
+northumberland,17,4,-2.84
+youngstown,44,21,-2.85
+valenciennes,19,5,-2.86
+dessau,58,31,-2.86
+delaware,19,5,-2.86
+iran,19,5,-2.86
+bay city,19,5,-2.86
+lodi,19,5,-2.86
+lincoln county,19,5,-2.86
+görlitz,26,9,-2.87
+belarus,11,1,-2.89
+kassel,91,56,-2.89
+płock,11,1,-2.89
+ganja,11,1,-2.89
+cesena,11,1,-2.89
+astrakhan,11,1,-2.89
+indianola,11,1,-2.89
+brunswick county,11,1,-2.89
+walthamstow,11,1,-2.89
+corleone,11,1,-2.89
+klaipėda,11,1,-2.89
+la chaux-de-fonds,11,1,-2.89
+huesca,11,1,-2.89
+kostroma,11,1,-2.89
+henry county,11,1,-2.89
+halberstadt,21,6,-2.89
+chernihiv,11,1,-2.89
+tambov,11,1,-2.89
+lyons,11,1,-2.89
+kyoto,57,30,-2.89
+leominster,11,1,-2.89
+dundee,53,27,-2.91
+brownsville,23,7,-2.92
+meissen,28,10,-2.92
+lincolnshire,23,7,-2.92
+albany,113,73,-2.93
+norfolk,83,49,-2.96
+greenwood,30,11,-2.97
+oulu,16,3,-2.98
+győr,16,3,-2.98
+galway,18,4,-2.98
+sutton,18,4,-2.98
+arequipa,16,3,-2.98
+rijeka,18,4,-2.98
+kaunas,27,9,-3.0
+emporia,14,2,-3.0
+franklin,54,27,-3.0
+wilhelmshaven,27,9,-3.0
+st. marys,14,2,-3.0
+montgomery county,27,9,-3.0
+ajaccio,14,2,-3.0
+superior,14,2,-3.0
+liberty,14,2,-3.0
+newcastle upon tyne,72,40,-3.02
+shenandoah,12,1,-3.05
+kirovohrad,12,1,-3.05
+ludhiana,12,1,-3.05
+szombathely,12,1,-3.05
+gera,12,1,-3.05
+hopkinton,12,1,-3.05
+vyborg,24,7,-3.05
+łódź,63,33,-3.06
+palermo,95,57,-3.08
+lille,36,14,-3.11
+kharkiv,48,22,-3.11
+lublin,28,9,-3.12
+szeged,19,4,-3.13
+livorno,33,12,-3.13
+craiova,17,3,-3.13
+solingen,19,4,-3.13
+hamm,19,4,-3.13
+port arthur,17,3,-3.13
+amberg,19,4,-3.13
+fauquier county,17,3,-3.13
+schwäbisch gmünd,15,2,-3.15
+monroe county,15,2,-3.15
+mecca,23,6,-3.16
+astoria,23,6,-3.16
+kansas city,170,116,-3.19
+marseille,103,62,-3.19
+trieste,66,34,-3.2
+buffalo,181,125,-3.2
+okayama,13,1,-3.21
+roubaix,13,1,-3.21
+newburgh,27,8,-3.21
+ulyanovsk,13,1,-3.21
+trabzon,13,1,-3.21
+popayán,13,1,-3.21
+newburyport,29,9,-3.24
+charleston,153,101,-3.26
+tripoli,22,5,-3.27
+burslem,20,4,-3.27
+zwickau,22,5,-3.27
+poltava,24,6,-3.29
+butler county,16,2,-3.3
+riga,102,60,-3.3
+carroll county,16,2,-3.3
+taganrog,26,7,-3.31
+hanau,28,8,-3.33
+leeuwarden,28,8,-3.33
+texas,65,32,-3.35
+bedford county,14,1,-3.36
+balmain,14,1,-3.36
+racibórz,14,1,-3.36
+hydra,14,1,-3.36
+świdnica,14,1,-3.36
+olsztyn,14,1,-3.36
+windham,14,1,-3.36
+aston,14,1,-3.36
+karlskrona,14,1,-3.36
+gatchina,14,1,-3.36
+bydgoszcz,21,4,-3.4
+shelbyville,21,4,-3.4
+omaha,93,52,-3.4
+waterford,25,6,-3.41
+bautzen,19,3,-3.41
+germany,185,125,-3.41
+bendigo,19,3,-3.41
+aberdeen,84,45,-3.43
+orléans,27,7,-3.43
+battersea,17,2,-3.44
+fayette county,17,2,-3.44
+mühlhausen,17,2,-3.44
+johnstown,29,8,-3.45
+boston,644,526,-3.45
+bristol,154,99,-3.46
+minnesota,31,9,-3.48
+"fort william, ontario",15,1,-3.5
+attleboro,15,1,-3.5
+neuruppin,15,1,-3.5
+hungary,46,18,-3.5
+culpeper county,15,1,-3.5
+yaroslavl,15,1,-3.5
+michigan,46,18,-3.5
+osijek,15,1,-3.5
+sovetsk,15,1,-3.5
+chernivtsi,24,5,-3.53
+joplin,24,5,-3.53
+ballarat,26,6,-3.54
+madison county,20,3,-3.54
+mulhouse,20,3,-3.54
+dunfermline,26,6,-3.54
+nizhny novgorod,28,7,-3.55
+sri lanka,45,17,-3.56
+thessaloniki,42,15,-3.58
+new britain,18,2,-3.58
+lawrenceburg,18,2,-3.58
+india,82,42,-3.59
+kansas,32,9,-3.59
+rosario,34,10,-3.62
+marion county,16,1,-3.64
+kutaisi,16,1,-3.64
+greenock,23,4,-3.66
+tula,23,4,-3.66
+le havre,29,7,-3.67
+rennes,29,7,-3.67
+roxbury,48,18,-3.69
+milwaukee,167,106,-3.69
+shelby county,19,2,-3.71
+south shields,19,2,-3.71
+greene county,19,2,-3.71
+sunderland,40,13,-3.71
+sialkot,19,2,-3.71
+chester county,19,2,-3.71
+ilford,17,1,-3.77
+worms,26,5,-3.77
+cumberland county,17,1,-3.77
+aarhus,30,7,-3.78
+voronezh,30,7,-3.78
+tabriz,30,7,-3.78
+georgia,57,23,-3.8
+białystok,20,2,-3.84
+somerville,59,24,-3.84
+troy,68,30,-3.84
+plymouth,98,51,-3.85
+kagoshima,27,5,-3.89
+zanesville,29,6,-3.89
+birkenhead,31,7,-3.89
+clermont-ferrand,18,1,-3.9
+cincinnati,311,221,-3.9
+oradea,25,4,-3.9
+west ham,18,1,-3.9
+dijon,47,16,-3.91
+south carolina,39,11,-3.96
+malden,21,2,-3.96
+buckingham palace,21,2,-3.96
+erfurt,48,16,-4.0
+canton,66,27,-4.04
+grafton,24,3,-4.04
+lancashire,38,10,-4.04
+limoges,24,3,-4.04
+hamilton,109,57,-4.04
+bordeaux,75,33,-4.04
+amritsar,24,3,-4.04
+bolton,47,15,-4.06
+russia,126,69,-4.08
+jefferson county,33,7,-4.11
+louisiana,31,6,-4.11
+poznań,70,29,-4.12
+yorkshire,51,17,-4.12
+cleveland,313,217,-4.17
+bradford,86,39,-4.2
+"city of preston, lancashire",32,6,-4.22
+fürth,30,5,-4.23
+poland,82,36,-4.23
+massachusetts,85,38,-4.24
+watertown,42,11,-4.26
+lithuania,21,1,-4.26
+ukraine,44,12,-4.28
+paterson,52,16,-4.37
+lyon,126,65,-4.41
+pilsen,25,2,-4.43
+paisley,32,5,-4.44
+limerick,39,8,-4.52
+wisconsin,39,8,-4.52
+oklahoma,41,9,-4.53
+szczecin,66,23,-4.56
+kingston upon hull,61,20,-4.56
+bayonne,42,9,-4.62
+washington county,34,5,-4.64
+virginia,86,35,-4.64
+cork,57,17,-4.65
+indiana,55,15,-4.78
+dnipropetrovsk,32,3,-4.9
+nebraska,27,1,-4.91
+brno,74,25,-4.92
+besançon,33,3,-5.0
+dublin,355,233,-5.03
+manchester,192,103,-5.18
+franklin county,33,2,-5.24
+lviv,122,52,-5.31
+mississippi,43,5,-5.48
+chemnitz,46,6,-5.55
+magdeburg,96,33,-5.55
+elberfeld,42,4,-5.6
+pittsburgh,331,201,-5.64
+the bronx,153,69,-5.64
+mannheim,100,34,-5.7
+belfast,132,54,-5.72
+scotland,136,56,-5.77
+st. louis,491,324,-5.85
+metz,69,14,-6.04
+wrocław,224,113,-6.05
+gdańsk,112,37,-6.14
+iowa,52,2,-6.8
+grand palace,53,2,-6.88
+pennsylvania,118,33,-6.92
+missouri,73,10,-6.92
+kentucky,75,9,-7.2
+odessa,116,29,-7.22
+rotterdam,137,39,-7.39
+newark,186,67,-7.48
+königsberg,154,47,-7.55
+liverpool,229,89,-7.85
+glasgow,253,102,-8.01
+illinois,115,21,-8.06
+chicago,1213,834,-8.38
+russian empire,86,4,-8.64
+ireland,136,21,-9.18
+philadelphia,1135,688,-10.47
+brooklyn,910,267,-18.74
